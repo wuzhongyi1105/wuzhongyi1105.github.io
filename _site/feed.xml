@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>瓠樽</title>
+    <description>以瓠為樽而浮乎江湖</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Japanese vertical book sample</title>
+        <description>&lt;div class=&quot;gap-after&quot;&gt;使用するマークダウンエンジンによって出力するHTMLはまちまちなので、このサンプルでは基本的なマークダウン文法を除いて、生のHTMLをハードコーディングしている箇所もあります。&lt;/div&gt;
+
+&lt;h3 id=&quot;ルビ回り込み傍点圏点など&quot;&gt;ルビ、回り込み、傍点、圏点など&lt;/h3&gt;
+
+&lt;div class=&quot;drop-caps&quot;&gt;表示機能をテストするために作ったエントリです。内容に特に意味はありません。表示機能をテストするために作ったエントリです。内容に特に意味はありません。表示機能をテストするために作ったエントリです。内容に特に意味はありません。&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/tb-brand.png&quot; width=&quot;100&quot; height=&quot;100&quot; class=&quot;float-start disp-block gap-end&quot; /&gt;
+日本国民は正当に選挙された国会における代表者を通じて行動し、われらとわれらの子孫のために、諸国民との協和による成果と、わが国全土にわたって自由のもたらす&lt;ruby&gt;&lt;rb&gt;恵沢&lt;/rb&gt;&lt;rt&gt;けいたく&lt;/rt&gt;&lt;/ruby&gt;を確保し、政府の行為によって再び&lt;ruby&gt;&lt;rb&gt;戦争&lt;/rb&gt;&lt;rt&gt;せんそう&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;&lt;rb&gt;惨禍&lt;/rb&gt;&lt;rt&gt;さんか&lt;/rt&gt;&lt;/ruby&gt;が起ることのないやうにすることを決意。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/tb-brand.png&quot; width=&quot;100&quot; height=&quot;100&quot; class=&quot;disp-block float-end&quot; /&gt;
+日本国民は正当に&lt;ruby&gt;選挙&lt;rt&gt;せんきょ&lt;/rt&gt;&lt;/ruby&gt;された国会における代表者を通じて行動し、&lt;span class=&quot;empha-sesame-filled&quot;&gt;われら&lt;/span&gt;と&lt;span class=&quot;empha-double-circle-filled&quot;&gt;われら&lt;/span&gt;の&lt;ruby&gt;&lt;rb&gt;子孫&lt;/rb&gt;&lt;rt&gt;しそん&lt;/rt&gt;&lt;/ruby&gt;のために、諸国民との協和による成果と、わが国全土にわたって自由のもたらす&lt;ruby&gt;&lt;rb&gt;恵沢&lt;/rb&gt;&lt;rt&gt;けいたく&lt;/rt&gt;&lt;/ruby&gt;を確保する。&lt;/p&gt;
+
+&lt;h3 class=&quot;break-before&quot;&gt;混合レイアウト&lt;/h3&gt;
+
+&lt;div&gt;&lt;img src=&quot;http://www.gravatar.com/avatar/cc261502060d214e7c482da86be35de3?s=128&amp;amp;d=identicon&quot; width=&quot;100&quot; height=&quot;100&quot; class=&quot;float-start gap-end disp-block&quot; /&gt;日本国民は正当に&lt;ruby&gt;選挙&lt;rt&gt;せんきょ&lt;/rt&gt;&lt;/ruby&gt;された国会における代表者を通じて行動し、われらとわれらの&lt;ruby&gt;&lt;rb&gt;子孫&lt;/rb&gt;&lt;rt&gt;しそん&lt;/rt&gt;&lt;/ruby&gt;のために、諸国民との協和による成果と、わが国全土にわたって自由のもたらす&lt;ruby&gt;&lt;rb&gt;恵沢&lt;/rb&gt;&lt;rt&gt;けいたく&lt;/rt&gt;&lt;/ruby&gt;を確保&lt;/div&gt;
+
+&lt;div class=&quot;flow-flip gap-after&quot;&gt;lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/div&gt;
+
+&lt;h3 id=&quot;テーブルのページ送り&quot;&gt;テーブルのページ送り&lt;/h3&gt;
+
+&lt;table class=&quot;gap-after&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;&lt;th&gt;head1&lt;/th&gt;&lt;th&gt;head2&lt;/th&gt;&lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;ruby&gt;日本&lt;rt&gt;にほん&lt;/rt&gt;&lt;/ruby&gt;国民は正当に&lt;span class=&quot;xx-large&quot;&gt;&lt;ruby&gt;選挙&lt;rt&gt;せんきょ&lt;/rt&gt;&lt;/ruby&gt;&lt;/span&gt;された&lt;ruby&gt;国会&lt;rt&gt;こっかい&lt;/rt&gt;&lt;/ruby&gt;における代表者を通じて行動し、われらとわれらの&lt;ruby&gt;&lt;rb&gt;子孫&lt;/rb&gt;&lt;rt&gt;しそん&lt;/rt&gt;&lt;/ruby&gt;のために、諸国民との協和による成果と、わが国全土にわたって自由のもたらす&lt;ruby&gt;&lt;rb&gt;恵沢&lt;/rb&gt;&lt;rt&gt;けいたく&lt;/rt&gt;&lt;/ruby&gt;を確保し、政府の行為によって再び&lt;ruby&gt;&lt;rb&gt;戦争&lt;/rb&gt;&lt;rt&gt;せんそう&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;&lt;rb&gt;惨禍&lt;/rb&gt;&lt;rt&gt;さんか&lt;/rt&gt;&lt;/ruby&gt;が起ることのないやうにすることを決意し、ここに&lt;ruby&gt;&lt;rb&gt;主権&lt;/rb&gt;&lt;rt&gt;しゅけん&lt;/rt&gt;&lt;/ruby&gt;が国民に存することを宣言し、この憲法を確定する。&lt;/td&gt;&lt;td&gt;body2&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tr&gt;&lt;td&gt;body3&lt;/td&gt;&lt;td&gt;body4&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;body5&lt;/td&gt;&lt;td&gt;body6&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;body7&lt;/td&gt;&lt;td&gt;body8&lt;/td&gt;&lt;/tr&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;&lt;td&gt;foot1&lt;/td&gt;&lt;td&gt;foot2&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tfoot&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;順序なしリスト&quot;&gt;順序なしリスト&lt;/h3&gt;
+&lt;ul class=&quot;gap-after&quot;&gt;
+&lt;li&gt;あいうえおあいうえおあいうえおあいうえおあいうえお&lt;/li&gt;
+&lt;li&gt;かきくけこかきくけこかきくけこかきくけこかきくけこ&lt;/li&gt;
+&lt;li&gt;さしすせそさしすせそさしすせそさしすせそさしすせそ&lt;/li&gt;
+&lt;li&gt;たちつてとたちつてとたちつてとたちつてとたちつてと&lt;/li&gt;
+&lt;li&gt;なにぬねのなにぬねのなにぬねのなにぬねのなにぬねの&lt;/li&gt;
+&lt;li&gt;はまやらわはまやらわはまやらわはまやらわはまやらわ&lt;/li&gt;
+&lt;li&gt;まみむめもまみむめもまみむめもまみむめもまみむめも&lt;/li&gt;
+&lt;li&gt;やゆよやゆよやゆよやゆよやゆよやゆよやゆよやゆよ&lt;/li&gt;
+&lt;li&gt;らりるれろらりるれろらりるれろらりるれろらりるれろ&lt;/li&gt;
+&lt;li&gt;わをんわをんわをんわをんわをんわをんわをんわをん&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;順序リスト&quot;&gt;順序リスト&lt;/h3&gt;
+&lt;ol class=&quot;gap-after&quot;&gt;
+&lt;li&gt;あいうえおあいうえおあいうえおあいうえおあいうえお&lt;/li&gt;
+&lt;li&gt;かきくけこかきくけこかきくけこかきくけこかきくけこ&lt;/li&gt;
+&lt;li&gt;さしすせそさしすせそさしすせそさしすせそさしすせそ&lt;/li&gt;
+&lt;li&gt;&lt;ol class=&quot;lst-lower-alpha&quot;&gt;
+&lt;li&gt;たちつてとたちつてとたちつてとたちつてとたちつてと&lt;/li&gt;
+&lt;li&gt;なにぬねのなにぬねのなにぬねのなにぬねのなにぬねの&lt;/li&gt;
+&lt;li&gt;はまやらわはまやらわはまやらわはまやらわはまやらわ&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;まみむめもまみむめもまみむめもまみむめもまみむめも&lt;/li&gt;
+&lt;li&gt;やゆよやゆよやゆよやゆよやゆよやゆよやゆよやゆよ&lt;/li&gt;
+&lt;li&gt;らりるれろらりるれろらりるれろらりるれろらりるれろ&lt;/li&gt;
+&lt;li&gt;わをんわをんわをんわをんわをんわをんわをんわをん&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;縦中横&quot;&gt;縦中横&lt;/h3&gt;
+
+&lt;div class=&quot;gap-after&quot;&gt;平成&lt;span class=&quot;tcy&quot;&gt;25&lt;/span&gt;年&lt;span class=&quot;tcy&quot;&gt;1&lt;/span&gt;月&lt;span class=&quot;tcy&quot;&gt;10&lt;/span&gt;日&lt;/div&gt;
+
+&lt;h3 id=&quot;アイコンフォント&quot;&gt;アイコンフォント&lt;/h3&gt;
+
+&lt;p&gt;ユーザー：&lt;fa name=&quot;user&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+&lt;p&gt;スター：&lt;fa name=&quot;star&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+&lt;p&gt;ハート：&lt;fa name=&quot;heart&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+&lt;p&gt;ハート（赤）：&lt;fa name=&quot;heart&quot; style=&quot;color:red&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+&lt;p&gt;ローディング：&lt;fa name=&quot;spin spinner&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+&lt;p&gt;回転する歯車：&lt;fa name=&quot;spin cog&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 09 May 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/05/09/vert.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/05/09/vert.html</guid>
+      </item>
+    
+      <item>
+        <title>随笔</title>
+        <description>&lt;p&gt;天穹既白 星斗漸稀 余行數十裏 登天蛙峰以俟日出 至峰頂 天際已明 日未升而霞光映于雲端 鍾鼓聲起 三祖廟之早課也 松風徐來 山間之清趣也 待不多時 紅日冉冉 日輪始出 須臾 日漸高 紅光盡褪 光芒驅退千里之暗 忽有遊人 三三兩兩 嘯聚搶步而至 雀躍呼號 然衆人皆以旭日爲奇 卻不知日出之妙處 不在此一大觀 而在日出之前也 又曾有人言 山水怡情 雲煙過眼 雖然 余乘興而來 興盡而歸 又有何憾哉&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Apr 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/04/09/vert.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/09/vert.html</guid>
+      </item>
+    
+      <item>
+        <title>北京的雪</title>
+        <description>&lt;div class=&quot;drop-caps&quot;&gt;时至今日，一提到香堂村，我的脑海里就浮现出一座被雪环盖的孤岛。这座岛坐落在空旷无垠的荒凉平原上，孤苦伶仃，苦寂难言，就像西伯利亚那样。我们如同被流放在这座孤岛上，一起虚度光阴，围着篝火一直苦捱到二月底，最后各奔南北。&lt;/div&gt;
+
+&lt;p&gt;今天是大寒，外面的天，云层在很高的地方聚结，阳光惨淡。不消看报纸便知道快要下雪了。在我们这里下雪是很难得的，但是在北京，几乎每年都会下雪。&lt;/p&gt;
+&lt;p&gt;几年前我在北京的香堂村学习画画。昌21路，这条线一头在13号线回龙观站，而我们就在另一头。一座山包围着这个村子，将一条贯穿村子的主路截断，我们的画室就是在路的尽头。进出村子的路，尽管有不少，然而通公交的只有这一条。所以我要想进昌平城区，就只能坐昌21路。若是更远些，比如说去望京，就只能坐昌21路到村口，再换870路去南邵地铁站，或是昌21路从头坐到尾，再换乘13号线。其距离不亚于跑了半个五环路。&lt;/p&gt;
+&lt;p&gt;一旦开始下雪，昌21路上的公交车便在轮胎上绑上铁链来防滑，若是雪再大些也会有停运的可能。所以第一场雪过后我们就很少外出，尽量呆在画室里了。&lt;/p&gt;
+&lt;p&gt;那时候正临近春节，画室里人少了很多。我们在画室里画画。窗外，纸片般的雪纷纷扬扬，静静地、无声无息地下着，好像迷途的羔羊徘徊在天地之间，漫无目的地从无边无际的天空落在这片荒原。&lt;/p&gt;
+&lt;p&gt;当时我最常听的歌是披头士的《Here comes the sun》，每当听到这首歌时，就像是有一束阳光照到心底，多多少少驱散了心里阴阴郁郁的孤寂。&lt;/p&gt;
+&lt;p&gt;雪停之后的村子很安静，安静得直叫人心寒。天空蓝的异乎寻常，衬得窗外树上的柿子红得格外显眼。整个村子好似睡着了一般，像一只冬眠的小动物，仔细去听仿佛都能听到他的呼吸。&lt;/p&gt;
+&lt;p&gt;平时一般是没有空的出来的，除了周末。有次，我和几个同学想去村子的市场上寻摸些吃的，出得门来，脚踩在刚好没过脚踝的雪上，酥软松脆，伴随着轻微的咔嚓声。到得村子的主路上，雪不知何时被人铲走堆在了路的两边。&lt;/p&gt;
+&lt;p&gt;然而我们走了半天也没见着几个人，到了市场也只有几个摊位还摆着。我们买了几个馒头就回去了，好在画室里包伙食，没有屯粮之扰。&lt;/p&gt;
+&lt;p&gt;我们去这个村子唯一的超市买了些火锅肉、木耳和香菇之类，回去煮火锅暖暖身子，我们围着火锅坐着，就像是被寒冷和黑暗围困的人们围着火堆坐着那样。&lt;/p&gt;
+&lt;p&gt;时至今日，一提到香堂村，我的脑海里就浮现出一座被雪环盖的孤岛。这座岛坐落在空旷无垠的荒凉平原上，孤苦伶仃，苦寂难言，就像西伯利亚那样。我们如同被流放在这座孤岛上，一起虚度光阴，围着篝火一直苦捱到二月底，最后各奔南北。&lt;/p&gt;
+&lt;p align=&quot;right&quot;&gt;乙未大寒 又是一年艺考时&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 20 Jan 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2016/01/20/vert.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/20/vert.html</guid>
+      </item>
+    
+      <item>
+        <title>摘抄</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“当下言论易歪曲，世风易偏颇，坚守中立之人无比难能可贵。是故，孔子重中庸，庄子以无为自然为本。”
+–铃木功 记于二〇一五年十一月十四&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 12 Jan 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2016/01/12/hori.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/12/hori.html</guid>
+      </item>
+    
+      <item>
+        <title>秋天来了</title>
+        <description>&lt;h2 id=&quot;drop-caps&quot;&gt;drop caps&lt;/h2&gt;
+&lt;div class=&quot;drop-caps&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/div&gt;
+
+&lt;h2 id=&quot;image-float&quot;&gt;image float&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/tb-brand.png&quot; width=&quot;128&quot; height=&quot;128&quot; class=&quot;disp-block float-start gap-end&quot; /&gt;
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+&lt;img src=&quot;/assets/tb-brand.png&quot; width=&quot;128&quot; height=&quot;128&quot; class=&quot;float-end&quot; /&gt;
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;h2 id=&quot;ul-listings&quot;&gt;ul listings&lt;/h2&gt;
+
+&lt;ul class=&quot;break-after&quot;&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet,&lt;/li&gt;
+&lt;li&gt;consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/li&gt;
+&lt;li&gt;&lt;ul&gt;
+&lt;li&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/li&gt;
+&lt;li&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+&lt;li&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ol-listings&quot;&gt;ol listings&lt;/h2&gt;
+
+&lt;ol class=&quot;break-after&quot;&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet,&lt;/li&gt;
+&lt;li&gt;consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/li&gt;
+&lt;li&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+&lt;li&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;table&quot;&gt;table&lt;/h2&gt;
+
+&lt;table style=&quot;table-layout:auto&quot;&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;head1&lt;/th&gt;&lt;th&gt;head2&lt;/th&gt;&amp;lt;/thead&amp;gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/td&gt;
+&lt;td&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Lorem ipsum dolor sit amet,&lt;/td&gt;
+&lt;td&gt;consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&amp;lt;/table&amp;gt;
+
+&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;
+</description>
+        <pubDate>Sun, 11 Oct 2015 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2015/10/11/hori.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/10/11/hori.html</guid>
+      </item>
+    
+      <item>
+        <title>Japanese vertical book sample</title>
+        <description>&lt;div class=&quot;gap-after&quot;&gt;使用するマークダウンエンジンによって出力するHTMLはまちまちなので、このサンプルでは基本的なマークダウン文法を除いて、生のHTMLをハードコーディングしている箇所もあります。&lt;/div&gt;
+
+&lt;h3 id=&quot;ルビ回り込み傍点圏点など&quot;&gt;ルビ、回り込み、傍点、圏点など&lt;/h3&gt;
+
+&lt;div class=&quot;drop-caps&quot;&gt;表示機能をテストするために作ったエントリです。内容に特に意味はありません。表示機能をテストするために作ったエントリです。内容に特に意味はありません。表示機能をテストするために作ったエントリです。内容に特に意味はありません。&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/tb-brand.png&quot; width=&quot;100&quot; height=&quot;100&quot; class=&quot;float-start disp-block gap-end&quot; /&gt;
+日本国民は正当に選挙された国会における代表者を通じて行動し、われらとわれらの子孫のために、諸国民との協和による成果と、わが国全土にわたって自由のもたらす&lt;ruby&gt;&lt;rb&gt;恵沢&lt;/rb&gt;&lt;rt&gt;けいたく&lt;/rt&gt;&lt;/ruby&gt;を確保し、政府の行為によって再び&lt;ruby&gt;&lt;rb&gt;戦争&lt;/rb&gt;&lt;rt&gt;せんそう&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;&lt;rb&gt;惨禍&lt;/rb&gt;&lt;rt&gt;さんか&lt;/rt&gt;&lt;/ruby&gt;が起ることのないやうにすることを決意。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/tb-brand.png&quot; width=&quot;100&quot; height=&quot;100&quot; class=&quot;disp-block float-end&quot; /&gt;
+日本国民は正当に&lt;ruby&gt;選挙&lt;rt&gt;せんきょ&lt;/rt&gt;&lt;/ruby&gt;された国会における代表者を通じて行動し、&lt;span class=&quot;empha-sesame-filled&quot;&gt;われら&lt;/span&gt;と&lt;span class=&quot;empha-double-circle-filled&quot;&gt;われら&lt;/span&gt;の&lt;ruby&gt;&lt;rb&gt;子孫&lt;/rb&gt;&lt;rt&gt;しそん&lt;/rt&gt;&lt;/ruby&gt;のために、諸国民との協和による成果と、わが国全土にわたって自由のもたらす&lt;ruby&gt;&lt;rb&gt;恵沢&lt;/rb&gt;&lt;rt&gt;けいたく&lt;/rt&gt;&lt;/ruby&gt;を確保する。&lt;/p&gt;
+
+&lt;h3 class=&quot;break-before&quot;&gt;混合レイアウト&lt;/h3&gt;
+
+&lt;div&gt;&lt;img src=&quot;http://www.gravatar.com/avatar/cc261502060d214e7c482da86be35de3?s=128&amp;amp;d=identicon&quot; width=&quot;100&quot; height=&quot;100&quot; class=&quot;float-start gap-end disp-block&quot; /&gt;日本国民は正当に&lt;ruby&gt;選挙&lt;rt&gt;せんきょ&lt;/rt&gt;&lt;/ruby&gt;された国会における代表者を通じて行動し、われらとわれらの&lt;ruby&gt;&lt;rb&gt;子孫&lt;/rb&gt;&lt;rt&gt;しそん&lt;/rt&gt;&lt;/ruby&gt;のために、諸国民との協和による成果と、わが国全土にわたって自由のもたらす&lt;ruby&gt;&lt;rb&gt;恵沢&lt;/rb&gt;&lt;rt&gt;けいたく&lt;/rt&gt;&lt;/ruby&gt;を確保&lt;/div&gt;
+
+&lt;div class=&quot;flow-flip gap-after&quot;&gt;lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/div&gt;
+
+&lt;h3 id=&quot;テーブルのページ送り&quot;&gt;テーブルのページ送り&lt;/h3&gt;
+
+&lt;table class=&quot;gap-after&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;&lt;th&gt;head1&lt;/th&gt;&lt;th&gt;head2&lt;/th&gt;&lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;ruby&gt;日本&lt;rt&gt;にほん&lt;/rt&gt;&lt;/ruby&gt;国民は正当に&lt;span class=&quot;xx-large&quot;&gt;&lt;ruby&gt;選挙&lt;rt&gt;せんきょ&lt;/rt&gt;&lt;/ruby&gt;&lt;/span&gt;された&lt;ruby&gt;国会&lt;rt&gt;こっかい&lt;/rt&gt;&lt;/ruby&gt;における代表者を通じて行動し、われらとわれらの&lt;ruby&gt;&lt;rb&gt;子孫&lt;/rb&gt;&lt;rt&gt;しそん&lt;/rt&gt;&lt;/ruby&gt;のために、諸国民との協和による成果と、わが国全土にわたって自由のもたらす&lt;ruby&gt;&lt;rb&gt;恵沢&lt;/rb&gt;&lt;rt&gt;けいたく&lt;/rt&gt;&lt;/ruby&gt;を確保し、政府の行為によって再び&lt;ruby&gt;&lt;rb&gt;戦争&lt;/rb&gt;&lt;rt&gt;せんそう&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;&lt;rb&gt;惨禍&lt;/rb&gt;&lt;rt&gt;さんか&lt;/rt&gt;&lt;/ruby&gt;が起ることのないやうにすることを決意し、ここに&lt;ruby&gt;&lt;rb&gt;主権&lt;/rb&gt;&lt;rt&gt;しゅけん&lt;/rt&gt;&lt;/ruby&gt;が国民に存することを宣言し、この憲法を確定する。&lt;/td&gt;&lt;td&gt;body2&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tr&gt;&lt;td&gt;body3&lt;/td&gt;&lt;td&gt;body4&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;body5&lt;/td&gt;&lt;td&gt;body6&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;body7&lt;/td&gt;&lt;td&gt;body8&lt;/td&gt;&lt;/tr&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;&lt;td&gt;foot1&lt;/td&gt;&lt;td&gt;foot2&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tfoot&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;順序なしリスト&quot;&gt;順序なしリスト&lt;/h3&gt;
+&lt;ul class=&quot;gap-after&quot;&gt;
+&lt;li&gt;あいうえおあいうえおあいうえおあいうえおあいうえお&lt;/li&gt;
+&lt;li&gt;かきくけこかきくけこかきくけこかきくけこかきくけこ&lt;/li&gt;
+&lt;li&gt;さしすせそさしすせそさしすせそさしすせそさしすせそ&lt;/li&gt;
+&lt;li&gt;たちつてとたちつてとたちつてとたちつてとたちつてと&lt;/li&gt;
+&lt;li&gt;なにぬねのなにぬねのなにぬねのなにぬねのなにぬねの&lt;/li&gt;
+&lt;li&gt;はまやらわはまやらわはまやらわはまやらわはまやらわ&lt;/li&gt;
+&lt;li&gt;まみむめもまみむめもまみむめもまみむめもまみむめも&lt;/li&gt;
+&lt;li&gt;やゆよやゆよやゆよやゆよやゆよやゆよやゆよやゆよ&lt;/li&gt;
+&lt;li&gt;らりるれろらりるれろらりるれろらりるれろらりるれろ&lt;/li&gt;
+&lt;li&gt;わをんわをんわをんわをんわをんわをんわをんわをん&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;順序リスト&quot;&gt;順序リスト&lt;/h3&gt;
+&lt;ol class=&quot;gap-after&quot;&gt;
+&lt;li&gt;あいうえおあいうえおあいうえおあいうえおあいうえお&lt;/li&gt;
+&lt;li&gt;かきくけこかきくけこかきくけこかきくけこかきくけこ&lt;/li&gt;
+&lt;li&gt;さしすせそさしすせそさしすせそさしすせそさしすせそ&lt;/li&gt;
+&lt;li&gt;&lt;ol class=&quot;lst-lower-alpha&quot;&gt;
+&lt;li&gt;たちつてとたちつてとたちつてとたちつてとたちつてと&lt;/li&gt;
+&lt;li&gt;なにぬねのなにぬねのなにぬねのなにぬねのなにぬねの&lt;/li&gt;
+&lt;li&gt;はまやらわはまやらわはまやらわはまやらわはまやらわ&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;まみむめもまみむめもまみむめもまみむめもまみむめも&lt;/li&gt;
+&lt;li&gt;やゆよやゆよやゆよやゆよやゆよやゆよやゆよやゆよ&lt;/li&gt;
+&lt;li&gt;らりるれろらりるれろらりるれろらりるれろらりるれろ&lt;/li&gt;
+&lt;li&gt;わをんわをんわをんわをんわをんわをんわをんわをん&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;縦中横&quot;&gt;縦中横&lt;/h3&gt;
+
+&lt;div class=&quot;gap-after&quot;&gt;平成&lt;span class=&quot;tcy&quot;&gt;25&lt;/span&gt;年&lt;span class=&quot;tcy&quot;&gt;1&lt;/span&gt;月&lt;span class=&quot;tcy&quot;&gt;10&lt;/span&gt;日&lt;/div&gt;
+
+&lt;h3 id=&quot;アイコンフォント&quot;&gt;アイコンフォント&lt;/h3&gt;
+
+&lt;p&gt;ユーザー：&lt;fa name=&quot;user&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+&lt;p&gt;スター：&lt;fa name=&quot;star&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+&lt;p&gt;ハート：&lt;fa name=&quot;heart&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+&lt;p&gt;ハート（赤）：&lt;fa name=&quot;heart&quot; style=&quot;color:red&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+&lt;p&gt;ローディング：&lt;fa name=&quot;spin spinner&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+&lt;p&gt;回転する歯車：&lt;fa name=&quot;spin cog&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 23 Jun 2014 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2014/06/23/vert%E7%9A%84%E5%89%AF%E6%9C%AC.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/06/23/vert%E7%9A%84%E5%89%AF%E6%9C%AC.html</guid>
+      </item>
+    
+      <item>
+        <title>Japanese vertical book sample</title>
+        <description>&lt;div class=&quot;gap-after&quot;&gt;使用するマークダウンエンジンによって出力するHTMLはまちまちなので、このサンプルでは基本的なマークダウン文法を除いて、生のHTMLをハードコーディングしている箇所もあります。&lt;/div&gt;
+
+&lt;h3 id=&quot;ルビ回り込み傍点圏点など&quot;&gt;ルビ、回り込み、傍点、圏点など&lt;/h3&gt;
+
+&lt;div class=&quot;drop-caps&quot;&gt;表示機能をテストするために作ったエントリです。内容に特に意味はありません。表示機能をテストするために作ったエントリです。内容に特に意味はありません。表示機能をテストするために作ったエントリです。内容に特に意味はありません。&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/tb-brand.png&quot; width=&quot;100&quot; height=&quot;100&quot; class=&quot;float-start disp-block gap-end&quot; /&gt;
+日本国民は正当に選挙された国会における代表者を通じて行動し、われらとわれらの子孫のために、諸国民との協和による成果と、わが国全土にわたって自由のもたらす&lt;ruby&gt;&lt;rb&gt;恵沢&lt;/rb&gt;&lt;rt&gt;けいたく&lt;/rt&gt;&lt;/ruby&gt;を確保し、政府の行為によって再び&lt;ruby&gt;&lt;rb&gt;戦争&lt;/rb&gt;&lt;rt&gt;せんそう&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;&lt;rb&gt;惨禍&lt;/rb&gt;&lt;rt&gt;さんか&lt;/rt&gt;&lt;/ruby&gt;が起ることのないやうにすることを決意。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/tb-brand.png&quot; width=&quot;100&quot; height=&quot;100&quot; class=&quot;disp-block float-end&quot; /&gt;
+日本国民は正当に&lt;ruby&gt;選挙&lt;rt&gt;せんきょ&lt;/rt&gt;&lt;/ruby&gt;された国会における代表者を通じて行動し、&lt;span class=&quot;empha-sesame-filled&quot;&gt;われら&lt;/span&gt;と&lt;span class=&quot;empha-double-circle-filled&quot;&gt;われら&lt;/span&gt;の&lt;ruby&gt;&lt;rb&gt;子孫&lt;/rb&gt;&lt;rt&gt;しそん&lt;/rt&gt;&lt;/ruby&gt;のために、諸国民との協和による成果と、わが国全土にわたって自由のもたらす&lt;ruby&gt;&lt;rb&gt;恵沢&lt;/rb&gt;&lt;rt&gt;けいたく&lt;/rt&gt;&lt;/ruby&gt;を確保する。&lt;/p&gt;
+
+&lt;h3 class=&quot;break-before&quot;&gt;混合レイアウト&lt;/h3&gt;
+
+&lt;div&gt;&lt;img src=&quot;http://www.gravatar.com/avatar/cc261502060d214e7c482da86be35de3?s=128&amp;amp;d=identicon&quot; width=&quot;100&quot; height=&quot;100&quot; class=&quot;float-start gap-end disp-block&quot; /&gt;日本国民は正当に&lt;ruby&gt;選挙&lt;rt&gt;せんきょ&lt;/rt&gt;&lt;/ruby&gt;された国会における代表者を通じて行動し、われらとわれらの&lt;ruby&gt;&lt;rb&gt;子孫&lt;/rb&gt;&lt;rt&gt;しそん&lt;/rt&gt;&lt;/ruby&gt;のために、諸国民との協和による成果と、わが国全土にわたって自由のもたらす&lt;ruby&gt;&lt;rb&gt;恵沢&lt;/rb&gt;&lt;rt&gt;けいたく&lt;/rt&gt;&lt;/ruby&gt;を確保&lt;/div&gt;
+
+&lt;div class=&quot;flow-flip gap-after&quot;&gt;lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/div&gt;
+
+&lt;h3 id=&quot;テーブルのページ送り&quot;&gt;テーブルのページ送り&lt;/h3&gt;
+
+&lt;table class=&quot;gap-after&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;&lt;th&gt;head1&lt;/th&gt;&lt;th&gt;head2&lt;/th&gt;&lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;ruby&gt;日本&lt;rt&gt;にほん&lt;/rt&gt;&lt;/ruby&gt;国民は正当に&lt;span class=&quot;xx-large&quot;&gt;&lt;ruby&gt;選挙&lt;rt&gt;せんきょ&lt;/rt&gt;&lt;/ruby&gt;&lt;/span&gt;された&lt;ruby&gt;国会&lt;rt&gt;こっかい&lt;/rt&gt;&lt;/ruby&gt;における代表者を通じて行動し、われらとわれらの&lt;ruby&gt;&lt;rb&gt;子孫&lt;/rb&gt;&lt;rt&gt;しそん&lt;/rt&gt;&lt;/ruby&gt;のために、諸国民との協和による成果と、わが国全土にわたって自由のもたらす&lt;ruby&gt;&lt;rb&gt;恵沢&lt;/rb&gt;&lt;rt&gt;けいたく&lt;/rt&gt;&lt;/ruby&gt;を確保し、政府の行為によって再び&lt;ruby&gt;&lt;rb&gt;戦争&lt;/rb&gt;&lt;rt&gt;せんそう&lt;/rt&gt;&lt;/ruby&gt;の&lt;ruby&gt;&lt;rb&gt;惨禍&lt;/rb&gt;&lt;rt&gt;さんか&lt;/rt&gt;&lt;/ruby&gt;が起ることのないやうにすることを決意し、ここに&lt;ruby&gt;&lt;rb&gt;主権&lt;/rb&gt;&lt;rt&gt;しゅけん&lt;/rt&gt;&lt;/ruby&gt;が国民に存することを宣言し、この憲法を確定する。&lt;/td&gt;&lt;td&gt;body2&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tr&gt;&lt;td&gt;body3&lt;/td&gt;&lt;td&gt;body4&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;body5&lt;/td&gt;&lt;td&gt;body6&lt;/td&gt;&lt;/tr&gt;
+  &lt;tr&gt;&lt;td&gt;body7&lt;/td&gt;&lt;td&gt;body8&lt;/td&gt;&lt;/tr&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;&lt;td&gt;foot1&lt;/td&gt;&lt;td&gt;foot2&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tfoot&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;順序なしリスト&quot;&gt;順序なしリスト&lt;/h3&gt;
+&lt;ul class=&quot;gap-after&quot;&gt;
+&lt;li&gt;あいうえおあいうえおあいうえおあいうえおあいうえお&lt;/li&gt;
+&lt;li&gt;かきくけこかきくけこかきくけこかきくけこかきくけこ&lt;/li&gt;
+&lt;li&gt;さしすせそさしすせそさしすせそさしすせそさしすせそ&lt;/li&gt;
+&lt;li&gt;たちつてとたちつてとたちつてとたちつてとたちつてと&lt;/li&gt;
+&lt;li&gt;なにぬねのなにぬねのなにぬねのなにぬねのなにぬねの&lt;/li&gt;
+&lt;li&gt;はまやらわはまやらわはまやらわはまやらわはまやらわ&lt;/li&gt;
+&lt;li&gt;まみむめもまみむめもまみむめもまみむめもまみむめも&lt;/li&gt;
+&lt;li&gt;やゆよやゆよやゆよやゆよやゆよやゆよやゆよやゆよ&lt;/li&gt;
+&lt;li&gt;らりるれろらりるれろらりるれろらりるれろらりるれろ&lt;/li&gt;
+&lt;li&gt;わをんわをんわをんわをんわをんわをんわをんわをん&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;順序リスト&quot;&gt;順序リスト&lt;/h3&gt;
+&lt;ol class=&quot;gap-after&quot;&gt;
+&lt;li&gt;あいうえおあいうえおあいうえおあいうえおあいうえお&lt;/li&gt;
+&lt;li&gt;かきくけこかきくけこかきくけこかきくけこかきくけこ&lt;/li&gt;
+&lt;li&gt;さしすせそさしすせそさしすせそさしすせそさしすせそ&lt;/li&gt;
+&lt;li&gt;&lt;ol class=&quot;lst-lower-alpha&quot;&gt;
+&lt;li&gt;たちつてとたちつてとたちつてとたちつてとたちつてと&lt;/li&gt;
+&lt;li&gt;なにぬねのなにぬねのなにぬねのなにぬねのなにぬねの&lt;/li&gt;
+&lt;li&gt;はまやらわはまやらわはまやらわはまやらわはまやらわ&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;まみむめもまみむめもまみむめもまみむめもまみむめも&lt;/li&gt;
+&lt;li&gt;やゆよやゆよやゆよやゆよやゆよやゆよやゆよやゆよ&lt;/li&gt;
+&lt;li&gt;らりるれろらりるれろらりるれろらりるれろらりるれろ&lt;/li&gt;
+&lt;li&gt;わをんわをんわをんわをんわをんわをんわをんわをん&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;縦中横&quot;&gt;縦中横&lt;/h3&gt;
+
+&lt;div class=&quot;gap-after&quot;&gt;平成&lt;span class=&quot;tcy&quot;&gt;25&lt;/span&gt;年&lt;span class=&quot;tcy&quot;&gt;1&lt;/span&gt;月&lt;span class=&quot;tcy&quot;&gt;10&lt;/span&gt;日&lt;/div&gt;
+
+&lt;h3 id=&quot;アイコンフォント&quot;&gt;アイコンフォント&lt;/h3&gt;
+
+&lt;p&gt;ユーザー：&lt;fa name=&quot;user&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+&lt;p&gt;スター：&lt;fa name=&quot;star&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+&lt;p&gt;ハート：&lt;fa name=&quot;heart&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+&lt;p&gt;ハート（赤）：&lt;fa name=&quot;heart&quot; style=&quot;color:red&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+&lt;p&gt;ローディング：&lt;fa name=&quot;spin spinner&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+&lt;p&gt;回転する歯車：&lt;fa name=&quot;spin cog&quot;&gt;&lt;/fa&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 23 Jun 2014 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2014/06/23/vert.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/06/23/vert.html</guid>
+      </item>
+    
+      <item>
+        <title>Latin horizontal book sample</title>
+        <description>&lt;h2 id=&quot;drop-caps&quot;&gt;drop caps&lt;/h2&gt;
+&lt;div class=&quot;drop-caps&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/div&gt;
+
+&lt;h2 id=&quot;image-float&quot;&gt;image float&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/tb-brand.png&quot; width=&quot;128&quot; height=&quot;128&quot; class=&quot;disp-block float-start gap-end&quot; /&gt;
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+&lt;img src=&quot;/assets/tb-brand.png&quot; width=&quot;128&quot; height=&quot;128&quot; class=&quot;float-end&quot; /&gt;
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;h2 id=&quot;ul-listings&quot;&gt;ul listings&lt;/h2&gt;
+
+&lt;ul class=&quot;break-after&quot;&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet,&lt;/li&gt;
+&lt;li&gt;consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/li&gt;
+&lt;li&gt;&lt;ul&gt;
+&lt;li&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/li&gt;
+&lt;li&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+&lt;li&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ol-listings&quot;&gt;ol listings&lt;/h2&gt;
+
+&lt;ol class=&quot;break-after&quot;&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet,&lt;/li&gt;
+&lt;li&gt;consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/li&gt;
+&lt;li&gt;&lt;ol&gt;
+&lt;li&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/li&gt;
+&lt;li&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/li&gt;
+&lt;li&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;table&quot;&gt;table&lt;/h2&gt;
+
+&lt;table style=&quot;table-layout:auto&quot;&gt;
+&lt;thead&gt;&lt;tr&gt;&lt;th&gt;head1&lt;/th&gt;&lt;th&gt;head2&lt;/th&gt;&amp;lt;/thead&amp;gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/td&gt;
+&lt;td&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Lorem ipsum dolor sit amet,&lt;/td&gt;
+&lt;td&gt;consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&amp;lt;/table&amp;gt;
+
+&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;
+</description>
+        <pubDate>Mon, 23 Jun 2014 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2014/06/23/hori.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/06/23/hori.html</guid>
+      </item>
+    
+  </channel>
+</rss>
