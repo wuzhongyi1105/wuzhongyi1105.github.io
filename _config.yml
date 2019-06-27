@@ -6,6 +6,8 @@ url: ""
 baseurl: ""
 username: DylanWu
 disqus_shortname: your_shortname
+repository: wuzhongyi1105/wuzhongyi1105.github.io
+github_url: https://github.com/wuzhongyi1105/wuzhongyi1105.github.io
 
 gems: [jekyll-paginate]
 
