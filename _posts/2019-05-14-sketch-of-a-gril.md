@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Japanese vertical book sample
-date: 2014-06-23
+date: 2019-05-14
 book_type: vert
 #comments: true
 ---
