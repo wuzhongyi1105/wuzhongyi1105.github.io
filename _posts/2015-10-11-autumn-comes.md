@@ -6,7 +6,8 @@ book_type: hori
 #comments: true
 ---
 
-虽然秋分只有几秒，然而只要一过了这个节气，便是另一番景象。
+## drop caps
+<div class="drop-caps">虽然秋分只有几秒，然而只要一过了这个节气，便是另一番景象。</div>
 
 洗过的天空飘着云絮，云絮不再与土地亲狎，高高地在天上舒展卷曲，因为夏天高温潮湿而产生生机勃勃的腥味渐渐散去。取而代之的是隐隐约约的烟味，容易让人想到落叶被焚烧的景象。窗外寒蝉凄切，这些蝉深谙聊胜于无的道理，挣扎着为夏日续命。
 
@@ -16,8 +17,7 @@ book_type: hori
 
 总之，虽然没有花团锦簇也没有酥雨如油，灰黄色调的秋天依然是个不错的季节。
 
-## drop caps
-<div class="drop-caps">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+
 
 ## image float
 <img src="{{site.baseurl}}/assets/tb-brand.png" width="128" height="128" class="disp-block float-start gap-end"/>
