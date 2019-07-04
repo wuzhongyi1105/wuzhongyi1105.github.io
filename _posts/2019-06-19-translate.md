@@ -8,7 +8,6 @@ book_type: vert
 
 ## 画跋原文
 <img src="{{site.baseurl}}/assets/book-1.jpeg" width="245" height="128">
-<br>
 <img src="{{site.baseurl}}/assets/book-2.jpeg" width="245" height="59">
 
 ### 译文
