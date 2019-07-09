@@ -9,7 +9,7 @@ disqus_shortname: your_shortname
 repository: wuzhongyi1105/wuzhongyi1105.github.io
 github_url: https://github.com/wuzhongyi1105/wuzhongyi1105.github.io
 
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-sitemap, jekyll-seo-tag, jekyll-mentions, jemoji]
 
 # pagination
 paginate: 5
