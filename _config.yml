@@ -17,3 +17,6 @@ paginate: 5
 # Build settings
 markdown: kramdown
 # permalink: pretty
+
+jekyll-mentions:
+  base_url: https://twitter.com
