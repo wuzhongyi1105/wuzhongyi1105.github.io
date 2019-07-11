@@ -2,7 +2,7 @@
 layout: post
 title: 夏夜
 date: 2014-06-13
-book_type: vert
+book_type: hori
 comments: true
 ---
 

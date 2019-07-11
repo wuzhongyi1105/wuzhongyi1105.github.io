@@ -2,7 +2,7 @@
 layout: post
 title: 黑-白-灰
 date: 2016-03-10
-book_type: vert
+book_type: hori
 comments: true
 ---
 
