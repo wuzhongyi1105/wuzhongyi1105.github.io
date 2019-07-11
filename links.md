@@ -15,9 +15,6 @@ comments: true
 
 <h3 style="text-align: right"> 互勉 </h3>
 
-
-<span style="font-size:12px;">
-
 <!-- 动态显示网站运行时间 -->
 <script type="text/javascript" language="javascript">
 	function secondToDate(second) {
@@ -47,14 +44,23 @@ comments: true
 		return time;
 	}
     function setTime() {
-        var create_time = Math.round(new Date(Date.UTC(2018, 05, 05, 0, 0, 0)).getTime() / 1000);
+        var create_time = Math.round(new Date(Date.UTC(2019, 06, 28, 0, 0, 0)).getTime() / 1000);
         var timestamp = Math.round((new Date().getTime() + 8 * 60 * 60 * 1000) / 1000);
         currentTime = secondToDate((timestamp - create_time));
         currentTimeHtml = '本站已安全运行' + currentTime[0] + '年' + currentTime[1] + '天' + currentTime[2] + '时' + currentTime[3] + '分' + currentTime[4] + '秒';
         document.getElementById("htmer_time").innerHTML = currentTimeHtml;
     }
+    function setTime2() {
+        var create_time = Math.round(new Date(Date.UTC(2011, 05, 15, 0, 0, 0)).getTime() / 1000);
+        var timestamp = Math.round((new Date().getTime() + 8 * 60 * 60 * 1000) / 1000);
+        currentTime = secondToDate((timestamp - create_time));
+        currentTimeHtml = '距离第一篇文章发布' + currentTime[0] + '年' + currentTime[1] + '天' + currentTime[2] + '时' + currentTime[3] + '分' + currentTime[4] + '秒';
+        document.getElementById("htmer_time2").innerHTML = currentTimeHtml;
+    }
     setInterval(setTime, 1000);
-</script>
-</span>
+    setInterval(setTime2, 1000);
 
-<span id="htmer_time" style="color: red;">  </span>
+</script>
+
+<span id="htmer_time" style="color: #656c7a;display: flex;align-items: center;justify-content: center;">  </span>
+<span id="htmer_time2" style="color: #656c7a;display: flex;align-items: center;justify-content: center;">  </span>
