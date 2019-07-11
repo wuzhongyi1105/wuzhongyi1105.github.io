@@ -44,7 +44,7 @@ comments: true
 		return time;
 	}
     function setTime2() {
-        var create_time2 = Math.round(new Date(Date.UTC(2011, 05, 15, 0, 0, 0)).getTime() / 1000);
+        var create_time2 = Math.round(new Date(Date.UTC(2011, 05, 15, 21, 40, 0)).getTime() / 1000);
         var timestamp2 = Math.round((new Date().getTime() + 8 * 60 * 60 * 1000) / 1000);
         currentTime2 = secondToDate((timestamp2 - create_time2));
         currentTimeHtml2 = '距离第一篇文章发布' + currentTime2[0] + '年' + currentTime2[1] + '天' + currentTime2[2] + '时' + currentTime2[3] + '分' + currentTime2[4] + '秒';
