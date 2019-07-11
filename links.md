@@ -17,7 +17,8 @@ comments: true
 
 
 <span style="font-size:12px;">
-<!-- 计算网站运行时间 -->
+
+<!-- 动态显示网站运行时间 -->
 <script type="text/javascript" language="javascript">
 	function secondToDate(second) {
 		if (!second) {
@@ -45,10 +46,6 @@ comments: true
 		}
 		return time;
 	}
-</script>
-
-<!-- 动态显示网站运行时间 -->
-<script type="text/javascript" language="javascript">
     function setTime() {
         var create_time = Math.round(new Date(Date.UTC(2018, 05, 05, 0, 0, 0)).getTime() / 1000);
         var timestamp = Math.round((new Date().getTime() + 8 * 60 * 60 * 1000) / 1000);
@@ -60,4 +57,4 @@ comments: true
 </script>
 </span>
 
-<span id="htmer_time" style="color: red;"></span>
+<span id="htmer_time" style="color: red;">  </span>
