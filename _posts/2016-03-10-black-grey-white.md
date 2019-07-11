@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 要恰饭的嘛
+title: 黑-白-灰
 date: 2016-03-10
 book_type: vert
 comments: true
