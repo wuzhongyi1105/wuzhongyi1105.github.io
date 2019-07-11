@@ -2,6 +2,7 @@
 layout: page
 title: Links
 permalink: /links/
+comments: true
 ---
 
 ##  友善的邻居们
