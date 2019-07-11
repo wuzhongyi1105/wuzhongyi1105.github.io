@@ -13,7 +13,5 @@ comments: true
 - [マネーのブログ](https://orewa.money)
 
 
-###  互勉
-
-
+<h3 style="text-align: right"> 互勉 </h3>
 
