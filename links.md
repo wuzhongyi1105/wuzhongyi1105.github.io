@@ -47,15 +47,15 @@ comments: true
         var create_time = Math.round(new Date(Date.UTC(2019, 06, 28, 0, 0, 0)).getTime() / 1000);
         var timestamp = Math.round((new Date().getTime() + 8 * 60 * 60 * 1000) / 1000);
         currentTime = secondToDate((timestamp - create_time));
-        currentTimeHtml = '本站已安全运行' + currentTime[0] + '年' + currentTime[1] + '天' + currentTime[2] + '时' + currentTime[3] + '分' + currentTime[4] + '秒';
+        currentTimeHtml = '本站已运行' + currentTime[0] + '年' + currentTime[1] + '天' + currentTime[2] + '时' + currentTime[3] + '分' + currentTime[4] + '秒';
         document.getElementById("htmer_time").innerHTML = currentTimeHtml;
     }
     function setTime2() {
-        var create_time = Math.round(new Date(Date.UTC(2011, 05, 15, 0, 0, 0)).getTime() / 1000);
-        var timestamp = Math.round((new Date().getTime() + 8 * 60 * 60 * 1000) / 1000);
-        currentTime = secondToDate((timestamp - create_time));
-        currentTimeHtml = '距离第一篇文章发布' + currentTime[0] + '年' + currentTime[1] + '天' + currentTime[2] + '时' + currentTime[3] + '分' + currentTime[4] + '秒';
-        document.getElementById("htmer_time2").innerHTML = currentTimeHtml;
+        var create_time2 = Math.round(new Date(Date.UTC(2011, 05, 15, 0, 0, 0)).getTime() / 1000);
+        var timestamp2 = Math.round((new Date().getTime() + 8 * 60 * 60 * 1000) / 1000);
+        currentTime2 = secondToDate((timestamp2 - create_time2));
+        currentTimeHtml2 = '距离第一篇文章发布' + currentTime2[0] + '年' + currentTime2[1] + '天' + currentTime2[2] + '时' + currentTime2[3] + '分' + currentTime2[4] + '秒';
+        document.getElementById("htmer_time2").innerHTML = currentTimeHtml2;
     }
     setInterval(setTime, 1000);
     setInterval(setTime2, 1000);
