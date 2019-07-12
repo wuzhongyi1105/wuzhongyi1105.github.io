@@ -10,6 +10,7 @@ repository: wuzhongyi1105/wuzhongyi1105.github.io
 github_url: https://github.com/wuzhongyi1105/wuzhongyi1105.github.io
 
 # SEO
+logo: /assets/icon/apple-touch-icon-180x180.png
 social:
   name: Dylan Wu
   links:
@@ -18,14 +19,6 @@ social:
     - https://www.linkedin.com/in/%E4%B8%AD%E9%80%B8-%E5%90%B4-225144109
     - https://github.com/wuzhongyi1105
     - https://www.instagram.com/wuzhongyi1105
-seo:
-  name: 瓠樽
-  type: BlogPosting
-  link: https://www.instagram.com/wuzhongyi1105 
-image:
-  path: /assets/icon/apple-touch-icon-180x180.png
-  height: 180
-  width: 180
 
 gems: [jekyll-paginate, jekyll-sitemap, jekyll-seo-tag, jekyll-mentions, jemoji]
 
@@ -38,3 +31,4 @@ markdown: kramdown
 
 jekyll-mentions:
   base_url: https://twitter.com
+
