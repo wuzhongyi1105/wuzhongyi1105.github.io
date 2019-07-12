@@ -10,6 +10,9 @@ repository: wuzhongyi1105/wuzhongyi1105.github.io
 github_url: https://github.com/wuzhongyi1105/wuzhongyi1105.github.io
 
 # SEO
+twitter:
+  username: wuzhongyi1105
+  card: summary
 logo: /assets/icon/apple-touch-icon-180x180.png
 social:
   name: Dylan Wu
