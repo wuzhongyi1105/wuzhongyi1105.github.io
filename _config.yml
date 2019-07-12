@@ -32,3 +32,8 @@ markdown: kramdown
 jekyll-mentions:
   base_url: https://twitter.com
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/icon/apple-touch-icon-180x180.png
