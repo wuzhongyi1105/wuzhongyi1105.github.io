@@ -20,8 +20,8 @@ social:
     - https://www.instagram.com/wuzhongyi1105
 seo:
   name: 瓠樽
-  type: Person
-  
+  type: BlogPosting
+  link: https://www.instagram.com/wuzhongyi1105 
 image:
   path: /assets/icon/apple-touch-icon-180x180.png
   height: 180
