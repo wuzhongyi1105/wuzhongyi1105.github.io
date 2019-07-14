@@ -10,8 +10,8 @@ $(function(){
 	  var prev_key = is_vertical? "right" : "left";
 	  Mousetrap.reset();
 	  Mousetrap.bind("ctrl+" + prev_key, function(){ stream.rewindPageNo(); });
-	  swipeLeft.bind(next_key, function(){ stream.incPageNo(); });
-	  swipeRight.bind(prev_key, function(){ stream.decPageNo(); });
+	  swipeleft.bind(next_key, function(){ stream.incPageNo(); });
+	  swiperight.bind(prev_key, function(){ stream.decPageNo(); });
 	  Mousetrap.bind(next_key, function(){ stream.incPageNo(); });
 	  Mousetrap.bind(prev_key, function(){ stream.decPageNo(); });
 	  Mousetrap.bind("j", function(){ stream.incPageNo(); });
