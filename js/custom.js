@@ -12,6 +12,8 @@ $(function(){
 	  Mousetrap.bind("ctrl+" + prev_key, function(){ stream.rewindPageNo(); });
 	  Mousetrap.bind(next_key, function(){ stream.incPageNo(); });
 	  Mousetrap.bind(prev_key, function(){ stream.decPageNo(); });
+	  swipeleft.bind(next_key, function(){ stream.incPageNo(); });
+	  swiperight.bind(prev_key, function(){ stream.decPageNo(); });
 	  Mousetrap.bind("j", function(){ stream.incPageNo(); });
 	  Mousetrap.bind("k", function(){ stream.decPageNo(); });
 	}
