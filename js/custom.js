@@ -15,7 +15,7 @@ $(function(){
 	  Mousetrap.bind("j", function(){ stream.incPageNo(); });
 	  Mousetrap.bind("k", function(){ stream.decPageNo(); });
 	  // ges
-	  var myTouch = util.toucher(document.getElementByClassName('page-content'));
+	  var myTouch = util.toucher(document.getElementByClassName('page-content')[0]);
 	  if(next_key == left){
 		myTouch.on('swipeLeft',function(){ stream.incPageNo(); });
 		myTouch.on('swipeRight',function(){ stream.decPageNo(); });
