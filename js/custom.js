@@ -14,6 +14,17 @@ $(function(){
 	  Mousetrap.bind(prev_key, function(){ stream.decPageNo(); });
 	  Mousetrap.bind("j", function(){ stream.incPageNo(); });
 	  Mousetrap.bind("k", function(){ stream.decPageNo(); });
+	  // ges
+	  var myTouch = util.toucher(document.getElementById('touchBox'));
+	  if(next_key == left){
+		myTouch.on('swipeLeft',function(){ stream.incPageNo(); });
+		myTouch.on('swipeRight',function(){ stream.decPageNo(); });
+	  }
+	  else
+      {
+		myTouch.on('swipeRight',function(){ stream.incPageNo(); });
+		myTouch.on('swipeLeft',function(){ stream.decPageNo(); });
+	  };
 	}
       }
     }
