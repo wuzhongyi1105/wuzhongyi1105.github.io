@@ -18,3 +18,18 @@
 <script type="text/javascript" src="{{site.baseurl}}/js/toucher.js"></script>
 <script type="text/javascript" src="{{site.baseurl}}/js/custom.js"></script>
 
+<script>
+    // 首页打开sw
+    if("/" == '{{page.url}}'){
+        // 检测浏览器是否支持SW
+        if(navigator.serviceWorker != null){
+            navigator.serviceWorker.register('/service-worker.js')
+                .then(function(registartion){
+                    console.log('支持sw:',registartion.scope)
+                })
+        } else {
+            console.log('不支持sw')
+        }
+    }
+</script>
+
