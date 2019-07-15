@@ -17,13 +17,13 @@ $(function(){
 	  // ges
 	  var myTouch = util.toucher(document.getElementById('f'));
 	  if(next_key == "left"){
-		myTouch.on('swipeLeft',function(){ stream.incPageNo(); });
-		myTouch.on('swipeRight',function(){ stream.decPageNo(); });
+		myTouch.on('swipeRight',function(){ stream.incPageNo(); });
+		myTouch.on('swipeLeft',function(){ stream.decPageNo(); });
 	  }
 	  else
       {
-		myTouch.on('swipeRight',function(){ stream.incPageNo(); });
-		myTouch.on('swipeLeft',function(){ stream.decPageNo(); });
+		myTouch.on('swipeRight',function(){ stream.decPageNo(); });
+		myTouch.on('swipeLeft',function(){ stream.incPageNo(); });
 	  };
 	}
       }
