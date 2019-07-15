@@ -54,8 +54,8 @@ book_type: hori
 <div class="reward">
 	<div class="reward-button"> <img src="{{ site.baseurl }}/assets/icon/15194.svg"  alt="お年玉アイコン" />
 	<span class="reward-code">
-		<span class="alipay-code"> <img class="alipay-img wdp-appear" src="{{ site.baseurl }}/assets/paymnet/Alipay.jpg"><b>AliPay</b> </span>
-		<span class="wechat-code"> <img class="wechat-img wdp-appear" src="{{ site.baseurl }}/assets/paymnet/Wechat.jpg"><b>WeChat</b> </span>
+		<span class="alipay-code"> <img class="alipay-img wdp-appear" src="{{ site.baseurl }}/assets/paymnet/Alipay.jpg"></span>
+		<span class="wechat-code"> <img class="wechat-img wdp-appear" src="{{ site.baseurl }}/assets/paymnet/Wechat.jpg"></span>
 	</span>
 	</div>
 	<p class="reward-notice">您的打赏是对我最大的鼓励！</p>
