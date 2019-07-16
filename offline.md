@@ -5,6 +5,7 @@ description: 你来到了一片荒芜之地
 keywords: offline
 comments: false
 permalink: /offline.html
+hide: Y
 ---
 
 ## 抱歉，你已经离线。  

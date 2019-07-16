@@ -2,6 +2,7 @@
 layout: page
 title: jekyll-nehan
 permalink: /about-old/
+hide: Y
 ---
 
 ## Summary
