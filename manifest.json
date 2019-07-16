@@ -3,7 +3,7 @@
   "short_name": "dwblog",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#000",
+  "background_color": "#fff",
   "description": "DylanWu's blog app.",
   "icons": [{
     "src": "assets/icon/apple-touch-icon-16x16.png",
