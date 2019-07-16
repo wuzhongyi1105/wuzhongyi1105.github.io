@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: :link: Links
 permalink: /links/
 comments: true
 ---
