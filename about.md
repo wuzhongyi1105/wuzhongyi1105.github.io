@@ -8,7 +8,7 @@ comments: true
 <h2>『<ruby><rb>瓠樽</rb><rt>hù zūn</rt></ruby>』的由来</h2>
 
 這段時間抽了些零碎的時間一點一點重新整修這個 Blog，並且取了『<ruby><rb>瓠樽</rb><rt>hù zūn</rt></ruby>』這個名字，取自《莊子·逍遙游》里的『今子有五石之瓠，何不慮以為大樽，而浮於江湖，而憂其瓠落無所容？』<br>
-取這麼一個拗口的名字是有原因的，2018年末，知名的博主馮大輝[抱怨寫 Blog 無用，得到的都是無用的信息反饋](https://dbanotes.net/review/blog-is-over.html)。一時間在一群博主之間引發了不小的震動。<br>
+取這麼一個拗口的名字是有原因的，2018年末，知名的博主@Fenng<a href="https://dbanotes.net/review/blog-is-over.html" target="_blank">抱怨寫 Blog 無用，得到的都是無用的信息反饋</a>。一時間在一群博主之間引發了不小的震動。<br>
 說實話我是深不以為然，儘管我不敢說我的文字有多大的價值，但是，如果我碼出來的文字真的如此無用，那麼就讓其成為我在汪洋般的互聯網上的腰舟吧。这些無用的東西就是這麼支撐起我們的生活來著。最重要的是我可以滿足表達的慾望，這樣就足夠了。<br>
 說到底，什麼樣的文字吸引來什麼樣的讀者，与其要說個人 Blog 時代的終結倒不如說是拋磚引玉的時代一去不復返更加恰如其分。<br>
 
@@ -60,22 +60,32 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 
 打賞這個功能我是猶豫了很久才加上去的，本來是覺著自己的文章完全沒有值得打賞的地方，畢竟誰會去關心一個滿腹牢騷的男人寫的東西。不過，後來覺得這個功能蠻好玩，就還是加了進去。（其實是申請了收款碼沒地方放）
 
-<div class="reward">
-	<div class="reward-button"> <img src="{{ site.baseurl }}/assets/icon/15194.svg"  alt="お年玉アイコン" />
-	<span class="reward-code">
-		<span class="alipay-code"> <img class="alipay-img wdp-appear" src="{{ site.baseurl }}/assets/paymnet/Alipay.jpg"></span>
-		<span class="wechat-code"> <img class="wechat-img wdp-appear" src="{{ site.baseurl }}/assets/paymnet/Wechat.jpg"></span>
-	</span>
+	<a id="github" href="https://github.com/Kaiyuan/donate-page" target="_blank" class="pos-f tr3" title="Github"></a>
+	<div id="DonateText" class="tr3">Sponsor</div>
+	<ul id="donateBox" class="list pos-f tr3">
+		<li id="PayPal"><a href="https://www.paypal.me/dylanwzy" target="_blank">PayPal</a></li>
+		<!-- <li id="BTC" data-footnote="Copy addres and show QRCod"><button id="BTCBn"  data-clipboard-target="#btc-key" alt="Copy to clipboard">Bitcoin</button></li> -->
+		<li id="AliPay">AliPay</li>
+		<li id="WeChat">WeChat</li>
+	</ul>
+	<div id="QRBox" class="pos-f left-100">
+		<div id="MainBox"></div>
 	</div>
-	<p class="reward-notice"></p>
-</div>
+	<!-- Bitcoin 账号
+	<input id="btc-key" type="text" value="14JkMR68n4PBASB3TgvpjtaPTbfffSwFbW" readonly="readonly"> -->
 
 ## Social Network
 
 
 
-## Credit
+## Credits
 
-- [jekyll-nehan]({{site.baseurl}}/about-old/) is Jekyll theme powered by [nehan.js](https://github.com/tategakibunko/nehan.js) to display your blog post like book style.
-- [toucher](http://bh-lay.github.io/toucher) 
-- [Progressive Web Apps on iOS are here](https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7)
+### Projects
+
+- <a href="{{site.baseurl}}/about-old/" target="_blank">jekyll-nehan</a> is Jekyll theme powered by <a href="https://github.com/tategakibunko/nehan.js" target="_blank">nehan.js</a> to display your blog post like book style.
+- <a href="http://bh-lay.github.io/toucher" target="_blank">toucher</a>
+- <a href="https://github.com/Kaiyuan/sponsor-page/tree/master/simple" target="_blank">sponsor-page</a>
+
+### Articles
+
+- <a href="https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7" target="_blank">Progressive Web Apps on iOS are here</a>
