@@ -8,9 +8,9 @@ comments: true
 ##  友善的邻居们
 
 
-- [Patrick@NUA](http://pengqiqi.com) by @PatrickPeng
-- [曹说春秋](https://chunqiu.bighu.cn)
-- [マネーのブログ](https://orewa.money)
+- <a href="http://pengqiqi.com" target="_blank">Patrick@NUA</a> by @PatrickPeng
+- <a href="https://chunqiu.bighu.cn" target="_blank">曹说春秋</a>
+- <a href="https://orewa.money" target="_blank">マネーのブログ</a>
 
 
 <h3 style="text-align: right"> 互勉 </h3>
