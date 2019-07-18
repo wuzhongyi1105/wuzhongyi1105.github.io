@@ -59,7 +59,7 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 ## Donate
 
 打賞這個功能我是猶豫了很久才加上去的，本來是覺著自己的文章完全沒有值得打賞的地方，畢竟誰會去關心一個滿腹牢騷的男人寫的東西。不過，後來覺得這個功能蠻好玩，就還是加了進去。（其實是申請了收款碼沒地方放）
-
+<div>
 <a id="github" href="https://github.com/Kaiyuan/donate-page" target="_blank" class="pos-f tr3" title="Github"></a>
 <div id="DonateText" class="tr3">Sponsor</div>
 <ul id="donateBox" class="list pos-f tr3">
@@ -73,6 +73,7 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 </div>
 <!-- Bitcoin 账号
 <input id="btc-key" type="text" value="14JkMR68n4PBASB3TgvpjtaPTbfffSwFbW" readonly="readonly"> -->
+</div>
 
 ## Social Network
 
@@ -84,7 +85,7 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 
 - <a href="{{site.baseurl}}/about-old/" target="_blank">jekyll-nehan</a> is Jekyll theme powered by <a href="https://github.com/tategakibunko/nehan.js" target="_blank">nehan.js</a> to display your blog post like book style.
 - <a href="http://bh-lay.github.io/toucher" target="_blank">toucher</a>
-- <a href="https://github.com/Kaiyuan/sponsor-page/tree/master/simple" target="_blank">sponsor-page</a>
+- <a href="https://github.com/Kaiyuan/sponsor-page" target="_blank">sponsor-page</a>
 
 ### Articles
 
