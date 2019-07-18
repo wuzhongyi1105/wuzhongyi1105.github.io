@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 comments: true
 ---
-## 瓠樽的由来
+
+<h2>零碎的時間一點一點重新整修這個Blog，並且取了<ruby><rb>瓠樽</rb><rt>hù zūn</rt></ruby>的由来</h2>
 
 這段時間抽了些零碎的時間一點一點重新整修這個Blog，並且取了<ruby><rb>瓠樽</rb><rt>hù zūn</rt></ruby>這個名字，取自《莊子·逍遙游》里的『今子有五石之瓠，何不慮以為大樽，而浮於江湖，而憂其瓠落無所容？』
 取這麼一個拗口的名字是有原因的，2018年末，知名的博主馮大輝[抱怨寫Blog無用，得到的都是無用的信息反饋](https://dbanotes.net/review/blog-is-over.html)一時間在一群博主之間引發了不小的震動。<br>
