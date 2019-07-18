@@ -45,7 +45,7 @@ a{
 	height: 70px;
 	line-height: 70px;
 	color: #fff;
-	background: #ffd886 url(images/like.svg) no-repeat center 10px;
+	background: #ffd886 url(/assets/paymnet/like.svg) no-repeat center 10px;
 	background-size: 20px;
 	border-radius: 35px;
 	text-align: center;
@@ -95,10 +95,10 @@ a{
 	display: block;
 }
 #donateBox #PayPal {
-	background-image: url(images/paypal.svg);
+	background-image: url(/assets/paymnet/paypal.svg);
 }
 #donateBox>#BTC {
-	background-image: url(images/bitcoin.svg);
+	background-image: url(/assets/paymnet/bitcoin.svg);
 	line-height: 28px;
 }
 #donateBox>#BTC:hover {
@@ -109,10 +109,10 @@ a{
 	cursor: pointer;
 }
 #donateBox #AliPay {
-	background-image: url(images/alipay.svg);
+	background-image: url(/assets/paymnet/alipay.svg);
 }
 #donateBox #WeChat {
-	background-image: url(images/wechat.svg);
+	background-image: url(/assets/paymnet/wechat.svg);
 }
 #QRBox {
 	top: 0;
@@ -153,7 +153,7 @@ a{
 	height: 24px;
 	left: calc(50% + 135px);
 	top: calc(50% - 30px);
-	background: no-repeat center center url(images/github.svg);
+	background: no-repeat center center url(/assets/paymnet/github.svg);
 	background-size: contain;
 	opacity: 0.3;
 	transform: rotatez(15deg );
