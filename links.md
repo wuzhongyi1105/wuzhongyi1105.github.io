@@ -7,7 +7,7 @@ comments: true
 
 ##  友善的邻居们
 
-     Author     |     Website     
+Author | Website
 :-------------: | :--------------:
      @PatrickPeng     |   <a href="http://pengqiqi.com" target="_blank">Patrick@NUA</a>   
 BigHu| <a href="https://chunqiu.bighu.cn" target="_blank">曹说春秋</a>
