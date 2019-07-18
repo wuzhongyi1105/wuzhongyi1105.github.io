@@ -64,6 +64,8 @@ a{
 	height: 28px;
 	float: left;
 	z-index: 1;
+	padding-left: 0px;
+	margin-left: 0px;
 }
 #donateBox li {
 	width: 74px;
