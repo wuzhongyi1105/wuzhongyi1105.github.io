@@ -76,4 +76,6 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 
 ## Credit
 
-[jekyll-nehan]({{site.baseurl}}/about-old/) is Jekyll theme powered by [nehan.js](https://github.com/tategakibunko/nehan.js) to display your blog post like book style.
+- [jekyll-nehan]({{site.baseurl}}/about-old/) is Jekyll theme powered by [nehan.js](https://github.com/tategakibunko/nehan.js) to display your blog post like book style.
+- [toucher](http://bh-lay.github.io/toucher) 
+- [Progressive Web Apps on iOS are here](https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7)
