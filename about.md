@@ -49,6 +49,7 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 
 ## 今後的打算
 
+Null
 
 ## 键盘快捷键 Keyboard shortcuts
 
@@ -85,7 +86,7 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 
 ## Social Network
 
-
+Null
 
 ## Credits
 
