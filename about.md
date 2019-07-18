@@ -9,7 +9,9 @@ comments: true
 
 這段時間抽了些零碎的時間一點一點重新整修這個 Blog，並且取了『<ruby><rb>瓠樽</rb><rt>hù zūn</rt></ruby>』這個名字，取自《莊子·逍遙游》里的『今子有五石之瓠，何不慮以為大樽，而浮於江湖，而憂其瓠落無所容？』<br>
 取這麼一個拗口的名字是有原因的，2018年末，知名的 Blogger @Fenng 在一篇 blog 中抱怨<a href="https://dbanotes.net/review/blog-is-over.html" target="_blank">寫 Blog 毫无回报，得到的都是無用的信息反饋</a>。
+
 >写 Blog 这么多年，投入的精力和资金几乎没有得到什么有效的回报，换来的都是一些糟心的信息反馈。非常愚蠢。
+
 一時間在一群博主之間引發了不小的震動。<a href="https://dbarobin.com/2018/12/26/blog-live-forever/" target="_blank">[1]</a><a href="https://liuf.net/blog/2019/01/end-of-personal-blog-era/" target="_blank">[2]</a><br>
 說實話我是深不以為然，儘管我不敢說我的文字有多大的價值，但是，如果我碼出來的文字真的如此無用，那麼就讓其成為我在汪洋般的互聯網上的腰舟吧。这些無用的東西就是這麼支撐起我們的生活來著。最重要的是我可以滿足表達的慾望，這樣就足夠了。<br>
 說到底，什麼樣的文字吸引來什麼樣的讀者，与其要說個人 Blog 時代的終結倒不如說是拋磚引玉的時代一去不復返更加恰如其分。<br>
