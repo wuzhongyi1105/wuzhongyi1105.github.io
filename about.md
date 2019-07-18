@@ -93,9 +93,11 @@ Null
 ### Projects
 
 - <a href="{{site.baseurl}}/about-old/" target="_blank">jekyll-nehan</a> is Jekyll theme powered by <a href="https://github.com/tategakibunko/nehan.js" target="_blank">nehan.js</a> to display your blog post like book style.
+- <a href="https://github.com/fooleap/disqus-php-api" target="_blank">Disqus PHP API</a>
 - <a href="http://bh-lay.github.io/toucher" target="_blank">toucher</a>
 - <a href="https://github.com/Kaiyuan/sponsor-page" target="_blank">sponsor-page</a>
 
 ### Articles
 
 - <a href="https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7" target="_blank">Progressive Web Apps on iOS are here</a>
+- <a href="https://www.zhihu.com/question/24822927/answer/127293043" target="_blank">position:fixed实现相对父级元素定位 - 知乎用户的回答</a>
