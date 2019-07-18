@@ -6,13 +6,11 @@ comments: true
 ---
 
 ##  友善的邻居们
-<table style="table-layout:auto">
-<thead><tr><th>Author</th><th>Website</th></thead>
-<tbody><tr><td>@PatrickPeng</td><td><a href="http://pengqiqi.com" target="_blank">Patrick@NUA</a></td></tr>
-<tr><td>BigHu</td><td><a href="https://chunqiu.bighu.cn" target="_blank">曹说春秋</a></td></tr>
-<tr><td>Money</td><td><a href="https://orewa.money" target="_blank">マネーのブログ</a></td></tr>
-<tr><td><a href="https://hesay.me/about/" target="_blank">indes</a></td><td><a href="https://chunqiu.bighu.cn" target="_blank">缄默泄漏</a></td></tr>
-</tbody></table>
+- <a href="http://pengqiqi.com" target="_blank">Patrick@NUA</a>   by  @PatrickPeng
+- <a href="https://chunqiu.bighu.cn" target="_blank">曹说春秋</a>
+- <a href="https://orewa.money" target="_blank">マネーのブログ</a>
+- <a href="https://chunqiu.bighu.cn" target="_blank">缄默泄漏</a>   by  <a href="https://hesay.me/about/" target="_blank">indes</a>
+
 
 
 <h3 style="text-align: right"> 互勉 </h3>
