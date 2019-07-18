@@ -13,7 +13,6 @@ comments: true
 - <a href="https://orewa.money" target="_blank">マネーのブログ</a>
 <div style = "text-align:center">
 Author | Website
------- | -------
 :----: | :-----:
 @PatrickPeng | <a href="http://pengqiqi.com" target="_blank">Patrick@NUA</a>
 BigHu | <a href="https://chunqiu.bighu.cn" target="_blank">曹说春秋</a>
