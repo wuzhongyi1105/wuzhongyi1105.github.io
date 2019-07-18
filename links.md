@@ -10,7 +10,7 @@ comments: true
 - <a href="https://chunqiu.bighu.cn" target="_blank">曹说春秋</a>
 - <a href="https://orewa.money" target="_blank">マネーのブログ</a>
 - <a href="https://hesay.me" target="_blank">缄默泄漏</a> &emsp; by &nbsp; <a href="https://hesay.me/about/" target="_blank">indes</a>
-
+- <a href="https://yalv.me/" target="_blank">YALV</a> &emsp; by &nbsp; <a href="https://t.me/zircon_lpc" target="_blank">yalv</a>
 
 
 <h3 style="text-align: right"> 互勉 </h3>
