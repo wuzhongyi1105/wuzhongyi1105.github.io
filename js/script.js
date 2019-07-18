@@ -26,6 +26,8 @@ jQuery(document).ready(function() {
 			showQR(AliPayQR);
 		} else if (thisID === 'WeChat') {
 			showQR(WeChanQR);
+		} else if (thisID === 'PayPal') {
+			window.open("https://paypal.me/dylanwzy"); 
 		}
 	});
 
