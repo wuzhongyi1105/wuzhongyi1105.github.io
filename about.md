@@ -60,19 +60,19 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 
 打賞這個功能我是猶豫了很久才加上去的，本來是覺著自己的文章完全沒有值得打賞的地方，畢竟誰會去關心一個滿腹牢騷的男人寫的東西。不過，後來覺得這個功能蠻好玩，就還是加了進去。（其實是申請了收款碼沒地方放）
 
-	<a id="github" href="https://github.com/Kaiyuan/donate-page" target="_blank" class="pos-f tr3" title="Github"></a>
-	<div id="DonateText" class="tr3">Sponsor</div>
-	<ul id="donateBox" class="list pos-f tr3">
-		<li id="PayPal"><a href="https://www.paypal.me/dylanwzy" target="_blank">PayPal</a></li>
-		<!-- <li id="BTC" data-footnote="Copy addres and show QRCod"><button id="BTCBn"  data-clipboard-target="#btc-key" alt="Copy to clipboard">Bitcoin</button></li> -->
-		<li id="AliPay">AliPay</li>
-		<li id="WeChat">WeChat</li>
-	</ul>
-	<div id="QRBox" class="pos-f left-100">
-		<div id="MainBox"></div>
-	</div>
-	<!-- Bitcoin 账号
-	<input id="btc-key" type="text" value="14JkMR68n4PBASB3TgvpjtaPTbfffSwFbW" readonly="readonly"> -->
+<a id="github" href="https://github.com/Kaiyuan/donate-page" target="_blank" class="pos-f tr3" title="Github"></a>
+<div id="DonateText" class="tr3">Sponsor</div>
+<ul id="donateBox" class="list pos-f tr3">
+	<li id="PayPal"><a href="https://www.paypal.me/dylanwzy" target="_blank">PayPal</a></li>
+	<!-- <li id="BTC" data-footnote="Copy addres and show QRCod"><button id="BTCBn"  data-clipboard-target="#btc-key" alt="Copy to clipboard">Bitcoin</button></li> -->
+	<li id="AliPay">AliPay</li>
+	<li id="WeChat">WeChat</li>
+</ul>
+<div id="QRBox" class="pos-f left-100">
+	<div id="MainBox"></div>
+</div>
+<!-- Bitcoin 账号
+<input id="btc-key" type="text" value="14JkMR68n4PBASB3TgvpjtaPTbfffSwFbW" readonly="readonly"> -->
 
 ## Social Network
 
