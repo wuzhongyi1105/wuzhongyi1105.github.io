@@ -49,7 +49,7 @@ a{
 	background-size: 20px;
 	border-radius: 35px;
 	text-align: center;
-	left: calc(50% - 120px);
+	left: calc(50% - 145px);
 	top: calc(50% - 60px);
 	z-index: -1;
 	transform: rotatez(-15deg );
@@ -60,7 +60,7 @@ a{
 	background-color: #fff;
 	border: 1px solid #ddd;
 	border-radius: 6px;
-	width: 299px;
+	width: 224px;
 	height: 28px;
 	float: left;
 	z-index: 1;
@@ -151,7 +151,7 @@ a{
 #github {
 	width: 24px;
 	height: 24px;
-	left: calc(50% + 135px);
+	left: calc(50% + 60px);
 	top: calc(50% - 30px);
 	background: no-repeat center center url(/assets/paymnet/github.svg);
 	background-size: contain;
