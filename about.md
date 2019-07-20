@@ -5,7 +5,7 @@ permalink: /about/
 comments: true
 ---
 
-[TOC]
+{:toc}
 
 <h2>『<ruby><rb>瓠樽</rb><rt>hù zūn</rt></ruby>』的由来</h2>
 
