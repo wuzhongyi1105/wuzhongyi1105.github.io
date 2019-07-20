@@ -11,7 +11,7 @@ comments: true
 - <a href="https://orewa.money" target="_blank">マネーのブログ</a>
 - <a href="https://hesay.me" target="_blank">缄默泄漏</a> &emsp; by &nbsp; <a href="https://hesay.me/about/" target="_blank">indes</a>
 - <a href="https://yalv.me/" target="_blank">YALV</a> &emsp; by &nbsp; <a href="https://t.me/zircon_lpc" target="_blank">yalv</a>
-
+- <a href="https://yumoe.com/" target="_blank">森の色</a> &emsp; by &nbsp; @txperl
 
 <h3 style="text-align: right"> 互勉 </h3>
 
