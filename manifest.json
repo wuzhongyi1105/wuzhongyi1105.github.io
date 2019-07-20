@@ -1,10 +1,12 @@
 {
   "name": "瓠樽",
   "short_name": "瓠樽",
+  "description": "DylanWu's blog app.",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
-  "description": "DylanWu's blog app.",
+  "theme_color": "#e8e8e8",
+
   "icons": [{
     "src": "assets/icon/apple-touch-icon-16x16.png",
     "sizes": "16x16",
