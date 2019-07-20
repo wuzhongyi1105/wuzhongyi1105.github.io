@@ -2,7 +2,7 @@
 layout: post
 title: 藝術流派的淡化
 date: 2018-09-04
-book_type: hori
+book_type: vert
 comments: true
 ---
 
