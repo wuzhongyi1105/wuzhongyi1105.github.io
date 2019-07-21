@@ -12,9 +12,9 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="http://pengqiqi.com/" target="_blank"><img height="80" width="80" src="https://static.fatesinger.com/2018/05/q3wyes7va2ehq59y.JPG"></a>
+            <a class="link link--primary" href="http://pengqiqi.com/" target="_blank"><img height="80" width="80" src="https://secure.gravatar.com/avatar/f27d7a1f38bb902f3b0e872b73767ecd?s=420"></a>
             <div class="userItem-name">
-            <a class="link link--primary" href="http://pengqiqi.com/" target="_blank">Patrick@NUA</a>
+            <a class="link link--primary" href="http://pengqiqi.com/" target="_blank" style="float: left;width: 100%;">Patrick@NUA</a>
             <span style="font-size: 10px;">by @PatrickPeng</span>
             </div>
             </div>
@@ -23,7 +23,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://chunqiu.bighu.cn" target="_blank"><img height="80" width="80" src="https://source.yalv.me/wp-content/uploads/2019/06/indes.jpg"></a>
+            <a class="link link--primary" href="https://chunqiu.bighu.cn" target="_blank"><img height="80" width="80" src="https://bighu520.github.io/images/avatar.png?v=1563426626378"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://chunqiu.bighu.cn" target="_blank" style="float: left;width: 100%;">曹说春秋</a>
             <span style="font-size: 10px;">by </span>
@@ -71,7 +71,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://yumoe.com/" target="_blank"><img height="80" width="80" src="https://source.yalv.me/wp-content/uploads/2019/04/favicon.jpg"></a>
+            <a class="link link--primary" href="https://yumoe.com/" target="_blank"><img height="80" width="80" src="https://file.tls.moe/asset/picture/background/6eab6a8b-a5b4-447d-b3e6-a0e39931c78b.jpeg"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://yumoe.com/" target="_blank" style="float: left;width: 100%;">森の色</a>
             <span style="font-size: 10px;">by @txperl</span>
@@ -84,7 +84,9 @@ comments: true
             <div class="userItem-content">
             <a class="link link--primary" href="https://www.chairyfish.com" target="_blank"><img height="80" width="80" src="https://www.chairyfish.com/assets/img/logo.png"></a>
             <div class="userItem-name">
-            <a class="link link--primary" href="https://www.chairyfish.com" target="_blank">五斤的博客</a>
+            <a class="link link--primary" href="https://www.chairyfish.com" target="_blank">五斤</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://www.instagram.com/chairyfish/" target="_blank">chairyfish</a>
             </div>
             </div>
             </div>
