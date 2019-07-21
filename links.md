@@ -84,7 +84,7 @@ comments: true
             <div class="userItem-content">
             <a class="link link--primary" href="https://www.chairyfish.com" target="_blank"><img height="80" width="80" src="https://www.chairyfish.com/assets/img/logo.png"></a>
             <div class="userItem-name">
-            <a class="link link--primary" href="https://www.chairyfish.com" target="_blank">五斤</a>
+            <a class="link link--primary" href="https://www.chairyfish.com" target="_blank" style="float: left;width: 100%;">五斤</a>
             <span style="font-size: 10px;">by </span>
             <a style="font-size: 10px;" href="https://www.instagram.com/chairyfish/" target="_blank">chairyfish</a>
             </div>

@@ -364,7 +364,7 @@ a img.aligncenter {
 }
 
 .userItem-name {
-	line-height: 0.8;
+	line-height: 1;
     margin-top: 8px;
     text-align: center
 }
