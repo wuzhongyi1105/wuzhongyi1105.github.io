@@ -1,7 +1,6 @@
 ---
 layout: social
 title: Gallery
-keywords: offline
 comments: false
 permalink: /gallery/
 ---
