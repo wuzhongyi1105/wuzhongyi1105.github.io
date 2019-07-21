@@ -94,7 +94,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="http://leohope.com" target="_blank"><img height="72" width="72" src="https://raw.githubusercontent.com/HusterHope/blogimage/master/favicon.png"></a>
+            <a class="link link--primary" href="http://leohope.com" target="_blank"><img height="80" width="80" src="https://raw.githubusercontent.com/HusterHope/blogimage/master/favicon.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="http://leohope.com" target="_blank" style="float: left;width: 100%;">Hope</a>
             <span style="font-size: 10px;">by </span>
