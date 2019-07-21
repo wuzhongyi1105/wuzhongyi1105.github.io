@@ -71,7 +71,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://yumoe.com/" target="_blank"><img height="80" width="80" src="https://file.tls.moe/asset/picture/background/6eab6a8b-a5b4-447d-b3e6-a0e39931c78b.jpeg"></a>
+            <a class="link link--primary" href="https://yumoe.com/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/icon/14175.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://yumoe.com/" target="_blank" style="float: left;width: 100%;">森の色</a>
             <span style="font-size: 10px;">by @txperl</span>
@@ -87,6 +87,18 @@ comments: true
             <a class="link link--primary" href="https://www.chairyfish.com" target="_blank" style="float: left;width: 100%;">五斤</a>
             <span style="font-size: 10px;">by </span>
             <a style="font-size: 10px;" href="https://www.instagram.com/chairyfish/" target="_blank">chairyfish</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="http://leohope.com" target="_blank"><img height="72" width="72" src="https://raw.githubusercontent.com/HusterHope/blogimage/master/favicon.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="http://leohope.com" target="_blank" style="float: left;width: 100%;">Hope</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://leohope.com/about/" target="_blank">Lhp</a>
             </div>
             </div>
             </div>
