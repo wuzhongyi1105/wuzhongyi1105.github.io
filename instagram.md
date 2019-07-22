@@ -5,6 +5,8 @@ permalink: /gallery/
 comments: true
 ---
 
+<div id="instafetch"></div>
+
 <script type="text/javascript" src="{{site.baseurl}}/js/instafetch.min.js"></script>
 
 <script type="text/javascript">
