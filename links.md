@@ -103,6 +103,18 @@ comments: true
             </div>
             </div>
             </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://www.iloft.xyz" target="_blank"><img height="80" width="80" src="https://www.iloft.xyz/logo.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://www.iloft.xyz" target="_blank" style="float: left;width: 100%;">ILOFT</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://www.iloft.xyz/about/" target="_blank">Solyn</a>
+            </div>
+            </div>
+            </div>
+            </div>
 </div>
 
 <h3 style="text-align: right"> 互勉 </h3>
