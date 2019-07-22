@@ -9,7 +9,7 @@ comments: true
 
 <script type="text/javascript">
   instafetch.init({
-    accessToken: '1291703100.4d5894f.aa376b91d5f1485fa494f8e04b6c5973',
+    accessToken: '1291703100.1677ed0.cc523f1d7ffa42699cb142858be54d0a',
     target: 'instafetch',
     numOfPics: 20,
     caption: false
