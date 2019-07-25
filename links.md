@@ -71,7 +71,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://yumoe.com/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/icon/14175.png"></a>
+            <a class="link link--primary" href="https://yumoe.com/" target="_blank"><img height="80" width="80" src="https://avatars2.githubusercontent.com/u/9015538?s=460&v=4"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://yumoe.com/" target="_blank" style="float: left;width: 100%;">森の色</a>
             <span style="font-size: 10px;">by @txperl</span>
