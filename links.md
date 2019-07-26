@@ -23,7 +23,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://chunqiu.bighu.cn" target="_blank"><img height="80" width="80" src="https://bighu520.github.io/images/avatar.png?v=1563426626378"></a>
+            <a class="link link--primary" href="https://chunqiu.bighu.cn" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/9136.jpg"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://chunqiu.bighu.cn" target="_blank" style="float: left;width: 100%;">曹说春秋</a>
             <span style="font-size: 10px;">by </span>
