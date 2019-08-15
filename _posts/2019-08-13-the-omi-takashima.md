@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: 近江高島
 date: 2019-08-13
 book_type: vert
 comments: true
