@@ -6,7 +6,7 @@ book_type: vert
 comments: true
 ---
 
-## 作品信息提要
+## 信息提要
 
 **清順治十四年 1657 丁西 三十九歲**
 <ol class="gap-after">
