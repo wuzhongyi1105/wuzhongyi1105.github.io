@@ -2,6 +2,8 @@
 layout: null
 ---
 
+importScripts('https://cdn.onesignal.com/sdks/OneSignalSDKWorker.js');
+
 `use strict`;
 
 const
