@@ -106,9 +106,9 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://www.iloft.xyz" target="_blank"><img height="80" width="80" src="https://www.iloft.xyz/logo.svg"></a>
+            <a class="link link--primary" href="https://www.iloft.xyz/" target="_blank"><img height="80" width="80" src="https://www.iloft.xyz/logo.svg"></a>
             <div class="userItem-name">
-            <a class="link link--primary" href="https://www.iloft.xyz" target="_blank" style="float: left;width: 100%;">ILOFT</a>
+            <a class="link link--primary" href="https://www.iloft.xyz/" target="_blank" style="float: left;width: 100%;">ILOFT</a>
             <span style="font-size: 10px;">by </span>
             <a style="font-size: 10px;" href="https://www.iloft.xyz/about/" target="_blank">Solyn</a>
             </div>
@@ -118,11 +118,23 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://withdewhua.space" target="_blank"><img height="80" width="80" src="https://cdn.jsdelivr.net/gh/WithdewHua/static@withdewhua-hugo/img/avatar.jpg"></a>
+            <a class="link link--primary" href="https://withdewhua.space/" target="_blank"><img height="80" width="80" src="https://cdn.jsdelivr.net/gh/WithdewHua/static@withdewhua-hugo/img/avatar.jpg"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://withdewhua.space" target="_blank" style="float: left;width: 100%;">方寸间</a>
             <span style="font-size: 10px;">by </span>
             <a style="font-size: 10px;" href="https://withdewhua.space/about/" target="_blank">WithdewHua</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://miracol.cn/" target="_blank"><img height="80" width="80" src="https://miracol.cn/images/avatar.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://miracol.cn/" target="_blank" style="float: left;width: 100%;">Miracol</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://t.me/yzhongjun" target="_blank">云中君</a>
             </div>
             </div>
             </div>
