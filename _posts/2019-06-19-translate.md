@@ -4,6 +4,7 @@ title: 龚贤畫跋翻譯一則
 date: 2019-06-19
 book_type: vert
 comments: true
+license: essay
 ---
 
 ## 信息提要
