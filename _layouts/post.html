@@ -19,11 +19,11 @@ layout: default
 {% case page.license %}
   {% when 'paper' %}
     <hr style="margin: 2em 0 2em 0;border: 0;border-top: 1px solid rgba(0,0,0,.1);">
-      <p style="text-align: center;">本文已发表于《{{ page.paper_name }}》 {{ page.paper_times }}，見諸第{{ page.paper_position }}頁，如欲轉載，請事先徵求出版社以及作者本人的意見。</p>
+      <p style="text-align: center;">本文已发表于《{{ page.paper_name }}》{{ page.paper_times }}，見諸第{{ page.paper_position }}頁，如欲轉載，請事先徵求出版社以及作者本人的意見。</p>
     <hr style="margin: 2em 0 2em 0;border: 0;border-top: 1px solid rgba(0,0,0,.1);">
   {% when 'essay' %}
     <hr style="margin: 2em 0 2em 0;border: 0;border-top: 1px solid rgba(0,0,0,.1);">
-      <p style="text-align: center;">這是一篇原創文章，請您務必遵守<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>里的約定進行轉載。</p>
+      <p style="text-align: center;">這是一篇原創文章，請您務必遵守 <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 中的約定進行轉載。</p>
     <hr style="margin: 2em 0 2em 0;border: 0;border-top: 1px solid rgba(0,0,0,.1);">
   {% else %}
 {% endcase %}
