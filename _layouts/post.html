@@ -16,6 +16,10 @@ layout: default
   </article>
 </div>
 
+{% if page.comments %}
+{% include disqus.html %}
+{% endif %}
+
 {% case page.license %}
   {% when 'paper' %}
     <hr style="margin: 2em 0 2em 0;border: 0;border-top: 1px solid rgba(0,0,0,.1);">
@@ -27,7 +31,3 @@ layout: default
     <hr style="margin: 2em 0 2em 0;border: 0;border-top: 1px solid rgba(0,0,0,.1);">
   {% else %}
 {% endcase %}
-
-{% if page.comments %}
-{% include disqus.html %}
-{% endif %}
