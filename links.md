@@ -139,6 +139,18 @@ comments: true
             </div>
             </div>
             </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://storeweb.cn/" target="_blank"><img height="80" width="80" src="https://storeweb.cn/upload/site/image/2019-07/1-4-2LGA2P.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://storeweb.cn/" target="_blank" style="float: left;width: 100%;">个站商店</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://storeweb.cn/member/one/1" target="_blank">星球彦</a>
+            </div>
+            </div>
+            </div>
+            </div>
 </div>
 
 <h3 style="text-align: right"> 互勉 </h3>
