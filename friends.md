@@ -34,7 +34,7 @@ permalink: /friends/
         border: 1px solid rgba(0,0,0,.05);
         box-shadow: 0 1px 4px rgba(0,0,0,.04);
         overflow: visible;
-        min-height: 65px;
+        min-height: 50px;
     }
     .site-friend-link-image {
         float: left;
