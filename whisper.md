@@ -3,139 +3,149 @@ layout: social
 title: Whisper
 permalink: /whisper/
 ---
-<!-- 小红帽友链_v1.00 2018-07-14 星球彦 http://storeweb.cn -->
-
-这些友情链接是来自<a href="http://storeweb.cn" target="_blank" class="site-friend-link-project">个站商店</a>的一个子项目 <a href="http://storeweb.cn" target="_blank" class="site-friend-link-project">『小红帽友链』</a>，点<a
-        href="" target="_blank" class="site-friend-link-homepage"> 这里 </a>访问我在个站商店上的主页
+<!-- 晴天说说_v1.11 2019-05-18 星球彦 http://storeweb.cn -->
 <br>
-<script src='https://libs.baidu.com/jquery/1.11.1/jquery.min.js'></script>
+这些说说是来自<a href="http://storeweb.cn" target="_blank" class="site-friend-link-homepage">个站商店</a>的一个子项目 <a
+        href="http://storeweb.cn" target="_blank" class="site-friend-link-project">『天晴说说』</a>，点<a href=""
+                                                                                                  target="_blank"
+                                                                                                  class="site-friend-link-homepage">
+    这里 </a>访问我在个站商店上的主页
+<br>
+<br>
+<br>
 <!-- ----------------------------------- 配置 --------------------------------------- -->
 <!-- HTTPS 加载此jquery：-->
-<!--<script src='https://libs.baidu.com/jquery/1.11.1/jquery.min.js'></script>-->
+<script src='https://libs.baidu.com/jquery/1.11.1/jquery.min.js'></script>
 <!-- ----------------------------------- 配置 --------------------------------------- -->
 <style type="text/css">
     .hide {
-        display: none;
+        display: none !important;
     }
     .clear {
         clear: both;
     }
-    .site-friend-link {
-        margin-bottom: 20px;
-        overflow: hidden;
+    .storeweb-say>div.say-container {
+        margin-top: 10px;
+        margin-bottom: 25px;
+        padding: 10px 20px;
+        background-color: #fafafa;    /*#bed742*/
+        border-radius: 6px;
+        font-size: 15px;
+        color: #d93a49 !important;    /*#2e3a1f*/
+        line-height: 200%;
+        border: 1px #ccc solid;
     }
-    .site-friend-link div {
-        position: relative;
-        float: left;
-        width: 200px;
-        margin: 8px 8px;
-        padding: 8px;
-        border-radius: 4px;
-        border: 1px solid #d1c7b7;
-        background-color: #fffef9;
-        overflow: visible;
-        min-height: 65px;
+    .storeweb-say-month {
+        font-size: 30px;
     }
-    .site-friend-link-image {
-        float: left;
-        width: 50px;
-        border-radius: 25px;
+    .storeweb-say-day {
+        font-size: 18px;
     }
-    .site-friend-link-name {
-        float: left;
-        width: calc(100% - 50px);
-        text-align: left;
-        padding-left: 10px;
-        font-size: 14px;
-        white-space: nowrap;
-        text-overflow: ellipsis;
-        overflow: hidden;
+    .storeweb-say-name {
+        font-size: 18px;
+        margin-left: 20px;
+        color: #333 !important;
     }
-    .site-friend-link-into {
-        float: left;
-        width: calc(100% - 50px);
-        text-align: left;
-        padding-left: 10px;
-        color: #999;
-        margin-top: 4px;
-        white-space: nowrap;
-        text-overflow: ellipsis;
-        overflow: hidden;
-        font-size: 12px;
+    .say-container>img {
+        margin-top: 16px;
     }
-    .site-friend-link-count {
-        position: absolute;
-        top: -5px;
-        right: -5px;
-        width: 16px;
-        height: 16px;
-        border-radius: 8px;
-        background-color: #ff7d1e;
-        color: white !important;
-        font-size: 10px;
-        padding-left: 5px;
+    .storeweb-say-name:hover {
+        color: #0074d9 !important;
+        text-decoration: underline;
+    }
+    .is_member_others{
+        color: #d71345 !important;
+    }
+    .primary {
+        border: none;
+        background-color: #467B96 !important;
+        cursor: pointer;
+        -moz-border-radius: 2px;
+        -webkit-border-radius: 2px;
+        border-radius: 2px;
+        color: #FFF !important;
+    }
+    .btn {
+        border: none;
+        background-color: #E9E9E6 !important;
+        cursor: pointer;
+        -moz-border-radius: 2px;
+        -webkit-border-radius: 2px;
+        border-radius: 2px;
+        display: inline-block;
+        padding: 4px 12px;
+        height: 34px;
+        color: #666 !important;
+        vertical-align: middle;
+        zoom: 1;
+    }
+    .btn:hover {
+        background-color: #666 !important;
+        color: #E9E9E6 !important;
     }
 </style>
 <script data-no-instant>
     // ----------------------------------- 配置 ---------------------------------------
-    var url = "https://storeweb.cn/api/friend_link";  // 如果你的网站是HTTPS，则用这一行代码
-    //var url = "http://storeweb.cn/api/friend_link";     // 如果你的网站是HTTP
-    var logo_size = 1; // 1 == 小图 2 ==大图
+    //var url = "https://storeweb.cn/api/say";  // 如果你的网站是HTTPS，则用这一行代码
+    var url = "http://storeweb.cn/api/say";     // 如果你的网站是HTTP
     // ----------------------------------- 配置 ---------------------------------------
-    function get_friend_link_api(timeout) {
+    function get_say_api(timeout) {
         $.ajax({
             type: 'get',
             url: url,
             async: true,
             dataType: 'jsonp',
-            data: {
-                size: logo_size
-            },
-            timeout : 3000,
-            success: function (success) {
-                if (success['success'] == 1) {
+            data: {},
+            timeout: 3000,
+            success: function (result) {
+                if (result.success == 1) {
                     //console.log(success['data']);
-                    template_make(success['data']);
-                    set_storeweb_info(success['information']);
+                    template_make(result.data, result.information);
+                    set_storeweb_info(result.information);
+                    set_pagiation_button(result.pagination);
                 } else {
-                    $('.site-friend-link').html(success['info']);
+                    $('.site-friend-link').html(result.info);
                 }
             },
-            complete : function(XMLHttpRequest,status){ //请求完成后最终执行参数
-                if(status=='timeout'){//超时,status还有success,error等值的情况
-                    if(timeout==1){
-                        $('.site-friend-link').html('获取数据超时……请联系个站商店小彦');
-                    }else {
-                        url = "http://storeweb.cn/api/friend_link";
-                        $('.site-friend-link').html('https 获取数据超时……尝试http获取……');
-                        get_friend_link_api(1);
+            complete: function (XMLHttpRequest, status) { //请求完成后最终执行参数
+                if (status == 'timeout') {//超时,status还有success,error等值的情况
+                    if (timeout == 1) {
+                        $('.storeweb-say').html('获取数据超时……请联系个站商店小彦');
+                    } else {
+                        url = "http://storeweb.cn/api/say";
+                        $('.storeweb-say').html('https 获取数据超时……尝试http获取……');
+                        get_say_api(1);
                     }
                 }
             }
         });
     }
     $(function () {
-        $('.site-friend-link').html('正在向『个站商店』请求友链数据……');
-        get_friend_link_api(0);
+        $('.storeweb-say').html('正在向『个站商店』请求友链数据……');
+        get_say_api(0);
     })
-    function template_make(data) {
+    function template_make(data, information) {
         //console.log(data)
-        $('.site-friend-link').html('');
+        $('.storeweb-say').html('');
         $.each(data, function (key, value) {
             //console.log(value.name);
-            var template = $('#links-template').text();
-            template = template.replace('%%name%%', value.name);
-            template = template.replace('%%logo_cn%%', value.logo_cn);
-            template = template.replace('%%intro_link%%', value.intro_link);
-            template = template.replace('%%domain%%', 'http://' + value.domain);
-            template = template.replace('%%update_count%%', value.update_count);
-            if (value.update_count == 0) {
-                template = template.replace('%%update_hide%%', 'hide');
-            } else {
-                template = template.replace('%%update_hide%%', 'F');
+            var template = $('#say-template').text();
+            template = template.replace('%%content%%', value.content);
+            template = template.replace('%%name%%', value.member.name);
+            template = template.replace('%%month%%', value.create_at_month);
+            template = template.replace('%%day%%', value.create_at_day);
+            template = template.replace('%%is_member_others%%', value.is_member_others);
+            template = template.replace('%%image_cn%%', value.image_cn);
+            if(value.url == ""){
+                template = template.replace('%%url%%', '');
+                template = template.replace('%%say-url%%', 'hide');
+            }else{
+                template = template.replace('%%url%%', value.url);
+                template = template.replace('%%url%%', value.url);
+                template = template.replace('%%say-url%%', '');
             }
             var template_id = $(template);
-            $('.site-friend-link').prepend(template_id);
+            $('.storeweb-say').append(template_id);
         })
     }
     function set_storeweb_info(information) {
@@ -143,22 +153,48 @@ permalink: /whisper/
         $('.site-friend-link-project').attr('href', information['project']);
         //$('.site-friend-link-storeweb').attr('href',information['storeweb']);
     }
+    function submit_pagination(url_button) {
+        $('.storeweb-say').html('正在向『个站商店』请求友链数据……');
+        url = url_button;
+        get_say_api(0);
+    }
+    function set_pagiation_button(pagination){
+        var template = $('#say-pagination-template').text();
+        if(pagination.prev_page_url){
+            template = template.replace('%%prev_page_url%%', pagination.prev_page_url);
+            template = template.replace('%%say-button-prev%%', '');
+        }else{
+            template = template.replace('%%prev_page_url%%', '');
+            template = template.replace('%%say-button-prev%%', 'hide');
+        }
+        if(pagination.next_page_url){
+            template = template.replace('%%next_page_url%%', pagination.next_page_url);   
+            template = template.replace('%%say-button-next%%', '');
+        }else{
+            template = template.replace('%%next_page_url%%', '');
+            template = template.replace('%%say-button-next%%', 'hide');
+        }
+        var template_id = $(template);
+        $('.storeweb-say').append(template_id);
+    }
 </script>
 <div class="clear"></div>
-<div class="site-friend-link">
+<div class="storeweb-say">
 </div>
-<script type="text/html" id="links-template" data-no-instant>
-    <div>
-        <a class="site-friend-link-count %%update_hide%%">
-            %%update_count%%
-        </a>
-        <img class="site-friend-link-image"
-             src="%%logo_cn%%"/>
-        <a class="site-friend-link-name"
-           href="%%domain%%" target="_blank">
-            %%name%%
-        </a>
-        <span class="site-friend-link-into">%%intro_link%%</span>
+
+<script type="text/html" id="say-template" data-no-instant>
+    <span class="storeweb-say-month">%%month%%</span> <span class="storeweb-say-day">%%day%%</span> <span class="storeweb-say-name %%is_member_others%%">%%name%%</span>
+    <div class="say-container">
+        <div class="say-contant">%%content%%</div>
+        <a href="%%url%%" target="_blank" class="%%say-url%%">%%url%%</a>
+        <img src="%%image_cn%%">
+    </div>
+</script>
+
+<script type="text/html" id="say-pagination-template" data-no-instant>
+    <div class="say-pagination">
+        <a href="Javascript:submit_pagination('%%prev_page_url%%')" class="btn primary left %%say-button-prev%%"><< 较新的一页</a>
+        <a href="Javascript:submit_pagination('%%next_page_url%%')" class="btn primary right %%say-button-next%%">之前的一页 >></a>
     </div>
 </script>
 <div class="clear"></div>
