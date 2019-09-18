@@ -173,6 +173,69 @@ comments: true
 			PS：因為也有不少朋友也在這個平臺上，所以下面的連結可能和上方的連接有重複。
 </div>
 <script src='https://libs.baidu.com/jquery/1.11.1/jquery.min.js'></script>
+<style type="text/css">
+    .hide {
+        display: none;
+    }
+    .clear {
+        clear: both;
+    }
+    .site-friend-link {
+        margin-bottom: 20px;
+        overflow: hidden;
+    }
+    .site-friend-link div {
+        position: relative;
+        float: left;
+        width: 200px;
+        margin: 8px 8px;
+        padding: 8px;
+        border-radius: 4px;
+        border: 1px solid #d1c7b7;
+        background-color: #fffef9;
+        overflow: visible;
+        min-height: 65px;
+    }
+    .site-friend-link-image {
+        float: left;
+        width: 50px;
+        border-radius: 25px;
+    }
+    .site-friend-link-name {
+        float: left;
+        width: calc(100% - 50px);
+        text-align: left;
+        padding-left: 10px;
+        font-size: 14px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+    }
+    .site-friend-link-into {
+        float: left;
+        width: calc(100% - 50px);
+        text-align: left;
+        padding-left: 10px;
+        color: #999;
+        margin-top: 4px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        font-size: 12px;
+    }
+    .site-friend-link-count {
+        position: absolute;
+        top: -5px;
+        right: -5px;
+        width: 16px;
+        height: 16px;
+        border-radius: 8px;
+        background-color: #ff7d1e;
+        color: white !important;
+        font-size: 10px;
+        padding-left: 5px;
+    }
+</style>
 <script data-no-instant>
     // ----------------------------------- 配置 ---------------------------------------
     var url = "https://storeweb.cn/api/friend_link";  // 如果你的网站是HTTPS，则用这一行代码
