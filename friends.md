@@ -44,11 +44,11 @@ comments: true
         border-radius: 25px;
     }
     .site-friend-link-name {
-        float: left;
+        <!-- float: left; -->
         width: calc(100% - 50px);
         text-align: left;
         padding-left: 10px;
-        font-size: 14px;
+        <!-- font-size: 14px; -->
         white-space: nowrap;
         text-overflow: ellipsis;
         overflow: hidden;
