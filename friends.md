@@ -1,7 +1,7 @@
 ---
 layout: social
 title: Friends
-permalink: /Friends/
+permalink: /friends/
 comments: true
 ---
 
