@@ -28,8 +28,8 @@ permalink: /friends/
         margin: 8px 8px;
         padding: 8px;
         border-radius: 4px;
-        border: 1px solid #d1c7b7;
-        background-color: #fffef9;
+        border: 1px solid rgba(0,0,0,.05);
+        box-shadow: 0 1px 4px rgba(0,0,0,.04);
         overflow: visible;
         min-height: 65px;
     }
