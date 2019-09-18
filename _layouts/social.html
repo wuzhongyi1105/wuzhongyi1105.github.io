@@ -41,17 +41,11 @@
 
 <body>
         {% include header.html %}
-        <div class="post">
-
-            <header class="post-header">
-                <h1>{{ page.title }}</h1>
-            </header>
-
-            <article class="post-content">
-                {{ content }}
-            </article>
-
-        </div>
+        <div class="page-content" id="f">
+      <div class="wrap">
+      {{ content }}
+      </div>
+    </div>
 
     {% if page.comments %}
     {% include disqus.html %}
