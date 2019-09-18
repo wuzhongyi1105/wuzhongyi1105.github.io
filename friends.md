@@ -50,7 +50,7 @@ comments: true
         overflow: hidden;
     }
     .site-friend-link-into {
-        float: left;
+        <!-- float: left; -->
         width: calc(100% - 50px);
         text-align: left;
         padding-left: 10px;
