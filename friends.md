@@ -5,7 +5,9 @@ permalink: /friends/
 comments: true
 ---
 
-<hr style="margin: 2em 0 2em 0;border: 0;border-top: 1px solid rgba(0,0,0,.1);">
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+  </header>
 
 <div style="text-align: center;">
             下面這些友情連結是來自<a href="http://storeweb.cn" target="_blank" class="site-friend-link-project">个站商店</a>站長所開發的的一個子项目 <a href="http://storeweb.cn" target="_blank" class="site-friend-link-project">『小红帽友链』</a>這是<a href="" target="_blank" class="site-friend-link-homepage"> 我的主頁 </a>歡迎大家訪問<br>
