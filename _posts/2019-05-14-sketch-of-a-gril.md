@@ -4,6 +4,7 @@ title: 人物速寫練習一則
 date: 2019-05-14
 book_type: hori
 comments: true
+license: essay
 ---
 
 她看起來像兩廣地帶的女生

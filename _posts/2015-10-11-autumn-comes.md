@@ -4,6 +4,7 @@ title: 秋至
 date: 2015-10-11
 book_type: hori
 #comments: true
+license: essay
 ---
 
 

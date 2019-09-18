@@ -4,6 +4,7 @@ title: 北京的雪
 date: 2016-01-20
 book_type: vert
 comments: true
+license: essay
 ---
 <div class="drop-caps">時至今日，一提到香堂村，我的腦海里就浮現出一座被雪環蓋的孤島。這座島坐落在空曠無垠的荒涼平原上，孤苦伶仃，苦寂難言，就像西伯利亞那樣。我們如同被流放在這座孤島上，一起虛度光陰，圍著篝火一直苦捱到二月底，最後各奔南北。</div><br><br>
 
