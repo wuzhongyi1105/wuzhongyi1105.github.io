@@ -172,7 +172,7 @@ comments: true
 			說實話能想到做一個博客站長的聚合平臺並做到如此地步，實在是令人佩服，非常感謝<a href="https://storeweb.cn/member/one/1" target="_blank">小彦</a>站長為此做出的努力<br>
 			PS：因為也有不少朋友也在這個平臺上，所以下面的連結可能和上方的連接有重複。
 </div>
-
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script data-no-instant>
     // ----------------------------------- 配置 ---------------------------------------
     var url = "https://storeweb.cn/api/friend_link";  // 如果你的网站是HTTPS，则用这一行代码
