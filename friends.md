@@ -2,10 +2,9 @@
 layout: social
 title: Friends
 permalink: /friends/
-comments: true
 ---
 
-<div style="text-align: center;">
+<div>
             下面這些友情連結是來自<a href="http://storeweb.cn" target="_blank" class="site-friend-link-project">个站商店</a>站長所開發的的一個子项目 <a href="http://storeweb.cn" target="_blank" class="site-friend-link-project">『小红帽友链』</a>這是<a href="" target="_blank" class="site-friend-link-homepage"> 我的主頁 </a>歡迎大家訪問<br>
 			說實話能想到做一個博客站長的聚合平臺並做到如此地步，實在是令人佩服，非常感謝<a href="https://storeweb.cn/member/one/1" target="_blank">小彦</a>站長為此做出的努力<br>
 			PS：因為也有不少朋友也在這個平臺上，所以下面的連結可能和上方的連接有重複。
