@@ -1,0 +1,25 @@
+<footer class="site-footer">
+  <div class="wrap">
+    <!-- <h2 class="footer-heading">{{ site.title }}</h2> -->
+    <p class="text" style="display: inline-block;width: 50%;">{{ site.description }}</p>
+    <p class="copyright" style="width: 50%;float: right;">
+      <a href="https://github.com/tategakibunko/jekyll-nehan" >jekyll-nehan</a> is book style theme powered by <a href="https://github.com/tategakibunko/nehan.js">nehan.js</a>.
+    </p>
+  </div>
+</footer>
+
+<script>
+    // 首页打开sw
+    if("/" == '{{page.url}}'){
+        // 检测浏览器是否支持SW
+        if(navigator.serviceWorker != null){
+            navigator.serviceWorker.register('/service-worker.js')
+                .then(function(registartion){
+                    console.log('支持sw:',registartion.scope)
+                })
+        } else {
+            console.log('不支持sw')
+        }
+    }
+</script>
+
