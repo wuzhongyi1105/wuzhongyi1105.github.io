@@ -169,7 +169,6 @@ comments: true
             <a class="link link--primary" href="https://blog.99xin.me/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/IMG_9851.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://blog.99xin.me/" target="_blank" style="float: left;width: 100%;">九十九封信</a>
-            <span style="font-size: 10px;">by </span>
             <span style="font-size: 10px;">by @AihoomEason</span>
             </div>
             </div>
