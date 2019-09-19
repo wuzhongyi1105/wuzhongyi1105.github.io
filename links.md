@@ -44,7 +44,10 @@ permalink: /links/
         border-radius: 25px;
     }
     .site-friend-link-name {
-        width: calc(100% - 50px);
+	    word-break:normal;
+		width:auto;
+		display:block;
+		word-wrap : break-word ;        
         text-align: left;
         padding-left: 10px;
         white-space: nowrap;
