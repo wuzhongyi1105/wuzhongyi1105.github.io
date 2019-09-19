@@ -44,10 +44,7 @@ permalink: /links/
         border-radius: 25px;
     }
     .site-friend-link-name {
-	    word-break:normal;
-		width:auto;
-		display:block;
-		word-wrap : break-word ;        
+        width: calc(100% - 50px);
         text-align: left;
         padding-left: 10px;
         white-space: nowrap;
@@ -55,7 +52,10 @@ permalink: /links/
         overflow: hidden;
     }
     .site-friend-link-into {
-        width: calc(100% - 50px);
+        word-break:normal;
+		width:auto;
+		display:block;
+		word-wrap : break-word ;
         text-align: left;
         padding-left: 10px;
         color: #999;
