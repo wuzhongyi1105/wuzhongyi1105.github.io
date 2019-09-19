@@ -22,6 +22,7 @@ permalink: /links/
         clear: both;
     }
     .site-friend-link {
+	    padding-left: 16%;
         margin-bottom: 20px;
         overflow: hidden;
     }
@@ -51,7 +52,7 @@ permalink: /links/
         overflow: hidden;
     }
     .site-friend-link-into {
-        width: auto;
+        width: calc(100% - 50px);
         text-align: left;
         padding-left: 10px;
         color: #999;
@@ -143,7 +144,7 @@ permalink: /links/
     }
 </script>
 <div class="clear"></div>
-<div class="site-friend-link" style="padding-left: 16%;"><div>
+<div class="site-friend-link">
 </div>
 <script type="text/html" id="links-template" data-no-instant>
     <div>
