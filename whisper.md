@@ -2,6 +2,7 @@
 layout: social
 title: Whisper
 permalink: /whisper/
+hide: Y
 ---
 <!-- 晴天说说_v1.11 2019-05-18 星球彦 http://storeweb.cn -->
 <br>
