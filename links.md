@@ -46,7 +46,7 @@ permalink: /links/
     .site-friend-link-name {
         width: calc(100% - 50px);
         text-align: left;
-        padding-left: 10px;
+        margin-left: 10px;
         white-space: nowrap;
         text-overflow: ellipsis;
         overflow: hidden;
