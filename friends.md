@@ -189,7 +189,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://yufan.me/" target="_blank"><img height="80" width="80" src="https://cat.yufan.me/cats/2019061115541034.png"></a>
+            <a class="link link--primary" href="https://yufan.me/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/1034.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://yufan.me/" target="_blank" style="float: left;width: 100%;">且听书吟</a>
             <span style="font-size: 10px;">by </span>
@@ -201,7 +201,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://lastone.art/" target="_blank"><img height="80" width="80" src="https://lastone.art/wp-content/uploads/2019/08/2019080709190933.png"></a>
+            <a class="link link--primary" href="https://lastone.art/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/0933.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://lastone.art/" target="_blank" style="float: left;width: 100%;">一稿计划</a>
             <span style="font-size: 10px;">by </span>
