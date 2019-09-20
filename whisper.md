@@ -88,7 +88,7 @@ hide: Y
 <script data-no-instant>
     // ----------------------------------- 配置 ---------------------------------------
     //var url = "https://storeweb.cn/api/say";  // 如果你的网站是HTTPS，则用这一行代码
-    var url = "http://storeweb.cn/api/say";     // 如果你的网站是HTTP
+    var url = "https://storeweb.cn/api/say";     // 如果你的网站是HTTP
     // ----------------------------------- 配置 ---------------------------------------
     function get_say_api(timeout) {
         $.ajax({
