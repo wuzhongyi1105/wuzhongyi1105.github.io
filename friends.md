@@ -174,7 +174,7 @@ comments: true
             </div>
             </div>
             </div>
-			<div class="userItem">
+		<div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
             <a class="link link--primary" href="https://nine-lie.com/" target="_blank"><img height="80" width="80" src="https://9inelie.files.wordpress.com/2019/01/img_3205.jpg"></a>
@@ -182,6 +182,30 @@ comments: true
             <a class="link link--primary" href="https://nine-lie.com/" target="_blank" style="float: left;width: 100%;">Nine-Lie</a>
             <span style="font-size: 10px;">by </span>
             <a style="font-size: 10px;" href="https://storeweb.cn/site/one/697" target="_blank">Lin.</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://yufan.me/" target="_blank"><img height="80" width="80" src="https://cat.yufan.me/cats/2019061115541034.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://yufan.me/" target="_blank" style="float: left;width: 100%;">且听书吟</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://weibo.com/408805507" target="_blank">雨帆</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://lastone.art/" target="_blank"><img height="80" width="80" src="https://lastone.art/wp-content/uploads/2019/08/2019080709190933.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://lastone.art/" target="_blank" style="float: left;width: 100%;">一稿计划</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://lastone.art/about/" target="_blank">Luka</a>
             </div>
             </div>
             </div>
