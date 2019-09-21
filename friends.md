@@ -142,30 +142,6 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://storeweb.cn/" target="_blank"><img height="80" width="80" src="https://storeweb.cn/upload/site/image/2019-07/1-4-2LGA2P.png"></a>
-            <div class="userItem-name">
-            <a class="link link--primary" href="https://storeweb.cn/" target="_blank" style="float: left;width: 100%;">个站商店</a>
-            <span style="font-size: 10px;">by </span>
-            <a style="font-size: 10px;" href="https://storeweb.cn/member/one/1" target="_blank">星球彦</a>
-            </div>
-            </div>
-            </div>
-            </div>
-			<div class="userItem">
-            <div class="userItem--inner">
-            <div class="userItem-content">
-            <a class="link link--primary" href="https://www.moidea.info/" target="_blank"><img height="80" width="80" src="https://pic1.zhimg.com/v2-f25df803948758f28786b6e9c3f20a27_xll.jpg"></a>
-            <div class="userItem-name">
-            <a class="link link--primary" href="https://www.moidea.info/" target="_blank" style="float: left;width: 100%;">Roogle</a>
-            <span style="font-size: 10px;">by </span>
-            <a style="font-size: 10px;" href="https://www.moidea.info/about.html" target="_blank">罗格</a>
-            </div>
-            </div>
-            </div>
-            </div>
-			<div class="userItem">
-            <div class="userItem--inner">
-            <div class="userItem-content">
             <a class="link link--primary" href="https://blog.99xin.me/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/IMG_9851.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://blog.99xin.me/" target="_blank" style="float: left;width: 100%;">九十九封信</a>

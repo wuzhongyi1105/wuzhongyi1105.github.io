@@ -168,3 +168,48 @@ permalink: /links/
 <h3 style="text-align: right"> 互勉 </h3>
 
 如有互換鏈接的需要，歡迎大家移步<a href="http://storeweb.cn" target="_blank" class="site-friend-link-project">个站商店</a>，這是<a href="" target="_blank" class="site-friend-link-homepage">我的主頁</a>。
+
+##  博客聚合平台
+<div>
+    下面這些友情連結是我所加入的一些博客聚合平台，或者也叫博客导航页。<br>
+    每每翻阅这些网站，我就想起了以前电话机旁厚厚一本的电话号码黄页，这种形式相当复古。
+</div>
+<hr style="margin: 2em 0 2em 0;border: 0;border-top: 1px solid rgba(0,0,0,.1);">
+<div class="userItems">
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://storeweb.cn/" target="_blank"><img height="80" width="80" src="https://storeweb.cn/upload/site/image/2019-07/1-4-2LGA2P.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://storeweb.cn/" target="_blank" style="float: left;width: 100%;">个站商店</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://storeweb.cn/member/one/1" target="_blank">星球彦</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://www.moidea.info/" target="_blank"><img height="80" width="80" src="https://pic1.zhimg.com/v2-f25df803948758f28786b6e9c3f20a27_xll.jpg"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://www.moidea.info/" target="_blank" style="float: left;width: 100%;">Roogle</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://www.moidea.info/about.html" target="_blank">罗格</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://www.foreverblog.cn/archives/500.html" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/2634.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://www.foreverblog.cn/archives/500.html" target="_blank" style="float: left;width: 100%;">Roogle</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://www.1000yun.cn/" target="_blank">雨落泪尽</a> <a style="font-size: 10px;" href="https://www.artisanbox.org/zh/" target="_blank">工匠盒子</a> <a style="font-size: 10px;" href="https://tunanshan.com/" target="_blank">图南山</a> <a style="font-size: 10px;" href="http://qq52o.me" target="_blank">沈唁志</a> <a style="font-size: 10px;" href="http://www.52bz.la" target="_blank">皮皮赖</a> <a style="font-size: 10px;" href="http://www.5ibug.net" target="_blank">吾爱bug</a> <a style="font-size: 10px;" href="http://wispx.cn" target="_blank">Wisp X</a>
+            </div>
+            </div>
+            </div>
+            </div>
+</div>
