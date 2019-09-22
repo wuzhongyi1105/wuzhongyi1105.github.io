@@ -88,7 +88,7 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 
 ## Social Network {#social}
 
-<del class="block" title="你知道的太多了" datetime="20190922" cite="https://lolioi.moe/3.html">	Null</del>
+<del class="block" title="你知道的太多了" datetime="20190922" cite="https://lolioi.moe/3.html" ontouchstart=''>Null</del>
 
 ## Credits {#credits}
 
