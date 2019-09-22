@@ -51,7 +51,7 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 
 ## 今後的打算
 
-待续
+待续<del class="block" title="你知道的太多了" datetime="20190922">其实就是不想写了</del>
 
 ## 键盘快捷键 Keyboard shortcuts {#howtouse}
 
