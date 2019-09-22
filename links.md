@@ -39,7 +39,7 @@ permalink: /links/
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://www.foreverblog.cn/archives/500.html" target="_blank"><img height="60" width="60" src="https://blog.dylanwu.space/assets/2634.png"></a>
+            <a class="link link--primary" href="https://www.foreverblog.cn/archives/500.html" target="_blank"><img height="60" width="80" src="https://blog.dylanwu.space/assets/2634.png"></a>
             <div class="userItem-name" style="margin-top: 0px;">
             <a class="link link--primary" href="https://www.foreverblog.cn/archives/500.html" target="_blank" style="float: left;width: 100%;">十年之约</a>
             <span style="font-size: 10px;">by </span>
