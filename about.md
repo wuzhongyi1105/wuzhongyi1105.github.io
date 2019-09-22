@@ -88,7 +88,7 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 
 ## Social Network {#social}
 
-Null
+<del class="block">Null</del>
 
 ## Credits {#credits}
 

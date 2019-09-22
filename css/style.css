@@ -383,3 +383,27 @@ a img.aligncenter {
         width: 50%
     }
 }
+
+del.block {
+    text-decoration: none!important;
+    -webkit-transition: .2s cubic-bezier(.25,.46,.45,.94) color,.2s cubic-bezier(.25,.46,.45,.94) background;
+    transition: .2s cubic-bezier(.25,.46,.45,.94) color,.2s cubic-bezier(.25,.46,.45,.94) background
+}
+
+del.block * {
+    -webkit-transition: .35s cubic-bezier(.25,.46,.45,.94) opacity;
+    transition: .35s cubic-bezier(.25,.46,.45,.94) opacity
+}
+
+del.block:not(:hover) {
+    color: transparent!important;
+    background: #000!important
+}
+
+del.block:not(:hover) * {
+    opacity: 0!important
+}
+
+del.block:not(:hover),del.block:not(:hover) * {
+    border: none!important
+}
