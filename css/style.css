@@ -395,15 +395,15 @@ del.block * {
     transition: .35s cubic-bezier(.25,.46,.45,.94) opacity
 }
 
-del.block:not(:hover) {
+del.block:not(:hover:active) {
     color: transparent!important;
     background: #000!important
 }
 
-del.block:not(:hover) * {
+del.block:not(:hover:active) * {
     opacity: 0!important
 }
 
-del.block:not(:hover),del.block:not(:hover) * {
+del.block:not(:hover:active),del.block:not(:hover) * {
     border: none!important
 }
