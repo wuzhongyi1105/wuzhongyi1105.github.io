@@ -10,7 +10,11 @@ layout: default
   {% if page.book_type %}
   <article class="post-content nehan-book" data-direction="{{page.book_type}}" style="display:none">
   {% else %}
+    {% if page.book_type == 'rl' %}
+  <article class="post-content nehan-book new-book">
+    {% else %}
   <article class="post-content">
+    {% endif %}
   {% endif %}
   {{ content }}
   </article>
