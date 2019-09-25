@@ -198,6 +198,28 @@ comments: true
             </div>
             </div>
             </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://www.aiweikai.com/" target="_blank"><img height="80" width="80" src="https://www.aiweikai.com/wp-content/uploads/2019/02/cropped-hdImg_b37861e3772ae0c5c24f9a99780ae3731547840391721-1.jpg"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://www.aiweikai.com/" target="_blank" style="float: left;width: 100%;">艾为开的部落格</a>
+            <span style="font-size: 10px;">by @Aiweikai</span>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://www.mole9630.top/" target="_blank"><img height="80" width="80" src="https://cdn.jsdelivr.net/gh/mole9630/blog@master/image/[Avatar]mole9630.jpg"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://www.mole9630.top/" target="_blank" style="float: left;width: 100%;">摩尔の镇</a>
+            <span style="font-size: 10px;">by @mole9630</span>
+            </div>
+            </div>
+            </div>
+            </div>
 </div>
 
 <h3 style="text-align: right"> 互勉 </h3>
