@@ -14,10 +14,10 @@ hide: Y
 <br>
 <br>
 <br>
-<!-- ----------------------------------- 配置 --------------------------------------- -->
+<!--  配置  -->
 <!-- HTTPS 加载此jquery：-->
 <script src='https://libs.baidu.com/jquery/1.11.1/jquery.min.js'></script>
-<!-- ----------------------------------- 配置 --------------------------------------- -->
+<!--  配置  -->
 <style type="text/css">
     .hide {
         display: none !important;
