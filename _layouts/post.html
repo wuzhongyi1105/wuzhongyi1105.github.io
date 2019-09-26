@@ -7,18 +7,21 @@ layout: default
     <p class="meta">{{ page.date | date: "%Y年%m月%d日" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
-  {% if page.book_type %}
+  {% case page.book_type %}
+    {% when 'vert' %}
   <article class="post-content nehan-book" data-direction="{{page.book_type}}" style="display:none">
-  {% else %}
-    {% if page.book_type == 'rl' %}
-  <article class="new-book post-content nehan-book" id="rl">
+    {% when 'hori' %}
+  <article class="post-content nehan-book" data-direction="{{page.book_type}}" style="display:none">
+    {% when 'rl' %}
+  <article class="new-book post-content nehan-book" id="{{page.book_type}}">
     <div class="progress"></div>
-	{% elsif page.book_type == 'single' %}
-  <article class="single-book post-content nehan-book" id="rl">
+    {% when 'textify' %}
+  <article class="new-book post-content nehan-book" id="{{page.book_type}}">
+    {% when 'single' %}
+  <article class="{{page.book_type}} post-content nehan-book" id="{{page.book_type}}">
     {% else %}
   <article class="post-content">
-    {% endif %}
-  {% endif %}
+  {% endcase %}
   {{ content }}
   </article>
   {% if page.book_type == 'rl' %}
