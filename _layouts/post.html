@@ -11,13 +11,18 @@ layout: default
   <article class="post-content nehan-book" data-direction="{{page.book_type}}" style="display:none">
   {% else %}
     {% if page.book_type == 'rl' %}
-  <article class="post-content nehan-book new-book" id="rl">
+  <article class="new-book post-content nehan-book" id="rl">
+    <div class="progress"></div>
     {% else %}
   <article class="post-content">
     {% endif %}
   {% endif %}
   {{ content }}
   </article>
+  {% if page.book_type == 'rl' %}
+  <script src="{{ site.baseurl }}/js/progressJS.js"></script>
+    <script>var x=document.getElementById("rl");var w=x.clientWidth;var sw=x.scrollWidth;var tw=sw-w;function GetPercent(num,total){num=parseFloat(num);total=parseFloat(total);if(isNaN(num)||isNaN(total)){return"-"}return total<=0?"0%":(Math.round(num/total*100))}function GetWidth(per,total){per=parseFloat(per);total=parseFloat(total);if(isNaN(per)||isNaN(total)){return"-"}return total<=0?"0%":(Math.round(per*total/100))}var timeID;var pro=new Progress(".progress",{val:100,size:2,precision:0,drag:true,direction:"horizontal",tip:false,getVal:function(el){console.log(el.val);var lw=GetWidth(el.val,tw);console.log(lw);console.log(w);console.log(sw);console.log(tw);x.scrollLeft=lw}});pro.onLoad(false);</script>
+  {% endif %}
 </div>
 
 {% if page.comments %}
