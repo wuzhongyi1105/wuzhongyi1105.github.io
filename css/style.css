@@ -431,10 +431,10 @@ del.block:not(:hover),del.block:not(:hover) * {
     position: static;
 }
 .single {
-    height: 45%;
+    height: 70%;
     width: 68%;
     overflow: hidden;
-    margin: 0 auto;
+    margin: 0 auto !important;
     writing-mode: vertical-rl;
     display: block;
     font-size: 16px;
