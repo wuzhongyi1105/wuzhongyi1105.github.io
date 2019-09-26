@@ -3,8 +3,8 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%Y年%m月%d日" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <h1 style="padding: 10px;display: table-cell;">{{ page.title }}</h1>
+    <p class="meta" style="padding: 10px;display: table-cell;">{{ page.date | date: "%Y年%m月%d日" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
   {% case page.book_type %}
