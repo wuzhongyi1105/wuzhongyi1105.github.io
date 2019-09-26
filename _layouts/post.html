@@ -13,6 +13,8 @@ layout: default
     {% if page.book_type == 'rl' %}
   <article class="new-book post-content nehan-book" id="rl">
     <div class="progress"></div>
+	{% elsif page.book_type == 'single' %}
+  <article class="single-book post-content nehan-book" id="rl">
     {% else %}
   <article class="post-content">
     {% endif %}

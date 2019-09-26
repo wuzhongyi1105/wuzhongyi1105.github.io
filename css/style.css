@@ -430,3 +430,17 @@ del.block:not(:hover),del.block:not(:hover) * {
     font-family: "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", HiraMinProN-W3, IPA明朝, "IPA Mincho", "Noto Serif JP", "Noto Serif SC", "ＭＳ 明朝", "MS Mincho", monospace, sans-serif, serif, Meiryo, メイリオ;
     position: static;
 }
+.single {
+    height: 80%;
+    width: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+    writing-mode: vertical-rl;
+    display: block;
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: normal;
+    font-style: normal;
+    font-family: "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", HiraMinProN-W3, IPA明朝, "IPA Mincho", "Noto Serif JP", "Noto Serif SC", "ＭＳ 明朝", "MS Mincho", monospace, sans-serif, serif, Meiryo, メイリオ;
+    position: static;
+}
