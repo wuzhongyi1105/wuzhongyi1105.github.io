@@ -33,15 +33,15 @@
     <link rel="stylesheet" type="text/css"  href="{{ site.baseurl }}/css/progressJS.css" />
     
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
-    <script type="text/javascript" src="js/textify-min.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/js/textify-min.js"></script>
     <script type="text/javascript">
         $(document)
             .ready(function () {
 
             $('.longText')
                 .textify({
-                numberOfColumn: 2,
+                numberOfColumn: 1,
                 margin: 20,
                 padding: 15,
                 width: "auto",
@@ -49,18 +49,6 @@
                 showNavigation: true,
                 textAlign: 'justify'
             })
-            $('.longText2')
-                .textify({
-                numberOfColumn: 4,
-                margin: 20,
-                padding: 15,
-                width: "auto",
-                height: "auto",
-                showNavigation: true,
-                textAlign: 'justify'
-            })
-
-
         })
     </script>
     
