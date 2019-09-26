@@ -432,7 +432,6 @@ del.block:not(:hover),del.block:not(:hover) * {
 }
 .single {
     height: 70%;
-    width: 68%;
     overflow: hidden;
     margin: 0 auto !important;
     writing-mode: vertical-rl;
