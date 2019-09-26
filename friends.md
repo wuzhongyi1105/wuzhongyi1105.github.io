@@ -204,7 +204,7 @@ comments: true
             <a class="link link--primary" href="https://www.aiweikai.com/" target="_blank"><img height="80" width="80" src="https://www.aiweikai.com/wp-content/uploads/2019/02/cropped-hdImg_b37861e3772ae0c5c24f9a99780ae3731547840391721-1.jpg"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://www.aiweikai.com/" target="_blank" style="float: left;width: 100%;">艾为开的部落格</a>
-            <span style="font-size: 10px;">by @Aiweikai</span>
+            <span style="font-size: 10px;">by @Ai_Weikai</span>
             </div>
             </div>
             </div>
