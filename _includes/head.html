@@ -5,11 +5,11 @@
     {% seo title=false %}
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
-	<meta name="apple-mobile-web-app-capable" content ="yes">
-	<meta name="apple-mobile-web-app-title" content="瓠樽">
-	<meta name="apple-mobile-web-app-status-bar-style" content="default">
-	<meta name="theme-color" content="#ffffff">
-	<link rel="manifest" href="{{ site.baseurl }}/manifest.json">
+    <meta name="apple-mobile-web-app-capable" content ="yes">
+    <meta name="apple-mobile-web-app-title" content="瓠樽">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
     <link rel="shortcut icon" href="{{ site.baseurl }}/assets/icon/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/icon/apple-touch-icon.png" />
     <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}/assets/icon/apple-touch-icon-57x57.png" />
@@ -23,35 +23,67 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.baseurl }}">
 
     <!-- Custom CSS -->
-	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/iDisqus.min.css">
-	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/iDisqus.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP|Noto+Serif+SC&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP|Noto+Serif+SC&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/nehan5.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/nehan.book.css" />
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/progressJS.css" />
+    <link rel="stylesheet" type="text/css"  href="{{ site.baseurl }}/css/progressJS.css" />
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="js/textify-min.js"></script>
+    <script type="text/javascript">
+        $(document)
+            .ready(function () {
+
+            $('.longText')
+                .textify({
+                numberOfColumn: 2,
+                margin: 20,
+                padding: 15,
+                width: "auto",
+                height: "auto",
+                showNavigation: true,
+                textAlign: 'justify'
+            })
+            $('.longText2')
+                .textify({
+                numberOfColumn: 4,
+                margin: 20,
+                padding: 15,
+                width: "auto",
+                height: "auto",
+                showNavigation: true,
+                textAlign: 'justify'
+            })
+
+
+        })
+    </script>
     
     <!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143241744-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143241744-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-	  gtag('config', 'UA-143241744-1');
-	</script>
-	
-	<!-- OneSignal -->
-	<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="async"></script>
-	<script>
-	  var OneSignal = window.OneSignal || [];
-	  OneSignal.push(function() {
-		OneSignal.init({
-		  appId: "03f94d6e-58e1-420c-9159-94cfc1859d80",
-		});
-	  });
-	</script>
+      gtag('config', 'UA-143241744-1');
+    </script>
+    
+    <!-- OneSignal -->
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="async"></script>
+    <script>
+      var OneSignal = window.OneSignal || [];
+      OneSignal.push(function() {
+        OneSignal.init({
+          appId: "03f94d6e-58e1-420c-9159-94cfc1859d80",
+        });
+      });
+    </script>
 
 </head>
 
