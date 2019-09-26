@@ -40,6 +40,9 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 待续
 
 ## Todo List {#todo}
+
+所有事情一旦把Todo List列出來之後，就突然感到一本滿足，就好像事情做完了一大半<del class="block" title="你知道的太多了" datetime="20190926" ontouchstart=''>其實並沒有開始動手</del>
+
 - ~~Webfont 字體修正適配~~
 - ~~在文章頁面新增手勢~~
 - ~~Webpush 消息推送~~
