@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 对于现阶段新媒体技术介入传统艺术展览的几点观察
+title: 对新媒体的几点观察
 date: 2019-05-10
-book_type: textify
+book_type: rl
 comments: true
 license: essay
 ---
