@@ -2,7 +2,7 @@
 layout: post
 title: 对新媒体的几点观察
 date: 2019-05-10
-book_type: rl
+book_type: textify
 comments: true
 license: essay
 ---
