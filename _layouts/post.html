@@ -10,20 +10,36 @@ layout: default
   {% case page.book_type %}
     {% when 'vert' %}
   <article class="post-content nehan-book" data-direction="{{page.book_type}}" style="display:none">
+    {{ content }}
+  </article>
     {% when 'hori' %}
   <article class="post-content nehan-book" data-direction="{{page.book_type}}" style="display:none">
+    {{ content }}
+  </article>
     {% when 'rl' %}
-  <article class="new-book post-content" id="{{page.book_type}}">
+  <article class="new-book post-content">
+    <div class="new-book post-content" id="{{page.book_type}}">
+    {{ content }}
+    </div>
     <div class="progress"></div>
+  </article>
     {% when 'textify' %}
   <article class="new-book post-content longText" id="{{page.book_type}}">
+    <div class="textify">
+       <div class="contentText">
+       {{ content }}
+       </div>
+    </div>
     {% when 'single' %}
   <article class="{{page.book_type}} post-content" id="{{page.book_type}}">
+    {{ content }}
+  </article>
     {% else %}
   <article class="post-content">
-  {% endcase %}
-  {{ content }}
+    {{ content }}
   </article>
+  {% endcase %}
+
   {% if page.book_type == 'rl' %}
   <script src="{{ site.baseurl }}/js/progressJS.js"></script>
     <script>var x=document.getElementById("rl");var w=x.clientWidth;var sw=x.scrollWidth;var tw=sw-w;function GetPercent(num,total){num=parseFloat(num);total=parseFloat(total);if(isNaN(num)||isNaN(total)){return"-"}return total<=0?"0%":(Math.round(num/total*100))}function GetWidth(per,total){per=parseFloat(per);total=parseFloat(total);if(isNaN(per)||isNaN(total)){return"-"}return total<=0?"0%":(Math.round(per*total/100))}var timeID;var pro=new Progress(".progress",{val:100,size:2,precision:0,drag:true,direction:"horizontal",tip:false,getVal:function(el){console.log(el.val);var lw=GetWidth(el.val,tw);console.log(lw);console.log(w);console.log(sw);console.log(tw);x.scrollLeft=lw}});pro.onLoad(false);</script>
