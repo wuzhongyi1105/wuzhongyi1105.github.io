@@ -431,6 +431,12 @@ del.block:not(:hover),del.block:not(:hover) * {
     font-style: normal;
     font-family: "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", HiraMinProN-W3, IPA明朝, "IPA Mincho", "Noto Serif JP", "Noto Serif SC", "ＭＳ 明朝", "MS Mincho", monospace, sans-serif, serif, Meiryo, メイリオ;
     position: static;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 .single {
     height: 70%;
