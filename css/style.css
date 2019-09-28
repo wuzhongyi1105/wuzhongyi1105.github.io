@@ -419,7 +419,7 @@ del.block:not(:hover),del.block:not(:hover) * {
     margin-top: -20px;
 }
 .new-book {
-    height: 80%;
+    height: 75%;
     width: 100%;
     overflow: hidden;
     margin: 0 auto;
@@ -456,6 +456,9 @@ del.block:not(:hover),del.block:not(:hover) * {
     font-style: normal;
     font-family: "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", HiraMinProN-W3, IPA明朝, "IPA Mincho", "Noto Serif JP", "Noto Serif SC", "ＭＳ 明朝", "MS Mincho", monospace, sans-serif, serif, Meiryo, メイリオ;
     position: static;
+}
+.new-book p{
+    margin-left: 24px;
 }
 .single {
     height: 70%;
