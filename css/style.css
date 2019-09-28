@@ -414,7 +414,7 @@ del.block:not(:hover),del.block:not(:hover) * {
 /* New reader */
 .progress {
     margin: 0 auto;
-    width: 100%;
+    width: 80%;
 }
 .new-book {
     height: 80%;
@@ -442,54 +442,4 @@ del.block:not(:hover),del.block:not(:hover) * {
     font-style: normal;
     font-family: "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", HiraMinProN-W3, IPA明朝, "IPA Mincho", "Noto Serif JP", "Noto Serif SC", "ＭＳ 明朝", "MS Mincho", monospace, sans-serif, serif, Meiryo, メイリオ;
     position: static;
-}
-.longText { 
-    height: 80%;
-    width: 100%;
-    margin: 0 auto;
-    writing-mode: vertical-rl;
-    display: block;
-    font-size: 16px;
-    line-height: 1.8;
-    font-weight: normal;
-    font-style: normal;
-    font-family: "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", HiraMinProN-W3, IPA明朝, "IPA Mincho", "Noto Serif JP", "Noto Serif SC", "ＭＳ 明朝", "MS Mincho", monospace, sans-serif, serif, Meiryo, メイリオ;
-    position: static;
-}
-.textify{
-    /*overflow:hidden;*/
-    font-family: Tahoma, Geneva, sans-serif;
-    font-size:13px;
-    overflow:hidden;
-    position:relative;
-}
-.textify img{
-    float : left;   
-}
-.textify_nav{
-    margin: 10px 0;
-    position:absolute;
-    bottom:0;
-}
-.textify_nav ul {
-    margin:0;
-    padding:0;
-}
-.textify_nav ul li:hover, .textify_nav  ul li.selected {
-    background-position:0 -15px;
-}
-.textify_nav ul li {
-    background-image: url("../images/textify_nav.png");
-    background-repeat: no-repeat;
-    float: left;
-    height: 15px;
-    list-style: none outside none;
-    margin-left: 3px;
-    margin-right: 3px;
-    width: 15px;
-    cursor:pointer;
-}
-.contentText{
-    margin-left:0;
-    float:left;
 }

@@ -55,7 +55,7 @@
   border-radius: 50%;
   overflow: hidden;
   transform: translate(-50%, -50%);
-  background: url('../images/loading1.gif');
+  background: url('../assets/icon/loading1.gif');
   background-position: center center;
   background-size: 130%;
   opacity: 0.5;
