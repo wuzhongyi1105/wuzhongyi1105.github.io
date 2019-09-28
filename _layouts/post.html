@@ -33,7 +33,7 @@ layout: default
 
   {% if page.book_type == 'rl' %}
   <script src="{{ site.baseurl }}/js/progressJS.js"></script>
-    <script>var x=document.querySelector('.new-book');var w=x.clientWidth;var sw=x.scrollWidth;var tw=sw-w;function GetPercent(num,total){num=parseFloat(num);total=parseFloat(total);if(isNaN(num)||isNaN(total)){return"-"}return total<=0?"0%":(Math.round(num/total*100))}function GetWidth(per,total){per=parseFloat(per);total=parseFloat(total);if(isNaN(per)||isNaN(total)){return"-"}return total<=0?"0%":(Math.round(per*total/100))}var timeID; var pro=new Progress('.progress',{val:100,size:2,precision:0,drag:true,direction:'horizontal',tip:false,getVal:function(el){var lw=GetWidth(el.val,tw);var ttw=~tw+lw; var isChrome=!!window.chrome;if(isChrome){x.scrollLeft=lw}else{x.scrollLeft=ttw}}}),pro.onLoad(false)</script>
+    <script>var x=document.querySelector(".new-book");var w=x.clientWidth;var sw=x.scrollWidth;var tw=sw-w;function GetPercent(num,total){num=parseFloat(num);total=parseFloat(total);if(isNaN(num)||isNaN(total)){return"-"}return total<=0?"0%":(Math.round(num/total*100))}function GetWidth(per,total){per=parseFloat(per);total=parseFloat(total);if(isNaN(per)||isNaN(total)){return"-"}return total<=0?"0%":(Math.round(per*total/100))}var timeID;var pro=new Progress(".progress",{val:100,size:2,precision:0,drag:true,direction:"horizontal",tip:false,getVal:function(el){var lw=GetWidth(el.val,tw);var ttw=~tw+lw;var isChrome=!!window.chrome;if(isChrome){x.scrollLeft=lw}else{x.scrollLeft=ttw}}});pro.onLoad(false);</script>
   {% endif %}
 </div>
 
