@@ -415,6 +415,8 @@ del.block:not(:hover),del.block:not(:hover) * {
 .progress {
     margin: 0 auto;
     width: 80%;
+    margin-bottom: 25px;
+    margin-top: -20px;
 }
 .new-book {
     height: 80%;
