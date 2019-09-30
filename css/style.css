@@ -439,12 +439,12 @@ del.block:not(:hover),del.block:not(:hover) * {
     user-select: none;
 }
 .new-book h2{
-    display: block;
-    font-size: 32px;
-    line-height: 1.8;
-    font-weight: normal;
-    font-style: normal;
-    font-family: Meiryo, メイリオ, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Osaka, "ＭＳ Ｐゴシック", monospace, adobe-song-std, sans-serif, serif;
+    display: block !important;
+    font-size: 32px !important;
+    line-height: 1.8 !important;
+    font-weight: normal !important;
+    font-style: normal !important;
+    font-family: Meiryo, メイリオ, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Osaka, "ＭＳ Ｐゴシック", monospace, adobe-song-std, sans-serif, serif !important;
     position: static;
     margin: 20px 0 0px 24px !important;
     margin-left: 24px;
