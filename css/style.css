@@ -414,7 +414,7 @@ del.block:not(:hover),del.block:not(:hover) * {
 /* New reader */
 .progress {
     margin: 0 auto;
-    width: 80%;
+    width: 95%;
     margin-bottom: 25px;
     margin-top: -20px;
 }
