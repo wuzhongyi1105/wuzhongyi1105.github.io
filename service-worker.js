@@ -33,7 +33,7 @@ const
 		'/js/nehan5.min.js',
 		'/js/toucher.js',
 		'/js/script.js',
-        'https://cdn.jsdelivr.net/npm/jquery/jquery@2.1.1/dist/jquery.min.js',
+        'https://cdn.jsdelivr.net/npm/jquery@2.1.1/dist/jquery.min.js',
         'https://cdn.jsdelivr.net/npm/underscore@1.6.0/underscore-min.js',
         'https://cdn.jsdelivr.net/npm/backbone@1.1.2/backbone-min.js',
         'https://cdn.jsdelivr.net/npm/clipboard@1.5.10/dist/clipboard.min.js',
