@@ -103,6 +103,7 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 
 - <a href="{{site.baseurl}}/about-old/" target="_blank">jekyll-nehan</a> is Jekyll theme powered by <a href="https://github.com/tategakibunko/nehan.js" target="_blank">nehan.js</a> to display your blog post like book style.
 - <a href="https://github.com/fooleap/disqus-php-api" target="_blank">Disqus PHP API</a>
+- <a href="https://github.com/timqian/chart.xkcd" target="_blank">Chart.xkcd</a> is a chart library that plots "sketchy", "cartoony" or "hand-drawn" styled charts.
 - <a href="http://bh-lay.github.io/toucher" target="_blank">toucher</a>
 - <a href="https://github.com/Kaiyuan/sponsor-page" target="_blank">sponsor-page</a>
 
