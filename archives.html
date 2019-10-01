@@ -31,11 +31,11 @@ permalink: /archives/
   const lineChart = new chartXkcd.Line(svg, {
     title: '年度のまとめ', // optional
     xLabel: 'Year', // optional
-    yLabel: '', // optional
+    yLabel: 'Number of posts', // optional
     data: {
       labels: ['2011', '2013', '2014', '2015', '2016', '2017', '2018', '2019'],
       datasets: [{
-        label: 'Number of posts',
+        label: 'Posts',
         data: [1, 0, 2, 2, 3, 0, 1, 6],
       }],
     },
