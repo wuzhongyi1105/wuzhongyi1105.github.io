@@ -110,6 +110,8 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 
 ### Articles
 
+- <a href="https://github.com/angular/zone.js/issues/847" target="_blank">Failed to execute 'removeEventListener' on 'EventTarget' · Issue #847 · angular/zone.js</a>
+- <a href="https://www.cnblogs.com/liugang-vip/p/5278473.html" target="_blank">javascript小实例，移动端页面中的拖拽 - 凌云之翼 - 博客园</a>
 - <a href="http://www.ruanyifeng.com/blog/2009/09/find_element_s_position_using_javascript.html" target="_blank">用Javascript获取页面元素的位置 - 阮一峰的网络日志</a>
 - <a href="https://blog.csdn.net/qq_36371276/article/details/80227762" target="_blank">拖动内容实现滚动条的拖动 - qq_36371276的博客 - CSDN博客</a>
 - <a href="https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7" target="_blank">Progressive Web Apps on iOS are here</a>
