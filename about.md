@@ -48,12 +48,13 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 - ~~Webpush 消息推送~~
 - ~~ＰＷＡ程序~~
 - ~~版權聲明添加（可開關、可切換）~~
-- <del class="block" title="你知道的太多了" datetime="20190922" ontouchstart=''>實現黑幕方塊字</del>
+- ~~<del class="block" title="你知道的太多了" datetime="20190922" ontouchstart=''>實現黑幕方塊字</del>~~
+- ~~在归档页加了一个年度统计表格~~
 - 單頁竪排模版，優化短文閱讀體驗
 - 可讀性調整（嘗試使用 <a href="https://www.zhangxinxu.com/wordpress/2016/04/css-writing-mode/" target="_blank">writing-mode 屬性</a>來實現竪排，之前的nehan.js也不會摒棄）
 - 夜間模式<del class="block" title="你知道的太多了" datetime="20190927" ontouchstart=''>听说是开发界的政治正确？</del>
 - ＡＭＰ頁面適配
-- 添加非翻頁排版版式的專用歸檔頁i
+- 添加非翻頁排版版式的專用歸檔頁
 
 
 ## 今後的打算
