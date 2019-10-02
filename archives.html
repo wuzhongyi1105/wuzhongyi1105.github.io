@@ -4,7 +4,9 @@ title: Archives
 permalink: /archives/
 ---
 
-<ul>
+<div style="width: 360px;margin: 0 auto;float: right;margin-top: 64px;"><svg class="line-chart" ></svg></div>
+
+<ul style="display: inline;float: left;">
   {% for post in site.posts %}
 
     {% unless post.next %}
@@ -21,3 +23,25 @@ permalink: /archives/
   {% endfor %}
 </ul>
 
+
+<script src="//cdn.jsdelivr.net/npm/chart.xkcd@1.1/dist/chart.xkcd.min.js"></script>
+<script>
+  const svg = document.querySelector('.line-chart')
+
+  const lineChart = new chartXkcd.Line(svg, {
+    title: '年度のまとめ', // optional
+    xLabel: 'Year', // optional
+    yLabel: 'Number of posts', // optional
+    data: {
+      labels: ['2011', '2013', '2014', '2015', '2016', '2017', '2018', '2019'],
+      datasets: [{
+        label: 'Posts',
+        data: [1, 0, 2, 2, 3, 0, 1, 6],
+      }],
+    },
+    options: { // optional
+      yTickCount: 3,
+      legendPosition: chartXkcd.config.positionType.upLeft
+    }
+  });
+</script>

@@ -414,7 +414,7 @@ del.block:not(:hover),del.block:not(:hover) * {
 /* New reader */
 .progress {
     margin: 0 auto;
-    width: 80%;
+    width: 95%;
     margin-bottom: 25px;
     margin-top: -20px;
 }
@@ -439,15 +439,14 @@ del.block:not(:hover),del.block:not(:hover) * {
     user-select: none;
 }
 .new-book h2{
-    display: block;
-    font-size: 32px;
-    line-height: 1.8;
-    font-weight: normal;
-    font-style: normal;
-    font-family: Meiryo, メイリオ, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Osaka, "ＭＳ Ｐゴシック", monospace, adobe-song-std, sans-serif, serif;
+    display: block !important;
+    font-size: 32px !important;
+    line-height: 1.8 !important;
+    font-weight: normal !important;
+    font-style: normal !important;
+    font-family: Meiryo, メイリオ, "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Osaka, "ＭＳ Ｐゴシック", monospace, adobe-song-std, sans-serif, serif !important;
     position: static;
-    margin: 20px 0 0px 24px !important;
-    margin-left: 24px;
+    margin: 20px 24px 0px 24px !important;
 }
 .new-book strong{
     display: block;
@@ -457,9 +456,6 @@ del.block:not(:hover),del.block:not(:hover) * {
     font-style: normal;
     font-family: "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", HiraMinProN-W3, IPA明朝, "IPA Mincho", "Noto Serif JP", "Noto Serif SC", "ＭＳ 明朝", "MS Mincho", monospace, sans-serif, serif, Meiryo, メイリオ;
     position: static;
-}
-.new-book p{
-    margin-left: 24px;
 }
 .single {
     height: 70%;

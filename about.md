@@ -48,12 +48,13 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 - ~~Webpush 消息推送~~
 - ~~ＰＷＡ程序~~
 - ~~版權聲明添加（可開關、可切換）~~
-- <del class="block" title="你知道的太多了" datetime="20190922" ontouchstart=''>實現黑幕方塊字</del>
+- ~~<del class="block" title="你知道的太多了" datetime="20190922" ontouchstart=''>實現黑幕方塊字</del>~~
+- ~~在归档页加了一个年度统计表格~~
 - 單頁竪排模版，優化短文閱讀體驗
 - 可讀性調整（嘗試使用 <a href="https://www.zhangxinxu.com/wordpress/2016/04/css-writing-mode/" target="_blank">writing-mode 屬性</a>來實現竪排，之前的nehan.js也不會摒棄）
 - 夜間模式<del class="block" title="你知道的太多了" datetime="20190927" ontouchstart=''>听说是开发界的政治正确？</del>
 - ＡＭＰ頁面適配
-- 添加非翻頁排版版式的專用歸檔頁i
+- 添加非翻頁排版版式的專用歸檔頁
 
 
 ## 今後的打算
@@ -103,11 +104,16 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 
 - <a href="{{site.baseurl}}/about-old/" target="_blank">jekyll-nehan</a> is Jekyll theme powered by <a href="https://github.com/tategakibunko/nehan.js" target="_blank">nehan.js</a> to display your blog post like book style.
 - <a href="https://github.com/fooleap/disqus-php-api" target="_blank">Disqus PHP API</a>
+- <a href="https://github.com/timqian/chart.xkcd" target="_blank">Chart.xkcd</a> is a chart library that plots "sketchy", "cartoony" or "hand-drawn" styled charts.
 - <a href="http://bh-lay.github.io/toucher" target="_blank">toucher</a>
 - <a href="https://github.com/Kaiyuan/sponsor-page" target="_blank">sponsor-page</a>
 
 ### Articles {#articles}
 
+- <a href="https://github.com/angular/zone.js/issues/847" target="_blank">Failed to execute 'removeEventListener' on 'EventTarget' · Issue #847 · angular/zone.js</a>
+- <a href="https://www.cnblogs.com/liugang-vip/p/5278473.html" target="_blank">javascript小实例，移动端页面中的拖拽 - 凌云之翼 - 博客园</a>
+- <a href="http://www.ruanyifeng.com/blog/2009/09/find_element_s_position_using_javascript.html" target="_blank">用Javascript获取页面元素的位置 - 阮一峰的网络日志</a>
+- <a href="https://blog.csdn.net/qq_36371276/article/details/80227762" target="_blank">拖动内容实现滚动条的拖动 - qq_36371276的博客 - CSDN博客</a>
 - <a href="https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7" target="_blank">Progressive Web Apps on iOS are here</a>
 - <a href="https://www.zhihu.com/question/24822927/answer/127293043" target="_blank">position:fixed实现相对父级元素定位 - 知乎用户的回答</a>
 - <a href="http://zhangdajia.com/2018/03/30/active-pseudo-class-doesn-t-work-in-mobile-ios/" target="_blank">:active伪类在移动端ios中无效问题解决办法 | Zhang dajia的博客</a>
