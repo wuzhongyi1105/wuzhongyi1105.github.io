@@ -16,7 +16,7 @@ permalink: /archives/
         <h2>開発ログ</h2>
       {% endif %}
     {% endunless %}
-    {% if post.hide == 'Y' %}
+    {% if post.relate == 'code' %}
     <li>{{ post.date | date:"%Y年%m月%d日：" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
