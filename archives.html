@@ -4,7 +4,7 @@ title: Archives
 permalink: /archives/
 ---
 
-<div style="width: 360px;margin: 0 auto;<!-- float: right; -->margin-top: 64px;"><svg class="line-chart" ></svg></div>
+<div style="width: 360px;margin: 0 auto;float: right;margin-top: 64px;"><svg class="line-chart" ></svg></div>
 
 <ul style="display: inline;float: left;">
   {% for post in site.posts %}
@@ -32,8 +32,9 @@ permalink: /archives/
         <h2>{{ post.date | date: '%Y年' }}</h2>
       {% endif %}
     {% endunless %}
-
+    {% unless post.relate == 'code' %}
     <li>{{ post.date | date:"%Y年%m月%d日：" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endunless %}
   {% endfor %}
 </ul>
 
