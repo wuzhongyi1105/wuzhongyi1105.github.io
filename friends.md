@@ -23,7 +23,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://chunqiu.bighu.cn" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/9136.jpg"></a>
+            <a class="link link--primary" href="https://chunqiu.bighu.cn" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/9136.jpg"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://chunqiu.bighu.cn" target="_blank" style="float: left;width: 100%;">曹说春秋</a>
             <span style="font-size: 10px;">by </span>
@@ -35,7 +35,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://orewa.money" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/9135.jpg"></a>
+            <a class="link link--primary" href="https://orewa.money" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/9135.jpg"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://orewa.money" target="_blank" style="float: left;width: 100%;">マネーのブログ</a>
             <span style="font-size: 10px;">by </span>
@@ -82,7 +82,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://www.chairyfish.com" target="_blank"><img height="80" width="80" src="https://www.chairyfish.com/assets/img/logo.png"></a>
+            <a class="link link--primary" href="https://www.chairyfish.com" target="_blank"><img height="80" width="80" src="https://www.chairyfish.com/assets/friends/img/logo.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://www.chairyfish.com" target="_blank" style="float: left;width: 100%;">五斤</a>
             <span style="font-size: 10px;">by </span>
@@ -142,7 +142,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://blog.99xin.me/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/IMG_9851.png"></a>
+            <a class="link link--primary" href="https://blog.99xin.me/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/IMG_9851.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://blog.99xin.me/" target="_blank" style="float: left;width: 100%;">九十九封信</a>
             <span style="font-size: 10px;">by @AihoomEason</span>
@@ -165,7 +165,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://yufan.me/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/1034.png"></a>
+            <a class="link link--primary" href="https://yufan.me/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/1034.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://yufan.me/" target="_blank" style="float: left;width: 100%;">且听书吟</a>
             <span style="font-size: 10px;">by </span>
@@ -177,7 +177,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://lastone.art/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/0933.png"></a>
+            <a class="link link--primary" href="https://lastone.art/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/0933.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://lastone.art/" target="_blank" style="float: left;width: 100%;">一稿计划</a>
             <span style="font-size: 10px;">by </span>
@@ -223,7 +223,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="http://zmmio.com/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/2826344702.png"></a>
+            <a class="link link--primary" href="http://zmmio.com/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/2826344702.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="http://zmmio.com/" target="_blank" style="float: left;width: 100%;">zmmio</a>
             <span style="font-size: 10px;">by </span>
