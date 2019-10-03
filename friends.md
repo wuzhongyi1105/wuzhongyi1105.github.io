@@ -211,7 +211,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://www.mole9630.top/" target="_blank"><img height="80" width="80" src="https://cdn.jsdelivr.net/gh/mole9630/blog@master/image/[Avatar]mole9630.jpg"></a>
+            <a class="link link--primary" href="https://www.mole9630.top/" target="_blank"><img height="80" width="80" src="https://cdn.jsdelivr.net/gh/mole9630/blog@master/image/[Avatar]mole9630.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://www.mole9630.top/" target="_blank" style="float: left;width: 100%;">摩尔の镇</a>
             <span style="font-size: 10px;">by @mole9630</span>
