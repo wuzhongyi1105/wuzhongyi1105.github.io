@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 关于博客阅读体验方面的改进
+title: 笔记
 date: 2019-10-02
 hide: Y
 relate: code
