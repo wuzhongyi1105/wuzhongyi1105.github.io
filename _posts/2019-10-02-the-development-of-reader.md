@@ -10,17 +10,16 @@ license: essay
 
 ## 开发笔记
 
-其实这根本称不上什么开发，只是参考一些现成的案例，结合JavaScript的一些现成的函数以一种很拙劣的方式拼凑在一起了而已。更何况现在TypeScript才是显学，之前开发我这款主题的日本开发者也早就转用TypeScript了。我由于并不想花太多时间在这个上面，所以就秉持着"又不是不能用"的开发哲学来重写这个竖排阅读器，尽管如此也还是被很多前端的坑坑到了，连续熬夜两天才完成，现在就把这些坑记录下来，以飨后人。  
+其实这根本称不上什么开发，只是参考一些现成的案例，结合 JavaScript 的一些现成的函数以一种很拙劣的方式拼凑在一起了而已，更主要的是解决自己的一些需求。更何况现在 TypeScript 才是显学，之前开发[我在用的这款主题](https://github.com/tategakibunko/jekyll-nehan)的[日本开发者](https://github.com/tategakibunko)也早就转用 TypeScript 了。我由于并不想花太多时间去学一个需要编译的前端语言，所以就秉持着“又不是不能用”的开发哲学来重写这个竖排阅读器，尽管如此也还是被一些前端的坑坑到了，连续熬夜两天才完成，现在就把这些坑记录下来，以示后来者。  
 
 ### Element.scrollLeft
 
-
 Element.scrollLeft 属性可以读取或设置元素滚动条到元素左边的距离，理论上的兼容性非常好。<del class="block" title="你知道的太多了" datetime="20191002" ontouchstart=''>其实并不</del>然而，单这一个属性就带出来两个坑。  
-首先，在除了Chrome的所有浏览器里，如果文字阅读顺序是从左到右的话，`Element.scrollLeft`的值应该是负值。换句话说，你如果是要给`Element.scrollLeft`赋值呢，在Chrome里应该赋正值，而其他的浏览器都应该赋负值，这其实都还好，用函数判断一下就好。  
+首先，在除了 Chrome 的所有浏览器里，如果文字阅读顺序是从左到右的话，要想拖动滚动条，`Element.scrollLeft`的值应该是负值。换句话说，你如果想通过给`Element.scrollLeft`赋值来滚动视图呢，在 Chrome 里应该赋正值，而其他的浏览器都应该赋负值，这其实都还好，用函数判断一下是不是 Chrome 就好。  
 
-但是呢，如果你是取值的话呢，负值统统记零。这就导致了Safari里一个`writing-mode: vertical-rl;`的`<div>`，其`Element.scrollLeft`始终为"0"，对，跟网上说的`overflow`的属性是`hidden`还是`scroll`没有任何关系。<del class="block" title="你知道的太多了" datetime="20191002" ontouchstart=''>本当お可愛いこと</del>。  
+但是呢，如果你想通过取值来获取剩余的滚动宽度呢，问题就来了， Safari 的逻辑是，负值统统记零，MDN里也确实提到了这个，这就导致 Safari 里一个`writing-mode: vertical-rl;`的`<div>`，其`Element.scrollLeft`始终为`0`对，跟网上说的`overflow`的属性是`hidden`还是`scroll`没有任何关系。<del class="block" title="你知道的太多了" datetime="20191002" ontouchstart=''>本当お可愛いこと</del>。  
 
-另外值得一提的是，根据国外网友的反馈，jQuery 似乎同样也会被受这个影响，不过反正我也不用 jQuery ，那就留待别人去验证吧。
+另外值得一提的是，根据国外网友的反馈，jQuery 似乎同样也会被受这个因素的影响，不过反正我也不用 jQuery ，那就留待别人去验证吧。
 
 因此，虽然兼容性列表里这个属性是全兼容，但是由于这个原因，基本上这个的取值是不可信的。这样的话，就无法通过`Element.scrollLeft`得知剩余的文章宽度。  
 
