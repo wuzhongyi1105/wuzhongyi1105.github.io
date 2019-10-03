@@ -17,7 +17,7 @@ license: essay
 Element.scrollLeft 属性可以读取或设置元素滚动条到元素左边的距离，理论上的兼容性非常好。<del class="block" title="你知道的太多了" datetime="20191002" ontouchstart=''>其实并不</del>然而，单这一个属性就带出来两个坑。  
 首先，在除了 Chrome 的所有浏览器里，如果文字阅读顺序是从左到右的话，要想拖动滚动条，`Element.scrollLeft`的值应该是负值。换句话说，你如果想通过给`Element.scrollLeft`赋值来滚动视图呢，在 Chrome 里应该赋正值，而其他的浏览器都应该赋负值，这其实都还好，用函数判断一下是不是 Chrome 就好。  
 
-但是呢，如果你想通过取值来获取剩余的滚动宽度呢，问题就来了， Safari 的逻辑是，负值统统记零，MDN里也确实提到了这个，这就导致 Safari 里一个`writing-mode: vertical-rl;`的`<div>`，其`Element.scrollLeft`始终为`0`对，跟网上说的`overflow`的属性是`hidden`还是`scroll`没有任何关系。<del class="block" title="你知道的太多了" datetime="20191002" ontouchstart=''>本当お可愛いこと</del>。  
+但是呢，如果你想通过取值来获取剩余的滚动宽度呢，问题就来了， Safari 的逻辑是，负值统统记零，MDN里也确实提到了这个，这就导致 Safari 里一个`writing-mode: vertical-rl;`的`<div>`，其`Element.scrollLeft`始终为`0`对，跟网上说的`overflow`的属性是`hidden`还是`scroll`没有任何关系。<del class="block" title="你知道的太多了" datetime="20191002" ontouchstart=''>本当お可愛いこと</del>  
 
 另外值得一提的是，根据国外网友的反馈，jQuery 似乎同样也会被受这个因素的影响，不过反正我也不用 jQuery ，那就留待别人去验证吧。
 
