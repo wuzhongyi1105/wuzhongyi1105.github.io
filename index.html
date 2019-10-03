@@ -10,7 +10,7 @@ layout: default
     {% for post in paginator.posts %}
     {% unless post.hide == 'Y' %}
       <li>
-        <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+        <span class="post-date">{{ post.date | date: "%Y年%m月%d日" }}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endunless %}
