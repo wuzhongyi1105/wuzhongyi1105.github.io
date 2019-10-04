@@ -2,7 +2,7 @@
 layout: post
 title: 记两个竖排模式下的坑
 date: 2019-10-02
-hide: Y
+hidden: true
 relate: code
 comments: true
 license: essay

@@ -32,7 +32,7 @@ permalink: /archives/
         <h2>{{ post.date | date: '%Y年' }}</h2>
       {% endif %}
     {% endunless %}
-    {% unless post.relate == 'code' %}
+    {% unless post.hidden == 'true' %}
     <li>{{ post.date | date:"%Y年%m月%d日：" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
 	{% endunless %}
   {% endfor %}
