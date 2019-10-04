@@ -21,14 +21,14 @@ layout: default
       {% if paginator.previous_page == 1 %}
       <a href="/" class="previous action-button animate red"><i class="fa fa-arrow-left"></i> Prev</a>
       {% else %}
-      <a href="/page{{ paginator.previous_page }}" class="previous action-button animate red"><i class="fa fa-arrow-left"></i> Prev</a>
+      <a href="/page{{ paginator.previous_page }}/" class="previous action-button animate red"><i class="fa fa-arrow-left"></i> Prev</a>
       {% endif %}
     {% else %}
     <span class="previous action-button animate red"><i class="fa fa-arrow-left"></i> Prev</span>
     {% endif %}
     <span class="page_number">{{ paginator.page }} / {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}" class="next action-button animate blue">Next <i class="fa fa-arrow-right"></i></a>
+    <a href="/page{{ paginator.next_page }}/" class="next action-button animate blue">Next <i class="fa fa-arrow-right"></i></a>
     {% else %}
     <span class="next action-button animate blue">Next</span>
     {% endif %}
