@@ -9,7 +9,7 @@ layout: default
   <ul class="posts">
     {% for post in paginator.posts %}
       <li>
-        <span class="post-date">{{ post.date | date: "%Y年%m月%d日" }} {% assign week = post.date | date: "%A" %}{% case week %}{% when 'Sunday' %}日{% when 'Monday' %}月{% when 'Tuesday' %}火{% when 'Wednesday' %}水{% when 'Thursday' %}木{% when 'Friday' %}金{% when 'Saturday' %}土{% else %}null{% endcase %}曜日</span>
+        <span class="post-date">{{ post.date | date: "%Y年%m月%d日" }} • {% assign week = post.date | date: "%A" %}{% case week %}{% when 'Sunday' %}日{% when 'Monday' %}月{% when 'Tuesday' %}火{% when 'Wednesday' %}水{% when 'Thursday' %}木{% when 'Friday' %}金{% when 'Saturday' %}土{% else %}null{% endcase %}曜日</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endfor %}
