@@ -16,7 +16,7 @@ license: essay
 
 ## 揪虫
 
-一开始以为是变量没有清空，在结尾增加了一行变量归零的代码，无果。没办法，在执行滚动代码的后面加了`console.log()`输出变量来看看到底怎么回事，结果发现，随着触屏次数的增加，同一时间内返回的元素滚动变量的次数也在增加。也就是说触屏十次往上之后，会同时返回十个相同数值的变量，于是页面元素就会十倍速的滚动。<del class="block" title="你知道的太多了" datetime="20191005" ontouchstart=''>しにたい X﹏X</del>这样基本上把问题定位在了事件侦听上了，应该是最后事件解绑失败，然后重复增加事件侦听，怪不得后来的滚动在起飞中带着一丝卡顿……一个页面元素绑定了几十个事件。  
+一开始以为是变量没有清空，在结尾增加了一行变量归零的代码，无果。没办法，在执行滚动代码的后面加了`console.log()`输出变量来看看到底怎么回事，结果发现，随着触屏次数的增加，同一时间内返回的元素滚动变量的次数也在增加。也就是说触屏十次往上之后，会同时返回十个相同数值的变量，于是页面元素就会十倍速的滚动。<del class="block" title="你知道的太多了" datetime="20191005" ontouchstart=''> しにたい X﹏X </del>这样基本上把问题定位在了事件侦听上了，应该是最后事件解绑失败，然后重复增加事件侦听，怪不得后来的滚动在起飞中带着一丝卡顿……一个页面元素绑定了几十个事件。  
 
 ## 解决
 
@@ -26,7 +26,7 @@ license: essay
 ```javascript
 reader.addEventListener('touchstart',function(event){
     reader.addEventListener('touchmove',function(event){
-        ………………
+
     });
     reader.addEventListener('touchend',function(event){
         reader.removeEventListener('touchmove', null);
@@ -40,7 +40,7 @@ reader.addEventListener('touchstart',touchMove, false);
 function touchMove (event) {
     reader.addEventListener('touchmove',touchScroll, false);
     function touchScroll(event) {
-        ………………
+
     };
     reader.addEventListener('touchend',cleanListener, false);
     function cleanListener(event) {
