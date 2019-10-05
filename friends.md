@@ -231,6 +231,30 @@ comments: true
             </div>
             </div>
             </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://kqh.me/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/20191005.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://kqh.me/" target="_blank" style="float: left;width: 100%;">赫赫文王</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://about.me/keqihan" target="_blank">柯棋瀚</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="http://linglinyp.com/" target="_blank"><img height="80" width="80" src="http://linglinyp.com/img/avatar-ling.jpg"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="http://linglinyp.com/" target="_blank" style="float: left;width: 100%;">Ling's Blog</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="http://linglinyp.com/about.html" target="_blank">Ling Lin</a>
+            </div>
+            </div>
+            </div>
+            </div>
 </div>
 
 <h3 style="text-align: right"> 互勉 </h3>
