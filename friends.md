@@ -34,7 +34,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://orewa.money" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/9135.jpg"></a>
+            <a class="link link--primary" href="https://orewa.money" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/9135.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://orewa.money" target="_blank" style="float: left;width: 100%;">マネーのブログ</a>
             <span style="font-size: 10px;">by </span>
