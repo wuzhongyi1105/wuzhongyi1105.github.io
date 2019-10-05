@@ -53,4 +53,11 @@ function touchMove (event) {
 ## 吐槽
 
 近期应该不会再去修改相关代码了<del class="block" title="你知道的太多了" datetime="20191005" ontouchstart=''>flag</del>，新的代码片段随后会放在 Gist Github 上供大家吐槽。  
-最后在这里还是想吐槽一下 JavaScript 代码的调试，事件解绑失败你好歹也给个 Warning 什么的，啥都没有就也若无其事地跑起来了。(ノ｀Д)ノ<del class="block" title="你知道的太多了" datetime="20191005" ontouchstart=''>强行甩锅</del>
+最后在这里还是想吐槽一下 JavaScript 代码的调试，事件解绑失败你好歹也给个 Warning 什么的，啥都没有就也若无其事地跑起来了。(ノ｀Д)ノ<del class="block" title="你知道的太多了" datetime="20191005" ontouchstart=''>强行甩锅</del>  
+
+## 参考
+
+下面这些文章虽然没有直接帮到我，但是也或多或少地对我有些启发，在此表示感谢。
+- [事件绑定及解除事件绑定 - 掘金](https://juejin.im/post/5ae289faf265da0b80707524)
+- [关于IOS设备window.onscroll滚动条滚动事件不触发的问题 – 赵昊鹏的博客](http://blog.hooperui.com/%E5%85%B3%E4%BA%8Eios%E8%AE%BE%E5%A4%87window-onscroll%E6%BB%9A%E5%8A%A8%E6%9D%A1%E6%BB%9A%E5%8A%A8%E4%BA%8B%E4%BB%B6%E4%B8%8D%E8%A7%A6%E5%8F%91%E7%9A%84%E9%97%AE%E9%A2%98/)
+- [10-移动端开发教程-移动端事件 - FlyDragon - 博客园](https://www.cnblogs.com/fly_dragon/p/8663609.html)
