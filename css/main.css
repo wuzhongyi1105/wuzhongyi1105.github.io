@@ -241,7 +241,7 @@ a:hover { background:#fff1ed;  color:#ff1c18; text-decoration:none;}
 .post ul,
 .post ol { margin-left: 1.35em; }
 
-.post pre code { border: none; display: block;overflow: auto;background: #f4f4f4;/* padding: 5px 10px; */border: 1px solid #eee;word-wrap:break-word;/* Internet Explorer 5.5+ */white-space: pre-wrap;/* Firefox */}
+.post pre code { border: none; display: block;overflow: auto;background: #f4f4f4;/* padding: 5px 10px; */border: 1px solid #eee;word-wrap:break-word;/* Internet Explorer 5.5+ white-space: pre-wrap; Firefox */}
 
 /* terminal */
 .post pre.terminal {
