@@ -8,7 +8,7 @@ comments: true
 license: essay
 ---
 
-** 首先，必须承认这是我没有好好看文档的结果，赖不得别人。**  
+**首先，必须承认这是我没有好好看文档的结果，赖不得别人。**  
 
 ## 起因
 
@@ -22,7 +22,7 @@ license: essay
 
 以“JavaScript 事件解绑”为关键词搜索， Google 第一个结果就是这篇[《 javascript - js取消事件綁定 - SegmentFault 思否 》](https://segmentfault.com/q/1010000009057541s)，***原来匿名函数是不可以被解绑的,所以只能解除具名函数***。<del class="block" title="你知道的太多了" datetime="20191005" ontouchstart=''>想想也是，要是能解绑匿名函数，天知道你要解绑哪个函数。</del>多话不说，直接上代码更清楚明了。  
 
-** 这是一开始的错误代码 **
+**这是一开始的错误代码**
 ```
 reader.addEventListener('touchstart',function(event){
     reader.addEventListener('touchmove',function(event){
@@ -34,7 +34,7 @@ reader.addEventListener('touchstart',function(event){
     })
 });
 ```
-** 这是后来参照标准文档改过的代码 **
+**这是后来参照标准文档改过的代码**
 ```
 reader.addEventListener('touchstart',touchMove, false);
 function touchMove (event) {
