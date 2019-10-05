@@ -227,13 +227,11 @@ a:hover { background:#fff1ed;  color:#ff1c18; text-decoration:none;}
 .post pre,
 .post code {
   /*border: 1px solid #ddd;*/
-  background-color: #efefef;
+  /* background-color: #efefef; */
   padding: 8px 12px;
-  /*
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  */
   font-size: 15px;
 }
 
@@ -242,7 +240,7 @@ a:hover { background:#fff1ed;  color:#ff1c18; text-decoration:none;}
 .post ul,
 .post ol { margin-left: 1.35em; }
 
-.post pre code { border: none; }
+.post pre code { border: none; display: block;overflow: auto;background: #f4f4f4;p/* adding: 5px 10px; */border: 1px solid #eee;word-wrap:break-word;/* Internet Explorer 5.5+ */white-space: pre-wrap;/* Firefox */}
 
 /* terminal */
 .post pre.terminal {

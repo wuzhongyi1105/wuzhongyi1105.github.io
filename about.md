@@ -118,3 +118,4 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 - <a href="https://www.zhihu.com/question/24822927/answer/127293043" target="_blank">position:fixed实现相对父级元素定位 - 知乎用户的回答</a>
 - <a href="http://zhangdajia.com/2018/03/30/active-pseudo-class-doesn-t-work-in-mobile-ios/" target="_blank">:active伪类在移动端ios中无效问题解决办法 | Zhang dajia的博客</a>
 - <a href="https://www.jimoe.cn/archives/use-del-add-black-wood.html" target="_blank">利用del标签给文章添加一些"黑幕" - 尚寂新</a>
+- <a href="https://p0sec.net/index.php/archives/24/" target="_blank">CSS实现pre,code标签让内容自动换行 - p0's blog | 破</a>
