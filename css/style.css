@@ -482,4 +482,6 @@ del.block:not(:hover),del.block:not(:hover) * {
 }
 .foreverblog:hover {
     filter:grayscale(0%);
+    -webkit-transition:-webkit-transform 2s;
+    transition:transform 2s;
 }
