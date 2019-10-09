@@ -470,3 +470,17 @@ del.block:not(:hover),del.block:not(:hover) * {
     font-family: "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", HiraMinProN-W3, IPA明朝, "IPA Mincho", "Noto Serif JP", "Noto Serif SC", "ＭＳ 明朝", "MS Mincho", monospace, sans-serif, serif, Meiryo, メイリオ;
     position: static;
 }
+/* foreverblog */
+.foreverblog {
+    width:auto;
+    height:10px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 1px;
+    margin-left: 10px;
+    filter:grayscale(98%);
+}
+.foreverblog:hover {
+    height:12px;
+    filter:grayscale(0%);
+}

@@ -227,7 +227,7 @@ a:hover { background:#fff1ed;  color:#ff1c18; text-decoration:none;}
 .post pre,
 .post code {
   border: 1px solid #ddd;
-  /* background-color: #efefef; */
+  background: #f4f4f4;
   padding: 8px 12px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
