@@ -473,7 +473,7 @@ del.block:not(:hover),del.block:not(:hover) * {
 /* foreverblog */
 .foreverblog {
     width:auto;
-    height:10px;
+    height:12px;
     display: inline-block;
     vertical-align: middle;
     margin-top: 1px;
@@ -481,6 +481,5 @@ del.block:not(:hover),del.block:not(:hover) * {
     filter:grayscale(98%);
 }
 .foreverblog:hover {
-    height:12px;
     filter:grayscale(0%);
 }
