@@ -485,3 +485,6 @@ del.block:not(:hover),del.block:not(:hover) * {
     -webkit-transition:-webkit-transform 2s;
     transition:transform 2s;
 }
+#foreverblog:hover {
+    background: #ffffff;
+}
