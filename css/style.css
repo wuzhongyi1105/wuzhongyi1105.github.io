@@ -473,19 +473,13 @@ del.block:not(:hover),del.block:not(:hover) * {
 /* foreverblog */
 @media (max-width:900px) {
     .foreverblog img {
-        display: none;
-    }
-    .foreverblog svg {
-        display: normal;
+        display: none !important;
     }
 }
 
 @media (min-width: 768px) {
-    .foreverblog img {
-        display: normal;
-    }
     .foreverblog svg {
-        display: none;
+        display: none !important;
     }
 }
 .foreverblog img {
@@ -502,6 +496,10 @@ del.block:not(:hover),del.block:not(:hover) * {
 .foreverblog svg {
     width:15px;
     height:15px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 3px;
+    margin-left: 10px;
     fill: rgb(43,45,65);
     -webkit-transition:all 1.5s ease-out;
     transition:all 1.5s ease-out;
