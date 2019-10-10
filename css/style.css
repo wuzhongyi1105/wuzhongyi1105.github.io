@@ -499,7 +499,7 @@ del.block:not(:hover),del.block:not(:hover) * {
     display: inline-block;
     vertical-align: middle;
     margin-bottom: 3px;
-    margin-left: 10px;
+    margin-left: 5px;
     fill: rgb(43,45,65);
     -webkit-transition:all 1.5s ease-out;
     transition:all 1.5s ease-out;
