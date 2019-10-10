@@ -176,7 +176,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://lastone.art/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/0933.png"></a>
+            <a class="link link--primary" href="https://lastone.art/" target="_blank"><img height="80" width="80" src="https://s2.ax1x.com/2019/09/25/ueY4G6.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://lastone.art/" target="_blank" style="float: left;width: 100%;">一稿计划</a>
             <span style="font-size: 10px;">by </span>
