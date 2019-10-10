@@ -500,7 +500,7 @@ del.block:not(:hover),del.block:not(:hover) * {
     vertical-align: middle;
     margin-bottom: 3px;
     margin-left: 5px;
-    fill: rgb(43,45,65);
+    fill: rgb(125,130,135);
     -webkit-transition:all 1.5s ease-out;
     transition:all 1.5s ease-out;
 }
@@ -509,7 +509,4 @@ del.block:not(:hover),del.block:not(:hover) * {
 }
 .foreverblog img:hover {
     filter:grayscale(0%);
-}
-.foreverblog svg:hover {
-    fill: rgb(125,130,135);
 }
