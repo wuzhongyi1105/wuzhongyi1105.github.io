@@ -484,7 +484,7 @@ del.block:not(:hover),del.block:not(:hover) * {
 }
 .foreverblog img {
     width:auto;
-    height:12px;
+    height:13px;
     display: inline-block;
     vertical-align: middle;
     margin-top: 1px;
@@ -494,8 +494,8 @@ del.block:not(:hover),del.block:not(:hover) * {
     transition:all 1.5s ease-out;
 }
 .foreverblog svg {
-    width:14px;
-    height:14px;
+    width:13px;
+    height:13px;
     display: inline-block;
     vertical-align: middle;
     margin-bottom: 3px;
