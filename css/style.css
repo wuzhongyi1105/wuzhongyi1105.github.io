@@ -471,7 +471,24 @@ del.block:not(:hover),del.block:not(:hover) * {
     position: static;
 }
 /* foreverblog */
-.foreverblog {
+@media (max-width:900px) {
+    .foreverblog img {
+        display: none;
+    }
+    .foreverblog svg {
+        display: normal;
+    }
+}
+
+@media (min-width: 768px) {
+    .foreverblog img {
+        display: normal;
+    }
+    .foreverblog svg {
+        display: none;
+    }
+}
+.foreverblog img {
     width:auto;
     height:12px;
     display: inline-block;
@@ -479,12 +496,22 @@ del.block:not(:hover),del.block:not(:hover) * {
     margin-top: 1px;
     margin-left: 10px;
     filter:grayscale(98%);
+    -webkit-transition:all 1.5s ease-out;
+    transition:all 1.5s ease-out;
+}
+.foreverblog svg {
+    width:15px;
+    height:15px;
+    fill: rgb(43,45,65);
+    -webkit-transition:all 1.5s ease-out;
+    transition:all 1.5s ease-out;
 }
 .foreverblog:hover {
-    filter:grayscale(0%);
-    -webkit-transition:-webkit-transform 2s;
-    transition:transform 2s;
-}
-#foreverblog:hover {
     background: #ffffff;
+}
+.foreverblog img:hover {
+    filter:grayscale(0%);
+}
+.foreverblog svg:hover {
+    fill: rgb(125,130,135);
 }
