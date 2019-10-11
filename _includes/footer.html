@@ -16,6 +16,7 @@
 <script src="//cdn.jsdelivr.net/npm/underscore@1.6.0/underscore-min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/backbone@1.1.2/backbone-min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/clipboard@1.5.10/dist/clipboard.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/darkmode-js@1.5.0/lib/darkmode-js.min.js"></script>
 <script type="text/javascript" charset="utf-8" src="{{ site.baseurl }}/js/nehan5.min.js"></script>
 <script type="text/javascript" charset="utf-8" src="{{ site.baseurl }}/js/nehan.book.js"></script>
 <script type="text/javascript" src="{{site.baseurl}}/js/nehan.style.js"></script>
@@ -23,6 +24,25 @@
 <script type="text/javascript" src="{{site.baseurl}}/js/toucher.min.js"></script>
 <script type="text/javascript" src="{{site.baseurl}}/js/custom.js"></script>
 <script type="text/javascript" src="{{site.baseurl}}/js/script.js"></script>
+
+<script>
+var options = {
+    bottom: '64px', // default: '32px'
+    right: 'unset', // default: '32px'
+    left: '32px', // default: 'unset'
+    time: '0.5s', // default: '0.3s'
+    mixColor: '#fff', // default: '#fff'
+    backgroundColor: '#fff',  // default: '#fff'
+    buttonColorDark: '#100f2c',  // default: '#100f2c'
+    buttonColorLight: '#fff', // default: '#fff'
+    saveInCookies: false, // default: true,
+    label: '🌓', // default: ''
+    autoMatchOsTheme: true // default: true
+}
+const darkmode = new Darkmode(options);
+    darkmode.showWidget();
+    //darkmode.toggle();
+</script>
 
 <script>
     // 首页打开sw
@@ -38,4 +58,3 @@
         }
     }
 </script>
-
