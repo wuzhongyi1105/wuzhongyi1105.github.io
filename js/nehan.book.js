@@ -41,14 +41,14 @@ Nehan.Book.Template = {
   // @param {Int} pageCount
   menu:{
     vert:[
-      "<button class='next action-button blue'><i class='fa fa-arrow-left'></i> NEXT</button>",
+      "<button class='next action-button blue'><i class='fas fa-arrow-left'></i> NEXT</button>",
       Nehan.Book.Template.Snipet.pageStatus,
-      "<button class='prev action-button red'>PREV <i class='fa fa-arrow-right'></i></button>"
+      "<button class='prev action-button red'>PREV <i class='fas fa-arrow-right'></i></button>"
     ].join(""),
     hori:[
-      "<button class='prev action-button red'><i class='fa fa-arrow-left'></i> PREV</button>",
+      "<button class='prev action-button red'><i class='fas fa-arrow-left'></i> PREV</button>",
       Nehan.Book.Template.Snipet.pageStatus,
-      "<button class='next action-button blue'>NEXT <i class='fa fa-arrow-right'></i></button>"
+      "<button class='next action-button blue'>NEXT <i class='fas fa-arrow-right'></i></button>"
     ].join("")
   }
 };
