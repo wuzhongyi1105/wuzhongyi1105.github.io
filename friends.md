@@ -188,6 +188,18 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
+            <a class="link link--primary" href="https://ncnccn.cn/" target="_blank"><img height="80" width="80" src="https://pic.ncnccn.cn:999/uploads/big/490f179a6d5d87a05bb3b0f9deb52a36.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://ncnccn.cn/" target="_blank" style="float: left;width: 100%;">Null · 一間生活</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://ncnccn.cn/about/" target="_blank">Luka</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
             <a class="link link--primary" href="http://onetuzi.cn/" target="_blank"><img height="80" width="80" src="https://i.loli.net/2019/07/27/5d3bf538d0c1e60286.jpg"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="http://onetuzi.cn/" target="_blank" style="float: left;width: 100%;">Rabbit's Blog</a>
