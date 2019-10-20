@@ -522,6 +522,7 @@ del.block:not(:hover),del.block:not(:hover) * {
     width: 360px;
     margin-top: 64px;
     margin-left: 25% !important;
+    float: none !important;
     }
     #archives {
     margin: 0 auto;
