@@ -44,7 +44,13 @@ const darkmode = new Darkmode(options);
     //darkmode.showWidget();
     console.log(darkmode.isActivated())
 </script>
-
+<script>
+if (window.matchMedia("(perfers-color-schme:dark)").matches || window.matchMedia("(perfers-color-schme:light)").matches) {
+    console.log('Support perfers-color-schme, have fun.')
+} else {
+    console.log('Swtich by double click footer or wait the sun.')
+}
+</script>
 <script>
     // 首页打开sw
     if("/" == '{{page.url}}'){
