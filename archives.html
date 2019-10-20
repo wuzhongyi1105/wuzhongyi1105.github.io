@@ -4,9 +4,9 @@ title: Archives
 permalink: /archives/
 ---
 
-<div style="width: 360px;margin: 0 auto;float: right;margin-top: 64px;"><svg class="line-chart" ></svg></div>
+<div id="chart"><svg class="line-chart" ></svg></div>
 
-<ul style="display: inline;float: left;">
+<ul id="archives">
   {% for post in site.posts %}
 
     {% unless post.next %}
