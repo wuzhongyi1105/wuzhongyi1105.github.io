@@ -188,7 +188,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://ncnccn.cn/" target="_blank"><img height="80" width="80" src="https://pic.ncnccn.cn:999/uploads/big/490f179a6d5d87a05bb3b0f9deb52a36.png"></a>
+            <a class="link link--primary" href="https://ncnccn.cn/" target="_blank"><img height="80" width="80" src="https://pic.ncnccn.cn:2019/uploads/big/490f179a6d5d87a05bb3b0f9deb52a36.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://ncnccn.cn/" target="_blank" style="float: left;width: 100%;">Null · 一間生活</a>
             <span style="font-size: 10px;">by </span>
