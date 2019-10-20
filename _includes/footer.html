@@ -47,8 +47,12 @@ const darkmode = new Darkmode(options);
 <script>
 if (window.matchMedia("(perfers-color-schme:dark)").matches || window.matchMedia("(perfers-color-schme:light)").matches) {
     console.log('Support perfers-color-schme, have fun.')
+    console.log(window.matchMedia("(perfers-color-schme:dark)"))
+    console.log(window.matchMedia("(perfers-color-schme:light)"))
 } else {
     console.log('Swtich by double click footer or wait the sun.')
+    console.log(window.matchMedia("(perfers-color-schme:dark)"))
+    console.log(window.matchMedia("(perfers-color-schme:light)"))
 }
 </script>
 <script>
