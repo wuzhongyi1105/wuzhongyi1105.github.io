@@ -511,12 +511,6 @@ del.block:not(:hover),del.block:not(:hover) * {
     filter:grayscale(0%);
 }
 /* Archives Page */
-#chart {
-    width: 360px;margin: 0 auto;float: right;margin-top: 64px;
-    }
-#archives {
-    display: inline;float: left;
-}
 @media (min-width: 768px) and (max-width:900px) {
     #chart {
     width: 360px;
@@ -527,4 +521,10 @@ del.block:not(:hover),del.block:not(:hover) * {
     margin: 0 auto;
     margin-left: 25%;
     }
+}
+#chart {
+    width: 360px;margin: 0 auto;float: right;margin-top: 64px;
+    }
+#archives {
+    display: inline;float: left;
 }
