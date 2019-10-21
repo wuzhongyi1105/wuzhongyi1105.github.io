@@ -1,4 +1,4 @@
-<footer class="site-footer">
+<footer class="site-footer" id="swtich">
   <div class="wrap">
     <!-- <h2 class="footer-heading">{{ site.title }}</h2> -->
     <p class="text" style="display: inline-block;width: 50%;">{{ site.description }}<a class="foreverblog" href="https://www.foreverblog.cn/"  target="_blank" ><svg t="1570109935433" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2615" width="200" height="200"><path d="M877.632 0h-731.264A146.368 146.368 0 0 0 0 146.368v731.264A146.368 146.368 0 0 0 146.368 1024h731.264A146.368 146.368 0 0 0 1024 877.632v-731.264A146.368 146.368 0 0 0 877.632 0z m-2.7392 727.1424c-23.4496 73.3824-73.8816 125.1968-150.8736 129.5232-103.68 5.8112-207.9616 2.816-314.88 1.9584a47.36 47.36 0 0 1-47.04-47.4368v-47.68a47.424 47.424 0 0 1 47.36-47.4368c76.2496-0.1024 153.024-0.3328 229.7856 0.2048 56.2176 0.4096 118.0288 6.6048 115.5328-76.0832-2.4448-80.448-64.6016-74.24-120.2432-74.24-73.344 0.0768-146.688 0-223.4368 0a47.4368 47.4368 0 0 1-47.4368-47.4368v-50.3808a47.4624 47.4624 0 0 1 47.36-47.4496c88.6656-0.1792 172.6208-0.7168 256.5504 0.4864 46.9504 0.6784 85.8368-8.1024 87.2576-64 1.4464-56.5248-32.9984-76.9024-85.8752-76.3648-91.3024 0.9088-182.6176-0.3328-273.92 0.3712C292.0832 281.984 258.1248 313.6 256.3072 416c-2.1248 119.9616-0.3584 240-0.768 360 0 11.6224-0.5248 23.2448-1.1776 35.2256a47.4496 47.4496 0 0 1-47.36 44.8h-21.952A47.36 47.36 0 0 1 137.6128 808.96c-1.28-164.5312-7.68-328.2688 3.4944-490.7776 7.68-110.2208 105.0624-177.5616 222.0544-180.5568 101.6704-2.56 203.52-1.7408 305.2032-0.4864 187.8016 2.3808 280.0384 170.9056 183.232 333.568l-15.9872 26.816c54.6048 70.6944 65.4208 147.7888 39.2832 229.6192z" p-id="2616"></path></svg><img class="foreverblog" src="https://img.foreverblog.cn/logo_en_default.png" alt="ForeverBlog" ></a></p>
@@ -52,7 +52,27 @@ if (window.matchMedia("(perfers-color-schme:dark)").matches || window.matchMedia
 } else {
     console.log('Swtich by double click footer or wait the sun.')
     console.log(window.matchMedia("(perfers-color-schme:dark)"))
+    if(new Date().getHours() > 22 || new Date().getHours() < 6){
+        darkmode.toggle();
+        console.log('夜间模式开启');
+        }else{
+        console.log('夜间模式关闭');
+    }
 }
+</script>
+<script>
+var i = 0;
+$('#swtich').on('click', function () {
+    i++;
+    setTimeout(function () {
+        i = 0;
+    }, 500);
+    if (i > 1) {
+        darkmode.toggle();
+        console.log('夜间模式开启');
+        i = 0;
+    }
+})
 </script>
 <script>
     // 首页打开sw
