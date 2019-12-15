@@ -81,7 +81,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://www.chairyfish.com" target="_blank"><img height="80" width="80" src="https://www.chairyfish.com/assets/friends/img/logo.png"></a>
+            <a class="link link--primary" href="https://www.chairyfish.com" target="_blank"><img height="80" width="80" src="https://www.chairyfish.com/assets/img/logo.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://www.chairyfish.com" target="_blank" style="float: left;width: 100%;">五斤</a>
             <span style="font-size: 10px;">by </span>
@@ -129,7 +129,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://shanbu.fun/" target="_blank"><img height="80" width="80" src="https://shanbu.fun/images/avatar.png"></a>
+            <a class="link link--primary" href="https://shanbu.fun/" target="_blank"><img height="80" width="80" src="https://shanbu.fun/logo/tx.jpg"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://shanbu.fun/" target="_blank" style="float: left;width: 100%;">山卜方</a>
             <span style="font-size: 10px;">by </span>
