@@ -86,17 +86,17 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 <a id="github" href="https://github.com/Kaiyuan/donate-page" target="_blank" class="pos-f tr3" title="Github"></a>
 <div id="DonateText" class="tr3">Sponsor</div>
 <ul id="donateBox" class="list pos-f tr3">
-	<li id="PayPal"><a href="https://paypal.me/dylanwzy" target="_blank">PayPal</a></li>
+	<li id="PayPal"><a href="https://paypal.me/dylanwzy" target="_blank">PayPal</a></li>-->
 	<!-- <li id="BTC" data-footnote="Copy addres and show QRCod"><button id="BTCBn"  data-clipboard-target="#btc-key" alt="Copy to clipboard">Bitcoin</button></li> -->
-	<li id="AliPay">AliPay</li>
+	<!-- <li id="AliPay">AliPay</li>
 	<li id="WeChat">WeChat</li>
 </ul>
 <div id="QRBox" class="pos-f left-100">
 	<div id="MainBox"></div>
 </div>
 Bitcoin 账号
-<input id="btc-key" type="text" value="14JkMR68n4PBASB3TgvpjtaPTbfffSwFbW" readonly="readonly"> -->
-</div>
+<input id="btc-key" type="text" value="14JkMR68n4PBASB3TgvpjtaPTbfffSwFbW" readonly="readonly"> 
+</div>-->
 
 ## Social Network {#social}
 
