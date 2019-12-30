@@ -11,8 +11,7 @@ comments: true
 作画贵在胆识。敢不敢把你的想象力充分地摆到画上去，谓之胆；能不能摆得好，谓之识。胆识二字来自平日对艺术的感受积累和学识修养。
 <br>
 <span class='empha-double-circle-filled'>
-画之为道，以实就虚，实之不逮，如渺冥中画符，恍兮惚兮不自知，不明白，不自得。
-</span>
+画之为道</span>，<span class='empha-double-circle-filled'>以实就虛</span>，<span class='empha-double-circle-filled'>实之不逮</span>，<span class='empha-double-circle-filled'>如渺冥中画符</span>，<span class='empha-double-circle-filled'>恍兮惚兮不自知</span>，<span class='empha-double-circle-filled'>不明白</span>，<span class='empha-double-circle-filled'>不自得</span>。
 <br>
 下笔处有「大力量」，于明白处见大美。
 <br>
