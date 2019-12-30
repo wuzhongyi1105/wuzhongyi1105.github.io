@@ -22,7 +22,7 @@ comments: true
 <br>
 怎样画戏，说不清楚。可以即兴，可以速写性，如一匹烈马，顺服它是一种快乐，驾驭它是一种快乐，信马由缰是一种快乐，勒马停立而听其长鸣也是一种快乐。
 <br>
-有后生问我如何变形，我以人的脸部五官为例告诉他：可以任意安排，不离其位。活灵而不油气，<span class='empha-double-circle-filled'>得意而不忘形</span>。如打醉拳，必内醒一招一式精于规矩方可
+有后生问我如何变形，我以人的脸部五官为例告诉他：可以任意安排，不离其位。<span class='empha-double-circle-filled'>活灵而不油气</span>，<span class='empha-double-circle-filled'>得意而不忘形</span>。如打醉拳，必内醒一招一式精于规矩方可
 <br>
 变形不是画丑，不可滥用，要在耐看的前提下，自由、自由、再自由。
 <br>
