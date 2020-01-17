@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dylanwzy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.dylanwu.space
+  * I am dylanwzy (https://keybase.io/dylanwzy) on keybase.
+  * I have a public key ASBTEw3LjtOSam6rwH5OY-_KvikRYLSAD4mtCcjHnwPTsQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120687fb01d9504dd915100b41d0f4e55b1b05bddc9c23280cd2df6cb08cdb432ad0a",
+      "host": "keybase.io",
+      "kid": "012053130dcb8ed3926a6eabc07e4e63efcabe291160b4800f89ad09c8c79f03d3b10a",
+      "uid": "cccfc3fd5f7735218e54c39e1562eb19",
+      "username": "dylanwzy"
+    },
+    "merkle_root": {
+      "ctime": 1579271718,
+      "hash": "e20bdb05e9faae3bce58be5d138d2df5decc93e72d6014def11791208bb3f2afdd9b07f246d1bfca631db3a4de7cba536935cb14a1a97a79366026829c3c47b7",
+      "hash_meta": "362c5e1f34f924b279af8100b5b5deb202d77aa0f645672b24a1118a538ddea3",
+      "seqno": 14264406
+    },
+    "service": {
+      "entropy": "KxH2ZdbOLIHKJG+8Sc8wld3N",
+      "hostname": "blog.dylanwu.space",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1579271749,
+  "expire_in": 504576000,
+  "prev": "6b1daf162e42bf11c019c3c0477d7a06204f4ba13f9067ecc6866af3202af94c",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUxMNy47Tkmpuq8B+TmPvyr4pEWC0gA+JrQnIx58D07EKp3BheWxvYWTESpcCDMQgax2vFi5CvxHAGcPAR316BiBPS6E/kGfsxoZq8yAq+UzEIPAPYJWEs2aq8UF4k97s95sJGW7AxVGKdJUH/qEyXroXAgHCo3NpZ8RADHI+AcOxbHbBpvg01I2RnMwZRPQixVH8coLcIviQ03agn1L2/rSUmnypQT7kR2TBQ2xu15PebyJLzv+6pG1rB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAj/v1z7OlGNGCfcrP/pPOMrdIx4rE6ue/s8063nmwpWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dylanwzy
+
+==================================================================
