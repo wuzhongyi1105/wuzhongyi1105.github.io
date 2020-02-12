@@ -84,7 +84,8 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 
 ## Social Network {#social}
 
-<del class="block" title="你知道的太多了" datetime="20190922" cite="https://lolioi.moe/3.html" ontouchstart=''>Null</del>
+- <a rel="me" href="https://m.cmx.im/@dylan">草莓縣</a>
+- <a rel="me" href="https://liker.social/@dylan">Liker.Social</a>
 
 ## Credits {#credits}
 
