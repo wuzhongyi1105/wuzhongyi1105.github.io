@@ -315,6 +315,18 @@ comments: true
             </div>
             </div>
             </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://kaix.in/" target="_blank"><img height="80" width="80" src="https://kaix.in/icon.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://kaix.in/" target="_blank" style="float: left;width: 100%;">KAIX.IN</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://tzcafe.com/@dimlau" target="_blank">dimlau</a>
+            </div>
+            </div>
+            </div>
+            </div>
 </div>
 
 <h3 style="text-align: right"> 互勉 </h3>
