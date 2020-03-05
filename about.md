@@ -86,8 +86,8 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 
 - <a rel="me" href="https://m.cmx.im/@dylan">草莓縣</a>
 - <a rel="me" href="https://pawoo.net/@dylanwu">Pawoo</a>
+- <a rel="me" href="https://caonima.wtf/dylanwu">羊驼卧谈会</a>
 - <a rel="me" href="https://liker.social/@dylan">Liker.Social</a>
-- <a rel="me" href="https://o3o.ca/@dylan">o3o</a>
 
 ## Credits {#credits}
 
