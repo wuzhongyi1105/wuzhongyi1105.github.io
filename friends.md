@@ -152,11 +152,11 @@ comments: true
 		<div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://nine-lie.com/" target="_blank"><img height="80" width="80" src="https://9inelie.files.wordpress.com/2019/01/img_3205.jpg"></a>
+            <a class="link link--primary" href="https://nine-lie.com/" target="_blank"><img height="80" width="80" src="https://niineliie.files.wordpress.com/2020/02/img_0505-1.jpg"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://nine-lie.com/" target="_blank" style="float: left;width: 100%;">Nine-Lie</a>
             <span style="font-size: 10px;">by </span>
-            <a style="font-size: 10px;" href="https://storeweb.cn/site/one/697" target="_blank">Lin.</a>
+            <a style="font-size: 10px;" href="https://nine-lie.com/message/" target="_blank">Lin.</a>
             </div>
             </div>
             </div>
@@ -327,7 +327,7 @@ comments: true
             </div>
             </div>
             </div>
-			<div class="userItem">
+		<div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
             <a class="link link--primary" href="https://meow3.family.blog/" target="_blank"><img height="80" width="80" src="https://mewfamilyblog.files.wordpress.com/2019/03/f39fd-e79fade58f91e7b4abe889b2e7b3bbe5a4b4e5838f.jpeg"></a>
@@ -339,7 +339,7 @@ comments: true
             </div>
             </div>
             </div>
-			<div class="userItem">
+		<div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
             <a class="link link--primary" href="https://birdzhang.xyz" target="_blank"><img height="80" width="80" src="https://birdzhang.xyz/img/logo.png"></a>
@@ -347,6 +347,18 @@ comments: true
             <a class="link link--primary" href="https://birdzhang.xyz" target="_blank" style="float: left;width: 100%;">BirdZhang's Blog</a>
             <span style="font-size: 10px;">by </span>
             <a style="font-size: 10px;" href="https://twitter.com/0312birdzhang" target="_blank">BirdZhang</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://josephilo.com" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/joselogo.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://josephilo.com" target="_blank" style="float: left;width: 100%;">J<i>ose<sub>P</sub>h<sup>ilo</sup></i></a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://josephilo.com/about.html" target="_blank">Joseph Cheung</a>
             </div>
             </div>
             </div>
