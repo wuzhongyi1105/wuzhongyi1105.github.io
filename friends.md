@@ -308,7 +308,7 @@ comments: true
             <div class="userItem-content">
             <a class="link link--primary" href="https://blog.ryouissei.com/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/IMG_0654.jpg"></a>
             <div class="userItem-name">
-            <a class="link link--primary" href="https://blog.ryouissei.com/" target="_blank" style="float: left;width: 100%;">觉 论</a>
+            <a class="link link--primary" href="https://blog.ryouissei.com/" target="_blank" style="float: left;width: 100%;">覺 論</a>
             <span style="font-size: 10px;">by </span>
             <a style="font-size: 10px;" href="https://ryouissei.com/" target="_blank">Liang Yicheng</a>
             </div>
