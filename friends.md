@@ -294,11 +294,11 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://blog.502.li/" target="_blank"><img height="80" width="80" src="https://blog.502.li/favicon.ico"></a>
+            <a class="link link--primary" href="https://blog.k8s.li/" target="_blank"><img height="80" width="80" src="https://blog.502.li/favicon.ico"></a>
             <div class="userItem-name">
-            <a class="link link--primary" href="https://blog.502.li/" target="_blank" style="float: left;width: 100%;">木子的博客</a>
+            <a class="link link--primary" href="https://blog.k8s.li/" target="_blank" style="float: left;width: 100%;">木子的博客</a>
             <span style="font-size: 10px;">by </span>
-            <a style="font-size: 10px;" href="https://blog.502.li/about.html" target="_blank">木子</a>
+            <a style="font-size: 10px;" href="https://blog.k8s.li/about.html" target="_blank">木子</a>
             </div>
             </div>
             </div>
