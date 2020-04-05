@@ -46,7 +46,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://hesay.me" target="_blank"><img height="80" width="80" src="https://resource.indes.now.sh/images/indes.jpg"></a>
+            <a class="link link--primary" href="https://hesay.me" target="_blank"><img height="80" width="80" src="https://source.yalv.me/wp-content/uploads/2019/06/indes.jpg"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://hesay.me" target="_blank" style="float: left;width: 100%;">缄默泄漏</a>
             <span style="font-size: 10px;">by </span>
@@ -58,7 +58,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://yalv.me/" target="_blank"><img height="80" width="80" src="https://source.yalv.me/wp-content/uploads/2019/04/favicon.jpg"></a>
+            <a class="link link--primary" href="https://yalv.me/" target="_blank"><img height="80" width="80" src="https://secure.gravatar.com/avatar/d8217898f3f736da635403d9ca52af05?s=160&d=retro&r=g"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://yalv.me/" target="_blank" style="float: left;width: 100%;">YALV</a>
             <span style="font-size: 10px;">by </span>
