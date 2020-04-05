@@ -129,7 +129,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://shanbu.fun/" target="_blank"><img height="80" width="80" src="https://shanbu.fun/avatar.png"></a>
+            <a class="link link--primary" href="https://shanbu.fun/" target="_blank"><img height="80" width="80" src="https://shanbu.fun/images/avatar.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://shanbu.fun/" target="_blank" style="float: left;width: 100%;">山卜方</a>
             <span style="font-size: 10px;">by </span>
