@@ -152,7 +152,7 @@ comments: true
 		<div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://nine-lie.com/" target="_blank"><img height="80" width="80" src="https://niineliie.files.wordpress.com/2020/02/img_0505-1.jpg"></a>
+            <a class="link link--primary" href="https://nine-lie.com/" target="_blank"><img height="80" width="80" src="https://i1.wp.com/nine-lie.com/wp-content/uploads/2020/03/img_7417.jpg"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://nine-lie.com/" target="_blank" style="float: left;width: 100%;">Nine-Lie</a>
             <span style="font-size: 10px;">by </span>
