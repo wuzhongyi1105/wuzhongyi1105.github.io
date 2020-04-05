@@ -294,7 +294,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://blog.k8s.li/" target="_blank"><img height="80" width="80" src="https://blog.502.li/favicon.ico"></a>
+            <a class="link link--primary" href="https://blog.k8s.li/" target="_blank"><img height="80" width="80" src="https://blog.k8s.li/avatar.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://blog.k8s.li/" target="_blank" style="float: left;width: 100%;">木子的博客</a>
             <span style="font-size: 10px;">by </span>
@@ -359,6 +359,18 @@ comments: true
             <a class="link link--primary" href="https://josephilo.com" target="_blank" style="float: left;width: 100%;">J<i>ose<sub>P</sub>h<sup>ilo</sup></i></a>
             <span style="font-size: 10px;">by </span>
             <a style="font-size: 10px;" href="https://josephilo.com/about.html" target="_blank">Joseph Cheung</a>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://await.moe/" target="_blank"><img height="80" width="80" src="https://await.moe/icon/favicon.ico"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://await.moe/" target="_blank" style="float: left;width: 100%;">Cocoa | 経験値上昇中☆</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://await.moe/" target="_blank">Cocoa</a>
             </div>
             </div>
             </div>
