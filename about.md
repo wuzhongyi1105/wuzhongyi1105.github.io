@@ -56,7 +56,7 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 - ~~在归档页加了一个年度统计表格~~
 - ~~單頁竪排模版，優化短文閱讀體驗~~
 - ~~可讀性調整（嘗試使用 <a href="https://www.zhangxinxu.com/wordpress/2016/04/css-writing-mode/" target="_blank">writing-mode 屬性</a>來實現竪排，之前的nehan.js也不會摒棄）~~
-- ~~夜間模式<del class="block" title="你知道的太多了" datetime="20190927" ontouchstart=''>听说是开发界的政治正确？</del>~~（逻辑是，支持 perfers-color-schme 特性的，跟随系统设置；不支持该特性的，从23时至6时自动调整为夜间模式。）
+- ~~夜間模式<del class="block" title="你知道的太多了" datetime="20190927" ontouchstart=''>听说是开发界的政治正确？</del>（逻辑是，支持 perfers-color-schme 特性的，跟随系统设置；不支持该特性的，从23时至6时自动调整为夜间模式。）~~ <del class="block" title="你知道的太多了" datetime="20200122" ontouchstart=''>已禁用，使用体验不太好，原来这个世界上是有人一直开着夜间模式的</del>
 - ＡＭＰ頁面適配
 - ~~添加非翻頁排版版式的專用歸檔頁~~（改为添加技术类专用分类，毕竟数量较少）
 
@@ -84,11 +84,13 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 ~~打賞這個功能我是猶豫了很久才加上去的，本來是覺著自己的文章完全沒有值得打賞的地方，畢竟誰會去關心一個滿腹牢騷的男人寫的東西。不過，後來覺得這個功能蠻好玩，就還是加了進去。（其實是申請了收款碼沒地方放）~~
 
 <del class="block" title="你知道的太多了" datetime="20191219" ontouchstart=''>棄了棄了，改要飯了</del>
-<a href="https://payment.dylanwu.space/" target="_blank">投餵這里請</a>
 
 ## Social Network {#social}
 
-<del class="block" title="你知道的太多了" datetime="20190922" cite="https://lolioi.moe/3.html" ontouchstart=''>Null</del>
+- <a rel="me" href="https://m.cmx.im/@dylan">草莓縣</a>
+- <a rel="me" href="https://pawoo.net/@dylanwu">Pawoo</a>
+- <a rel="me" href="https://caonima.wtf/dylanwu">羊驼卧谈会</a>
+- <a rel="me" href="https://liker.social/@dylan">Liker.Social</a>
 
 ## Credits {#credits}
 

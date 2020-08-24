@@ -182,7 +182,7 @@ a:hover { background:#fff1ed;  color:#ff1c18; text-decoration:none;}
 
 .post-content { margin: 0 0 30px; }
 
-.post-content > * { margin: 20px 0; }
+.post-content > * { margin: 20px 0; font-family: "Segoe UI", "Lucida Grande", Helvetica, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", Arial, sans-serif;}
 
 
 .post-content h1,
