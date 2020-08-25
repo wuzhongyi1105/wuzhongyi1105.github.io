@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 關於「成熟」的一些思考
+title: 關於「成熟」
 date: 2020-08-18
 comments: true
 license: essay
