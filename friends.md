@@ -34,18 +34,6 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://orewa.money" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/9135.png"></a>
-            <div class="userItem-name">
-            <a class="link link--primary" href="https://orewa.money" target="_blank" style="float: left;width: 100%;">マネーのブログ</a>
-            <span style="font-size: 10px;">by </span>
-            <a style="font-size: 10px;" href="#" target="_blank">Money</a>
-            </div>
-            </div>
-            </div>
-            </div>
-            <div class="userItem">
-            <div class="userItem--inner">
-            <div class="userItem-content">
             <a class="link link--primary" href="https://hesay.me" target="_blank"><img height="80" width="80" src="https://source.yalv.me/wp-content/uploads/2019/06/indes.jpg"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://hesay.me" target="_blank" style="float: left;width: 100%;">缄默泄漏</a>
@@ -342,7 +330,7 @@ comments: true
 		<div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://birdzhang.xyz" target="_blank"><img height="80" width="80" src="https://birdzhang.xyz/img/logo.png"></a>
+            <a class="link link--primary" href="https://birdzhang.xyz" target="_blank"><img height="80" width="80" src="https://www.gravatar.com/avatar/72326950ba674fec08b31a0c90663fe2?s=128"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://birdzhang.xyz" target="_blank" style="float: left;width: 100%;">BirdZhang's Blog</a>
             <span style="font-size: 10px;">by </span>
