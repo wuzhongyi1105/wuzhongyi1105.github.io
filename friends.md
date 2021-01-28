@@ -119,7 +119,7 @@ comments: true
             <div class="userItem-content">
             <a class="link link--primary" href="https://novcu.com/" target="_blank"><img height="80" width="80" src="https://cdn.jsdelivr.net/gh/novcu/picture/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201226145224.jpg"></a>
             <div class="userItem-name">
-            <a class="link link--primary" href="https://novcu.com/" target="_blank" style="float: left;width: 100%;">山卜方</a>
+            <a class="link link--primary" href="https://novcu.com/" target="_blank" style="float: left;width: 100%;">樗顾</a>
             <span style="font-size: 10px;">by </span>
             <a style="font-size: 10px;" href="https://tzcafe.com/@shanbufun" target="_blank">云中君</a>
             </div>
@@ -176,7 +176,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://ncnccn.cn/" target="_blank"><img height="80" width="80" src="https://pic.ncnccn.cn:2019/uploads/big/490f179a6d5d87a05bb3b0f9deb52a36.png"></a>
+            <a class="link link--primary" href="https://ncnccn.cn/" target="_blank"><img height="80" width="80" src="https://pic.ncnccn.cn/uploads/big/490f179a6d5d87a05bb3b0f9deb52a36.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://ncnccn.cn/" target="_blank" style="float: left;width: 100%;">Null · 一間生活</a>
             <span style="font-size: 10px;">by </span>
@@ -200,7 +200,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://www.aiweikai.com/" target="_blank"><img height="80" width="80" src="https://www.aiweikai.com/wp-content/uploads/2019/02/cropped-hdImg_b37861e3772ae0c5c24f9a99780ae3731547840391721-1.jpg"></a>
+            <a class="link link--primary" href="https://www.aiweikai.com/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/Uv9wCg_400x400.jpg"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://www.aiweikai.com/" target="_blank" style="float: left;width: 100%;">艾为开的部落格</a>
             <span style="font-size: 10px;">by @Ai_Weikai</span>
