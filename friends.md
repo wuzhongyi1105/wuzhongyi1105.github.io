@@ -34,11 +34,11 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://hesay.me" target="_blank"><img height="80" width="80" src="https://source.yalv.me/wp-content/uploads/2019/06/indes.jpg"></a>
+            <a class="link link--primary" href="https://www.muteleak.com/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/indes.jpg"></a>
             <div class="userItem-name">
-            <a class="link link--primary" href="https://hesay.me" target="_blank" style="float: left;width: 100%;">缄默泄漏</a>
+            <a class="link link--primary" href="https://www.muteleak.com/" target="_blank" style="float: left;width: 100%;">静音失效</a>
             <span style="font-size: 10px;">by </span>
-            <a style="font-size: 10px;" href="https://hesay.me/about/" target="_blank">indes</a>
+            <a style="font-size: 10px;" href="https://twitter.com/isindes" target="_blank">indes</a>
             </div>
             </div>
             </div>
