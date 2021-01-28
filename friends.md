@@ -117,11 +117,11 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://shanbu.fun/" target="_blank"><img height="80" width="80" src="https://shanbu.fun/images/avatar.png"></a>
+            <a class="link link--primary" href="https://novcu.com/" target="_blank"><img height="80" width="80" src="https://cdn.jsdelivr.net/gh/novcu/picture/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201226145224.jpg"></a>
             <div class="userItem-name">
-            <a class="link link--primary" href="https://shanbu.fun/" target="_blank" style="float: left;width: 100%;">山卜方</a>
+            <a class="link link--primary" href="https://novcu.com/" target="_blank" style="float: left;width: 100%;">山卜方</a>
             <span style="font-size: 10px;">by </span>
-            <a style="font-size: 10px;" href="https://t.me/yzhongjun" target="_blank">云中君</a>
+            <a style="font-size: 10px;" href="https://tzcafe.com/@shanbufun" target="_blank">云中君</a>
             </div>
             </div>
             </div>
@@ -371,6 +371,18 @@ comments: true
             <a class="link link--primary" href="https://i.nebula.moe/" target="_blank" style="float: left;width: 100%;">奇想齋</a>
             <span style="font-size: 10px;">by </span>
             <a style="font-size: 10px;" href="https://i.nebula.moe/" target="_blank">Cocoa</a>
+            </div>
+            </div>
+            </div>
+            </div>
+			<div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://mindpalace.michaelis.website/" target="_blank"><img height="80" width="80" src="https://mindpalace.michaelis.website/Me_pink.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://mindpalace.michaelis.website/" target="_blank" style="float: left;width: 100%;">Michaelis's Mindpalace</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://fedi.tesaguri.club/Michaelis" target="_blank">爆浆变态小米茶😼</a>
             </div>
             </div>
             </div>
