@@ -375,6 +375,18 @@ comments: true
             </div>
             </div>
             </div>
+			<div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://yinyisheng.github.io/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/cf46ef1c8ad48e6f.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://yinyisheng.github.io/" target="_blank" style="float: left;width: 100%;">所谓自由就是生命的诅咒</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://alive.bar/@yisheng" target="_blank">尹亦声</a>
+            </div>
+            </div>
+            </div>
+            </div>
 </div>
 
 <h3 style="text-align: right"> 互勉 </h3>
