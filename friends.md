@@ -387,6 +387,30 @@ comments: true
             </div>
             </div>
             </div>
+			<div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://suicablog.cobaltkiss.blue/" target="_blank"><img height="80" width="80" src="https://suicablog.cobaltkiss.blue/images/profile%20picture.gif"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://suicablog.cobaltkiss.blue/" target="_blank" style="float: left;width: 100%;">SuicaBlue's blog</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://cobaltkiss.blue/suica" target="_blank">Suica</a>
+            </div>
+            </div>
+            </div>
+            </div>
+			<div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://shykana.qoto.io/" target="_blank"><img height="80" width="80" src="https://wuppo.allowed.org/media/bbcf64a502bc42777fa4a3f791538fb1114bd9f550237e6601d471d7259415b5.blob"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://yinyisheng.github.io/" target="_blank" style="float: left;width: 100%;">今騒戯画</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://wuppo.allowed.org/ShyKana" target="_blank">𝓚𝓪𝓷𝓪𝓴𝓪𝓷𝓪𝓴𝓪nya</a>
+            </div>
+            </div>
+            </div>
+            </div>
 </div>
 
 <h3 style="text-align: right"> 互勉 </h3>
