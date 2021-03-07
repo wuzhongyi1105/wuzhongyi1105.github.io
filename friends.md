@@ -366,7 +366,7 @@ comments: true
 			<div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://mindpalace.michaelis.website/" target="_blank"><img height="80" width="80" src="https://mindpalace.michaelis.website/Me_pink.png"></a>
+            <a class="link link--primary" href="https://mindpalace.michaelis.website/" target="_blank"><img height="80" width="80" src="https://mindpalace.michaelis.website/me/Me.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://mindpalace.michaelis.website/" target="_blank" style="float: left;width: 100%;">Michaelis's Mindpalace</a>
             <span style="font-size: 10px;">by </span>
@@ -407,6 +407,18 @@ comments: true
             <a class="link link--primary" href="https://yinyisheng.github.io/" target="_blank" style="float: left;width: 100%;">今騒戯画</a>
             <span style="font-size: 10px;">by </span>
             <a style="font-size: 10px;" href="https://wuppo.allowed.org/ShyKana" target="_blank">𝓚𝓪𝓷𝓪𝓴𝓪𝓷𝓪𝓴𝓪nya</a>
+            </div>
+            </div>
+            </div>
+            </div>
+			<div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://exploro.one/" target="_blank"><img height="80" width="80" src="https://www.gravatar.com/avatar/dfa26ed25a72c40d602d33d854dd6f07?s=192"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://exploro.one/" target="_blank" style="float: left;width: 100%;">探索子</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://exploro.one/about" target="_blank">夏目</a>
             </div>
             </div>
             </div>
