@@ -423,6 +423,30 @@ comments: true
             </div>
             </div>
             </div>
+			<div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://zkpeace.com/" target="_blank"><img height="80" width="80" src="https://a.disquscdn.com/get?url=http%3A%2F%2Fzkpeace.com%2Fblog%2Fimg%2Favatar.jpg&key=mV7gSTb_XwF7t01g3Vtmcg&w=320&h=300"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://zkpeace.com/" target="_blank" style="float: left;width: 100%;">途中的树</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://zkpeace.com/blog-cn/profile/" target="_blank">kp</a>
+            </div>
+            </div>
+            </div>
+            </div>
+			<div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://sanguok.com/" target="_blank"><img height="80" width="80" src="https://uploads.disquscdn.com/images/2412160f720b88e8e7fd35fb12e799de5ad521d86b164683d3ff79a20b233d78.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://sanguok.com/" target="_blank" style="float: left;width: 100%;">山月</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://twitter.com/guanchishan" target="_blank">David Zheng</a>
+            </div>
+            </div>
+            </div>
+            </div>
 </div>
 
 <h3 style="text-align: right"> 互勉 </h3>
