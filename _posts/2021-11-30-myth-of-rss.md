@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关于 RSS 协议的一些迷思
-date: 2021-11-31
+date: 2021-11-30
 comments: true
 license: essay
 ---
