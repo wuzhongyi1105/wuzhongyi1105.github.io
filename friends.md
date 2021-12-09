@@ -454,7 +454,7 @@ comments: true
             <div class="userItem-name">
             <a class="link link--primary" href="https://candinya.com" target="_blank" style="float: left;width: 100%;">糖菓·部落</a>
             <span style="font-size: 10px;">by </span>
-            <a style="font-size: 10px;" href="https://candinya.com/about/" target="_blank">糖喵</a>
+            <a style="font-size: 10px;" href="https://nya.one/@Candinya" target="_blank">糖喵</a>
             </div>
             </div>
             </div>
