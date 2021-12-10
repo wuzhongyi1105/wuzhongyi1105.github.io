@@ -450,9 +450,9 @@ comments: true
 			<div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://candinya.com" target="_blank"><img height="80" width="80" src="https://cdn.jsdelivr.net/gh/Candinya/Candinya/img/candinya.webp"></a>
+            <a class="link link--primary" href="https://candinya.com/" target="_blank"><img height="80" width="80" src="https://cdn.jsdelivr.net/gh/Candinya/Candinya/img/candinya.webp"></a>
             <div class="userItem-name">
-            <a class="link link--primary" href="https://candinya.com" target="_blank" style="float: left;width: 100%;">糖菓·部落</a>
+            <a class="link link--primary" href="https://candinya.com/" target="_blank" style="float: left;width: 100%;">糖菓·部落</a>
             <span style="font-size: 10px;">by </span>
             <a style="font-size: 10px;" href="https://nya.one/@Candinya" target="_blank">糖喵</a>
             </div>
@@ -467,6 +467,30 @@ comments: true
             <a class="link link--primary" href="https://dogcraft.top" target="_blank" style="float: left;width: 100%;">dogcraft</a>
             <span style="font-size: 10px;">by </span>
             <a style="font-size: 10px;" href="https://m.dogcraft.top/@dogcraft" target="_blank">dogcraft</a>
+            </div>
+            </div>
+            </div>
+            </div>
+			<div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://jiangshanghan.art.blog/" target="_blank"><img height="80" width="80" src="https://seccdn.libravatar.org/avatar/d89817ce976fd96a063a66288b557f03?d=monsterid"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://jiangshanghan.art.blog/" target="_blank" style="float: left;width: 100%;">一潭星动。</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://slashine.onl/@jiangshanghan" target="_blank">江尚寒</a>
+            </div>
+            </div>
+            </div>
+            </div>
+			<div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://mantyke.icu/" target="_blank"><img height="80" width="80" src="https://mantyke.icu/img/avatar_hu5235ac48980fd45483f73bac4b632ef6_522544_300x0_resize_box_3.png"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://mantyke.icu/" target="_blank" style="float: left;width: 100%;">小球飞鱼</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://toot.mantyke.icu/@Hydrangea/" target="_blank">dogcraft</a>
             </div>
             </div>
             </div>
