@@ -490,7 +490,7 @@ comments: true
             <div class="userItem-name">
             <a class="link link--primary" href="https://mantyke.icu/" target="_blank" style="float: left;width: 100%;">小球飞鱼</a>
             <span style="font-size: 10px;">by </span>
-            <a style="font-size: 10px;" href="https://toot.mantyke.icu/@Hydrangea/" target="_blank">dogcraft</a>
+            <a style="font-size: 10px;" href="https://toot.mantyke.icu/@Hydrangea/" target="_blank">Hydrangea</a>
             </div>
             </div>
             </div>
