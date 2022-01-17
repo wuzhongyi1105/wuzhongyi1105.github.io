@@ -200,9 +200,9 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://www.aiweikai.com/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/Uv9wCg_400x400.jpg"></a>
+            <a class="link link--primary" href="https://www.liuqiran.com/" target="_blank"><img height="80" width="80" src="https://blog.dylanwu.space/assets/friends/Uv9wCg_400x400.jpg"></a>
             <div class="userItem-name">
-            <a class="link link--primary" href="https://www.aiweikai.com/" target="_blank" style="float: left;width: 100%;">艾为开的部落格</a>
+            <a class="link link--primary" href="https://www.liuqiran.com/" target="_blank" style="float: left;width: 100%;">刘其然的部落格</a>
             <span style="font-size: 10px;">by @Ai_Weikai</span>
             </div>
             </div>
