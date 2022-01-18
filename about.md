@@ -80,15 +80,15 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 ## Sponsor {#donate}
 
 ~~打賞這個功能我是猶豫了很久才加上去的，本來是覺著自己的文章完全沒有值得打賞的地方，畢竟誰會去關心一個滿腹牢騷的男人寫的東西。不過，後來覺得這個功能蠻好玩，就還是加了進去。（其實是申請了收款碼沒地方放）~~
-
 <del class="block" title="你知道的太多了" datetime="20191219" ontouchstart=''>棄了棄了，改要飯了</del>
+钱包地址：0xdCD89d9A6C0B9aD22eB38C4F9be7898EC4553C77
 
 ## Social Network {#social}
 
-- <a rel="me" href="https://m.cmx.im/@dylan">草莓縣</a>
-- <a rel="me" href="https://pawoo.net/@dylanwu">Pawoo</a>
 - <a rel="me" href="https://caonima.wtf/dylanwu">羊驼卧谈会</a>
-- <a rel="me" href="https://liker.social/@dylan">Liker.Social</a>
+- <a rel="me" href="https://0wo.ooo/@dylan">0wo</a>
+- <a rel="me" href="https://lomo.live/dylanwzy">LOMO</a>
+- <a rel="me" href="https://rss3.bio/0xdCD89d9A6C0B9aD22eB38C4F9be7898EC4553C77">RSS3</a>
 
 ## Credits {#credits}
 
