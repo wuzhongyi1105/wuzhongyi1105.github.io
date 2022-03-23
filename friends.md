@@ -486,7 +486,7 @@ comments: true
 			<div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://mantyke.icu/" target="_blank"><img height="80" width="80" src="https://mantyke.icu/img/avatar_hu5235ac48980fd45483f73bac4b632ef6_522544_300x0_resize_box_3.png"></a>
+            <a class="link link--primary" href="https://mantyke.icu/" target="_blank"><img height="80" width="80" src="https://mantyke.icu/images/logo.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://mantyke.icu/" target="_blank" style="float: left;width: 100%;">小球飞鱼</a>
             <span style="font-size: 10px;">by </span>
