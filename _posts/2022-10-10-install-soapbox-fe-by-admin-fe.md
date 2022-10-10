@@ -25,7 +25,7 @@ su pleroma -s $SHELL -lc "./bin/pleroma_ctl frontend install soapbox-fe --ref de
 具体参数解释，请参考[官方文档](https://docs-develop.pleroma.social/backend/administration/CLI_tasks/frontend/)。
 
 这里需要注意的是`--ref`参数，这里是标记同一个前端的不同版本，让开发人员能够便利地更新前端代码，这个参数决定着前端文件的存储位置，按照`${instance_static}/frontends/${name}/${ref}`这个路径存储。比如上面这个命令里，Soapbox-fe 将会存储在`${instance_static}/frontends/soapbpx-fe/dev`这个文件夹里。
-运行命令时，就算不需要区分版本也一定要有这个参数，不然不会下载成功且不会报错，需要注意。
+运行命令时，就算不需要区分版本也一定要有这个参数，不然不会进行下载且不会报错，需要注意。<del class="block" title="你知道的太多了" datetime="20221010" ontouchstart=''>不报错这个真的很值得吐槽</del>  
 
 然后进入 Admin-fe 后台，Settings-Frontend-Primary，然后`name`填`soapbox-fe`、`Reference`填`dev`，提交完，重新打开实例网站就可以看到已经切换成功了。
 
