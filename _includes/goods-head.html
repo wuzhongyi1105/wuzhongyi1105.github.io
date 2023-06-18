@@ -1,0 +1,92 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    {% seo title=false %}
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="apple-mobile-web-app-capable" content ="yes">
+    <meta name="apple-mobile-web-app-title" content="瓠樽">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
+    <link rel="shortcut icon" href="{{ site.baseurl }}/assets/icon/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/icon/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ site.baseurl }}/assets/icon/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ site.baseurl }}/assets/icon/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ site.baseurl }}/assets/icon/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ site.baseurl }}/assets/icon/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ site.baseurl }}/assets/icon/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ site.baseurl }}/assets/icon/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ site.baseurl }}/assets/icon/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/icon/apple-touch-icon-180x180.png" />
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.baseurl }}">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/iDisqus.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css">
+    <!-- <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> -->
+    <link href="//cdn.bootcss.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP|Noto+Serif+SC&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/nehan5.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/nehan.book.css" />
+    <link rel="stylesheet" type="text/css"  href="{{ site.baseurl }}/css/progressJS.css" />
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143241744-1" async="async"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-143241744-1');
+    </script>
+    
+    <!-- OneSignal -->
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async="async"></script>
+    <script>
+      var OneSignal = window.OneSignal || [];
+      OneSignal.push(function() {
+        OneSignal.init({
+          appId: "03f94d6e-58e1-420c-9159-94cfc1859d80",
+        });
+      });
+    </script>
+    
+<style type="text/css">
+h1{margin-top:20px;margin-bottom:20px;}
+h1{color:var(--heading-color);font-family:var(--font-family-title);font-weight:400;font-display:swap;}
+.dot{color:var(--dot-color);}
+.intro{margin-top:30px;}
+.intro h1{font-size:40px;margin-bottom:10px;}
+@media (prefers-color-scheme:dark){
+h1{color:#ccc;}
+}
+.pagetitle{font-size:18px;line-height:1.6;margin-bottom:10px;}
+a{color:var(--text-content-color);text-decoration:none;}
+a:hover{text-decoration:underline;}
+.quanju{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));grid-gap:10px;}
+.bankuai{background-color:var(--bankuai-color);border-radius:4px;padding:20px;transition:all .3s cubic-bezier(0,0,.5,1);}
+.bankuai:hover{box-shadow:2px 4px 16px rgba(0,0,0,5%);}
+.duiqi{display:flex;justify-content:center;align-items:center;}
+.duiqi img{width:80%;margin:0;transition:transform .3s ease;}
+.bankuai:hover .duiqi img{transform:scale(1.05);}
+.title{font-family:var(--font-family-title);font-size:18px;margin:8px 0;}
+.jiage{color:#999;font-size:16px;margin-top:10px;font-family:var(--font-family-code);}
+.note{font-size:16px;line-height:1.6;color:#666;}
+@media (prefers-color-scheme:dark){
+.bankuai{background:var(--background-dark-color);}
+.note{color:#999;}
+}
+@media (prefers-color-scheme:dark){
+a{color:var(--text-content-dark-color);}
+img{filter:brightness(.8)contrast(1.2);}
+}
+@media (min-width:900px){
+.fade-in-up{animation:fade-in-up .8s cubic-bezier(.165,.84,.44,1)forwards;opacity:0;transform:translate3d(0,10%,0)scale(.98);will-change:opacity,transform;}
+.img-hide{opacity:0;}
+}
+@keyframes fade-in-up{0%{opacity:0;transform:translate3d(0,10%,0)scale(.98);}100%{opacity:1;transform:translate3d(0,0,0)scale(1);}}
+</style>
+</head>
