@@ -7,14 +7,14 @@ comments: true
 
 <div class="intro">
   <h1>
-    好物
+    一些称心的玩意儿
     <span class="dot">
       .
     </span>
   </h1>
 </div>
 <div class="pagetitle">
-  一些称心的产品( 2023-06-08 更新 )
+  一些称心的玩意儿( 2023-06-08 更新 )
 </div>
 <div class="quanju">
   <div class="bankuai img-hide fade-in-up">
