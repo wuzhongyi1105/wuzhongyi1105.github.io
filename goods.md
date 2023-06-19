@@ -33,8 +33,8 @@ comments: true
       在役主力机，目前依然很流畅。苹果最近的几款都没有让人想换的欲望，再观望观望吧。
     </div>
   </div>
-  <div class=“bankuai img-hide fade-in-up”>
-    <div class=“duiqi img-hide fade-in-up”>
+  <div class="bankuai img-hide fade-in-up">
+    <div class="duiqi img-hide fade-in-up">
       <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/airPods.webp">
     </div>
     <div class="jiage">
@@ -49,36 +49,36 @@ comments: true
       在役主力耳机。音质不好说，但是体验可以说是最好的。即便我这种耳洞小的人也能无感使用。
     </div>
   </div>
-  <div class=“bankuai img-hide fade-in-up”>
-    <div class=”duiqi img-hide fade-in-up“>
-      <img loading=”lazy“ decoding=”async“ src=”https://blog.dylanwu.space/assets/goods/appletv.png“>
+  <div class="bankuai img-hide fade-in-up">
+    <div class="duiqi img-hide fade-in-up">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/appletv.png">
     </div>
-    <div class=”jiage“>
+    <div class="jiage">
       购入价格: RMB 950
     </div>
-    <div class=”title“>
-      <a href=”/apple_tv“>
+    <div class="title">
+      <a href="/apple_tv">
         Apple TV 4K Gen1
       </a>
     </div>
-    <div class=”note“>
+    <div class="note">
       之前用过各种 Android TV 包括 Google 自己家的，体验下来不论是交互设计还是 UI 设计都不是一个量级的。
     </div>
   </div>
   
-  <div class=”bankuai img-hide fade-in-up“>
-    <div class=”duiqi img-hide fade-in-up“>
-      <img loading=”lazy“ decoding=”async“ src=”https://blog.dylanwu.space/assets/goods/homepod1.png“>
+  <div class="bankuai img-hide fade-in-up">
+    <div class="duiqi img-hide fade-in-up">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/homepod1.png">
     </div>
-    <div class=”jiage“>
+    <div class="jiage">
       购入价格: RMB 1,450
     </div>
-    <div class=”title“>
-      <a href=”“>
+    <div class="title">
+      <a href="">
         Apple HomePod Gen1 x3
       </a>
     </div>
-    <div class=”note“>
+    <div class="note">
       跟 Apple TV 能无缝连接，沉浸感很强，搭配 NAS 组个家庭影院不成问题。买完就涨价。
     </div>
   </div> 
@@ -274,7 +274,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      晚上工作时，听杭州的“钱塘夜色”广播，工作起来很带感～
+      晚上工作时，听杭州的"钱塘夜色"广播，工作起来很带感～
     </div>
   </div>
   <div class="bankuai img-hide fade-in-up">
