@@ -42,13 +42,45 @@ comments: true
     </div>
     <div class="title">
       <a href="">
-        AirPods Pro (第一代)
+        AirPods Pro Gen1
       </a>
     </div>
     <div class="note">
-      在役主力耳机。
+      在役主力耳机。音质不好说，但是体验可以说是最好的。即便我这种耳洞小的人也能无感使用。
     </div>
   </div>
+  <div class=”bankuai img-hide fade-in-up“>
+    <div class=”duiqi img-hide fade-in-up“>
+      <img loading=”lazy“ decoding=”async“ src=”https://blog.dylanwu.space/assets/goods/appletv.png“>
+    </div>
+    <div class=”jiage“>
+      购入价格: RMB 950
+    </div>
+    <div class=”title“>
+      <a href=”/apple_tv“>
+        Apple TV 4K Gen1
+      </a>
+    </div>
+    <div class=”note“>
+      之前用过各种 Android TV 包括 Google 自己家的，体验下来不论是交互设计还是 UI 设计都不是一个量级的。
+    </div>
+  </div>
+  <div class=”bankuai img-hide fade-in-up“>
+    <div class=”duiqi img-hide fade-in-up“>
+      <img loading=”lazy“ decoding=”async“ src=”https://blog.dylanwu.space/assets/goods/homepod1.png“>
+    </div>
+    <div class=”jiage“>
+      购入价格: RMB 1,450
+    </div>
+    <div class=”title“>
+      <a href=”“>
+        Apple HomePod Gen1 x3
+      </a>
+    </div>
+    <div class=”note“>
+      跟 Apple TV 能无缝连接，沉浸感很强，搭配 NAS 组个家庭影院不成问题。买完就涨价。
+    </div>
+  </div> 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
       <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/mujifan.png">
@@ -106,7 +138,7 @@ comments: true
     </div>
     <div class="title">
       <a href="%20">
-        友善 R2s
+        Intel 
       </a>
     </div>
     <div class="note">
@@ -127,22 +159,6 @@ comments: true
     </div>
     <div class="note">
       长时间佩戴感觉手不舒服，现在主要就是运动时佩戴当作数据记录，日常很少佩戴了。
-    </div>
-  </div>
-  <div class="bankuai img-hide fade-in-up">
-    <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/appletv.png">
-    </div>
-    <div class="jiage">
-      购入价格: RMB 1,488
-    </div>
-    <div class="title">
-      <a href="/apple_tv">
-        Apple TV 4K (第 2 代)
-      </a>
-    </div>
-    <div class="note">
-      之前使用的是Google TV，体验下来不管是流畅度、美观度都不是一个量级的。
     </div>
   </div>
   <div class="bankuai img-hide fade-in-up">
@@ -289,20 +305,5 @@ comments: true
       主要职责是打印娃的作业，无线非常方便，性价比不错。
     </div>
   </div>
-  <div class="bankuai img-hide fade-in-up">
-    <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/homepod1.png">
-    </div>
-    <div class="jiage">
-      购入价格: RMB 7,285
-    </div>
-    <div class="title">
-      <a href="">
-        索尼HT-Z9F
-      </a>
-    </div>
-    <div class="note">
-      电视Soundbar，用了很多年，看影视之利器，仿佛置身于其中。
-    </div>
-  </div>
+
 </div>
