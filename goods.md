@@ -19,7 +19,39 @@ comments: true
 <div class="quanju">
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/fengshan.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/iphone12pro.png">
+    </div>
+    <div class="jiage">
+      购入价格: RMB 9,599
+    </div>
+    <div class="title">
+      <a href="">
+        iPhone 12 Pro
+      </a>
+    </div>
+    <div class="note">
+      在役主力机，目前依然很流畅。苹果最近的几款都没有让人想换的欲望，再观望观望吧。
+    </div>
+  </div>
+  <div class="bankuai img-hide fade-in-up">
+    <div class="duiqi img-hide fade-in-up">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/airPods.webp">
+    </div>
+    <div class="jiage">
+      购入价格: RMB 1,999
+    </div>
+    <div class="title">
+      <a href="">
+        AirPods Pro (第一代)
+      </a>
+    </div>
+    <div class="note">
+      在役主力耳机。
+    </div>
+  </div>
+  <div class="bankuai img-hide fade-in-up">
+    <div class="duiqi img-hide fade-in-up">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/mujifan.png">
     </div>
     <div class="jiage">
       购入价格: RMB 399
@@ -35,7 +67,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/misuo.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/k305g.png">
     </div>
     <div class="jiage">
       购入价格: RMB 1699
@@ -51,7 +83,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/shitou.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/shitou.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 3949
@@ -67,7 +99,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/r2s.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/r2s.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 259
@@ -83,23 +115,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/airPods.webp">
-    </div>
-    <div class="jiage">
-      购入价格: RMB 1,999
-    </div>
-    <div class="title">
-      <a href="">
-        AirPods Pro (第一代)
-      </a>
-    </div>
-    <div class="note">
-      使用了一年之后，在售后免费更换过一对，使用场景主要在出差路上或运动时。
-    </div>
-  </div>
-  <div class="bankuai img-hide fade-in-up">
-    <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/applewatch.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/belikeairtag.png">
     </div>
     <div class="jiage">
       购入价格: RMB 3,499
@@ -115,7 +131,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/appletv4.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/appletv.png">
     </div>
     <div class="jiage">
       购入价格: RMB 1,488
@@ -131,7 +147,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/s920.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/s920.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 3,900
@@ -147,7 +163,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/macbook.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/macbook.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 22,199
@@ -163,7 +179,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/ergotron.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/ikbcdc87.png">
     </div>
     <div class="jiage">
       购入价格: RMB 949
@@ -179,7 +195,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/benq.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/pad.png">
     </div>
     <div class="jiage">
       购入价格: RMB 894
@@ -195,7 +211,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/mx3.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/mxmaster2s.png">
     </div>
     <div class="jiage">
       购入价格: RMB 649
@@ -211,7 +227,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/black65.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/nuphy.png">
     </div>
     <div class="jiage">
       购入价格: RMB 1,199
@@ -227,7 +243,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/misound.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/scpmx90s.png">
     </div>
     <div class="jiage">
       购入价格: RMB 499
@@ -243,7 +259,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/279C9.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/lg27up850n.png">
     </div>
     <div class="jiage">
       购入价格: RMB 2,999
@@ -259,7 +275,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/dayinji.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/zx300a.png">
     </div>
     <div class="jiage">
       购入价格: RMB 1,399
@@ -275,23 +291,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/iphone11.webp">
-    </div>
-    <div class="jiage">
-      购入价格: RMB 9,599
-    </div>
-    <div class="title">
-      <a href="">
-        iPhone 11 Pro Max
-      </a>
-    </div>
-    <div class="note">
-      使用最久的一款手机，目前依然很流畅。近几年的新款，手感太差，可能因为穷。
-    </div>
-  </div>
-  <div class="bankuai img-hide fade-in-up">
-    <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://img.dylanwu.com/hardware/sonyz9f.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/homepod1.png">
     </div>
     <div class="jiage">
       购入价格: RMB 7,285
