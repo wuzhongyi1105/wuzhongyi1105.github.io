@@ -158,7 +158,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      配置过程相对麻烦，但调教好之后，它就是安全、娱乐之利器。就是硬盘太贵了。
+      家里有各种群晖，随着系统迭代越来越好用，但是收费姿势也越来越多了。想折腾的话相对麻烦，不建议。
     </div>
   </div>
   <div class="bankuai img-hide fade-in-up">
