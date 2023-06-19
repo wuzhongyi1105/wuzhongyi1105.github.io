@@ -33,8 +33,8 @@ comments: true
       在役主力机，目前依然很流畅。苹果最近的几款都没有让人想换的欲望，再观望观望吧。
     </div>
   </div>
-  <div class="bankuai img-hide fade-in-up">
-    <div class="duiqi img-hide fade-in-up">
+  <div class=“bankuai img-hide fade-in-up”>
+    <div class=“duiqi img-hide fade-in-up”>
       <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/airPods.webp">
     </div>
     <div class="jiage">
@@ -49,7 +49,7 @@ comments: true
       在役主力耳机。音质不好说，但是体验可以说是最好的。即便我这种耳洞小的人也能无感使用。
     </div>
   </div>
-  <div class=”bankuai img-hide fade-in-up“>
+  <div class=“bankuai img-hide fade-in-up”>
     <div class=”duiqi img-hide fade-in-up“>
       <img loading=”lazy“ decoding=”async“ src=”https://blog.dylanwu.space/assets/goods/appletv.png“>
     </div>
@@ -82,6 +82,8 @@ comments: true
       跟 Apple TV 能无缝连接，沉浸感很强，搭配 NAS 组个家庭影院不成问题。买完就涨价。
     </div>
   </div> 
+  
+ 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
       <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/mujifan.png">
@@ -98,6 +100,7 @@ comments: true
       好用，想怎么转都行，南方五六月份天气吹起来特舒服。
     </div>
   </div>
+  
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
       <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/k305g.png">
