@@ -253,22 +253,6 @@ comments: true
       我接触 NAS 算是比较早的了，数字时代的深挖洞广积粮。
     </div>
   </div>
-  <div class="bankuai img-hide fade-in-up">
-    <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/macbook.webp">
-    </div>
-    <div class="jiage">
-      购入价格: RMB 22,199
-    </div>
-    <div class="title">
-      <a href="">
-        MacBook Pro 16 2019
-      </a>
-    </div>
-    <div class="note">
-      没什么说的，纯生产力工具。
-    </div>
-  </div>
 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
