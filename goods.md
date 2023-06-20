@@ -14,7 +14,7 @@ comments: true
   </h1>
 </div>
 <div class="pagetitle">
-  一些称手的玩意儿( 2023-06-08 更新 )
+  一些称手的玩意儿( 2023-06-20 更新 )
 </div>
 <div class="quanju">
   <div class="bankuai img-hide fade-in-up">
@@ -261,7 +261,7 @@ comments: true
       购入价格: RMB 22,199
     </div>
     <div class="title">
-      <a href="/workbench">
+      <a href="">
         MacBook Pro 16 2019
       </a>
     </div>
@@ -297,7 +297,7 @@ comments: true
       购入价格: RMB 259
     </div>
     <div class="title">
-      <a href="%20">
+      <a href="">
         Intel J1900 x3
       </a>
     </div>
@@ -330,7 +330,7 @@ comments: true
       购入价格: RMB 399
     </div>
     <div class="title">
-      <a href="%20">
+      <a href="">
         空气 MUJI 循环扇
       </a>
     </div>
