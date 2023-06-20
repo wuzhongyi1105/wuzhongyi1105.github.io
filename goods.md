@@ -7,14 +7,14 @@ comments: true
 
 <div class="intro">
   <h1>
-    一些称心的玩意儿
+    玩意儿
     <span class="dot">
       .
     </span>
   </h1>
 </div>
 <div class="pagetitle">
-  一些称心的玩意儿( 2023-06-08 更新 )
+  一些称手的玩意儿( 2023-06-08 更新 )
 </div>
 <div class="quanju">
   <div class="bankuai img-hide fade-in-up">
@@ -22,7 +22,7 @@ comments: true
       <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/iphone12pro.png">
     </div>
     <div class="jiage">
-      购入价格: RMB 9,599
+      购入价格: RMB 8,399
     </div>
     <div class="title">
       <a href="">
@@ -83,88 +83,160 @@ comments: true
     </div>
   </div> 
   
- 
+   <div class="bankuai img-hide fade-in-up">
+    <div class="duiqi img-hide fade-in-up">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/macminim2.png">
+    </div>
+    <div class="jiage">
+      购入价格: RMB 3,949
+    </div>
+    <div class="title">
+      <a href="%20">
+        Apple Mac mini M2
+      </a>
+    </div>
+    <div class="note">
+      买的低配版，后悔硬盘买小了，用起来缩手缩脚的。
+    </div>
+  </div>
+
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/mujifan.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/lg27up850n.png">
+    </div>
+    <div class="jiage">
+      购入价格: RMB 2,999
+    </div>
+    <div class="title">
+      <a href="/workbench">
+        LG 27UP850N 4K27寸
+      </a>
+    </div>
+    <div class="note">
+      主要外接 Mac mini 使用，自带反向充电，色彩表现不错。
+    </div>
+  </div>
+
+  <div class="bankuai img-hide fade-in-up">
+    <div class="duiqi img-hide fade-in-up">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/ikbcdc87.png">
     </div>
     <div class="jiage">
       购入价格: RMB 399
     </div>
     <div class="title">
-      <a href="%20">
-        空气 MUJI 循环扇
+      <a href="/workbench">
+        IKBC DC87
       </a>
     </div>
     <div class="note">
-      好用，想怎么转都行，南方五六月份天气吹起来特舒服。
+      人生第一把机械键盘，青轴，其貌不扬，还返修过电路，不过手感还算可以，据说是 Cherry 原厂轴，但是具体不清楚。
     </div>
   </div>
-  
+  <div class="bankuai img-hide fade-in-up">
+    <div class="duiqi img-hide fade-in-up">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/mxmaster2s.png">
+    </div>
+    <div class="jiage">
+      购入价格: RMB 649
+    </div>
+    <div class="title">
+      <a href="/workbench">
+        罗技 MX Master 2s
+      </a>
+    </div>
+    <div class="note">
+      跟键盘同时购入，平安使用至今，除了金属滚轮很脏以外，没有任何不足。
+    </div>
+  </div>
+
+  <div class="bankuai img-hide fade-in-up">
+    <div class="duiqi img-hide fade-in-up">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/nuphyari87.png">
+    </div>
+    <div class="jiage">
+      购入价格: RMB 649
+    </div>
+    <div class="title">
+      <a href="/workbench">
+        Nuphy Air87
+      </a>
+    </div>
+    <div class="note">
+      第一把真正意义上的客制化键盘，就是贵了点。颜值相当高，手感也不错，本来偏爱青轴，没想到红轴也竟能如此称手。
+    </div>
+  </div>
+
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
       <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/k305g.png">
     </div>
     <div class="jiage">
-      购入价格: RMB 1699
+      购入价格: RMB 1,699
     </div>
     <div class="title">
       <a href="%20">
-        小米全自动智能门锁
+        Redmi K30 5G
       </a>
     </div>
     <div class="note">
-      很方便，唯一问题开门不自动执行场景设置，时有时无，没搞明白什么原因。
+      备用机，刷了 crDroid 固件，有相对稳定的官方支持，一直很流畅。
     </div>
   </div>
+
+
+
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/shitou.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/zx300a.png">
     </div>
     <div class="jiage">
-      购入价格: RMB 3949
+      购入价格: RMB 1,399
     </div>
     <div class="title">
-      <a href="%20">
-        石头扫地机器人G10
+      <a href="/workbench">
+        Sony ZX300A
       </a>
     </div>
     <div class="note">
-      家庭必备，特别是有女生在家的。之前用S55型号，21年换了这个，换水频率大大降低。
+      俗称小黑砖。国内第一次封杀艺人是谁我已经不记得了，我只记得这种风气刚一兴起我就从流媒体转向了离线音乐。
     </div>
   </div>
+
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
       <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/r2s.webp">
     </div>
     <div class="jiage">
-      购入价格: RMB 259
+      购入价格: RMB 800
     </div>
     <div class="title">
       <a href="%20">
-        Intel 
+        Sony BCR-NWH10 数字充电底座
       </a>
     </div>
     <div class="note">
-      主要做为旁路由给 Apple TV 使用，运行半年以来非常稳定。旁路由优点就是不破坏现有网络。
+      据说用料发烧搭载了高音质电容os-con净化数字输出，支持一边充电一边数字信号输出，跟小黑砖搭配也非常合适，一般接在音箱上。貌似只有日版，闲鱼上淘的，价格上下浮动挺大，建议看好再入手。
     </div>
   </div>
+
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/belikeairtag.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/scpmx90s.png">
     </div>
     <div class="jiage">
-      购入价格: RMB 3,499
+      购入价格: RMB 1,699
     </div>
     <div class="title">
-      <a href="">
-        Apple Watch Series 5
+      <a href="/workbench">
+        Panasonic SC-PMX90-S
       </a>
     </div>
     <div class="note">
-      长时间佩戴感觉手不舒服，现在主要就是运动时佩戴当作数据记录，日常很少佩戴了。
+      用来听广播跟CD、支持数字输入，小金标认证，于我来说是相对合适的，画画的时候没点动静真的很难支撑下去。
     </div>
   </div>
+
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
       <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/s920.webp">
@@ -174,11 +246,11 @@ comments: true
     </div>
     <div class="title">
       <a href="/synology_ds920">
-        群晖 DS920+
+        黑群晖
       </a>
     </div>
     <div class="note">
-      家里有各种群晖，随着系统迭代越来越好用，但是收费姿势也越来越多了。想折腾的话相对麻烦，不建议。
+      我接触NAS算是比较早的了，也是自从下架封杀变得频繁开始，数字时代的深挖洞广积粮。家里有各种黑群晖，随着系统迭代越来越好用，但是收费姿势也越来越多了。想折腾的话相对麻烦，不建议。
     </div>
   </div>
   <div class="bankuai img-hide fade-in-up">
@@ -197,116 +269,73 @@ comments: true
       上一台还是2014年买的港版15寸，没什么说的，纯生产力工具。
     </div>
   </div>
-  <div class="bankuai img-hide fade-in-up">
-    <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/ikbcdc87.png">
-    </div>
-    <div class="jiage">
-      购入价格: RMB 949
-    </div>
-    <div class="title">
-      <a href="/workbench">
-        爱格升 MXV
-      </a>
-    </div>
-    <div class="note">
-      显示器支架，买它一是因为让桌面更简洁，二是为了能升降。
-    </div>
-  </div>
+
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
       <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/pad.png">
     </div>
     <div class="jiage">
-      购入价格: RMB 894
+      购入价格: RMB 200
     </div>
     <div class="title">
       <a href="/workbench">
-        明基 ScreenBar Plus
+        数字键盘
       </a>
     </div>
     <div class="note">
-      显示器挂灯，除了控制器是有线外，其他都很好，既不占桌面，也不反光。
+      数字键盘，有两个旋钮，可改via，有黑白小屏幕，闲鱼入手。
+    </div>
+  </div>
+
+
+
+  <div class="bankuai img-hide fade-in-up">
+    <div class="duiqi img-hide fade-in-up">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/r2s.webp">
+    </div>
+    <div class="jiage">
+      购入价格: RMB 259
+    </div>
+    <div class="title">
+      <a href="%20">
+        Intel 
+      </a>
+    </div>
+    <div class="note">
+      主要做为旁路由给 Apple TV 使用，运行半年以来非常稳定。旁路由优点就是不破坏现有网络。
+    </div>
+  </div>
+
+  <div class="bankuai img-hide fade-in-up">
+    <div class="duiqi img-hide fade-in-up">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/belikeairtag.png">
+    </div>
+    <div class="jiage">
+      购入价格: RMB 69
+    </div>
+    <div class="title">
+      <a href="">
+        Airtag 平价替代品
+      </a>
+    </div>
+    <div class="note">
+      虽然是平价替代品，但是足够使用了，自带蜂鸣器。
     </div>
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/mxmaster2s.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/mujifan.png">
     </div>
     <div class="jiage">
-      购入价格: RMB 649
+      购入价格: RMB 399
     </div>
     <div class="title">
-      <a href="/workbench">
-        罗技 MX Master 3
+      <a href="%20">
+        空气 MUJI 循环扇
       </a>
     </div>
     <div class="note">
-      用了很多年了，除了表面脱皮及起泡外，确实很顺手。
-    </div>
-  </div>
-  <div class="bankuai img-hide fade-in-up">
-    <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/nuphy.png">
-    </div>
-    <div class="jiage">
-      购入价格: RMB 1,199
-    </div>
-    <div class="title">
-      <a href="/workbench">
-        ZOOM 65
-      </a>
-    </div>
-    <div class="note">
-      第一把真正意义上的客制化键盘，就是贵了点。
-    </div>
-  </div>
-  <div class="bankuai img-hide fade-in-up">
-    <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/scpmx90s.png">
-    </div>
-    <div class="jiage">
-      购入价格: RMB 499
-    </div>
-    <div class="title">
-      <a href="/workbench">
-        小米 Sound
-      </a>
-    </div>
-    <div class="note">
-      晚上工作时，听杭州的"钱塘夜色"广播，工作起来很带感～
-    </div>
-  </div>
-  <div class="bankuai img-hide fade-in-up">
-    <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/lg27up850n.png">
-    </div>
-    <div class="jiage">
-      购入价格: RMB 2,999
-    </div>
-    <div class="title">
-      <a href="/workbench">
-        飞利浦 279C9 4K27寸
-      </a>
-    </div>
-    <div class="note">
-      主要外接MacBook使用，自带反向充电，屏占比也很高，推荐。
-    </div>
-  </div>
-  <div class="bankuai img-hide fade-in-up">
-    <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/zx300a.png">
-    </div>
-    <div class="jiage">
-      购入价格: RMB 1,399
-    </div>
-    <div class="title">
-      <a href="/workbench">
-        小米激光打印一体机
-      </a>
-    </div>
-    <div class="note">
-      主要职责是打印娃的作业，无线非常方便，性价比不错。
+      好用，想怎么转都行，南方五六月份天气吹起来特舒服。
     </div>
   </div>
 
