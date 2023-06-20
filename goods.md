@@ -205,7 +205,7 @@ comments: true
 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/r2s.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/bcrnwh10.png">
     </div>
     <div class="jiage">
       购入价格: RMB 800
@@ -216,7 +216,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      跟小黑砖搭配，一般接在音箱上。貌似只有日版，闲鱼上淘的，价格上下浮动挺大，建议看好再入手。
+      跟小黑砖搭配。只有日版，闲鱼上淘的，价格上下浮动挺大，建议看好再入手。
     </div>
   </div>
 
@@ -302,7 +302,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      主要做为旁路由给 Apple TV 使用，运行半年以来非常稳定。旁路由优点就是不破坏现有网络。
+      运行多年非常稳定。旁路由优点就是不干涉现有网络。
     </div>
   </div>
 
