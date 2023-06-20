@@ -62,7 +62,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      之前用过各种 Android TV 体验下来不论是交互设计还是 UI 设计都不是一个量级的。
+      之前用过各种 Android TV 体验下来根本不是一个量级的。
     </div>
   </div>
   
@@ -130,7 +130,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      人生第一把机械键盘，青轴，其貌不扬，还返修过电路，不过手感还算可以。
+      人生第一把机械键盘，其貌不扬还返修过电路，不过手感还算可以。
     </div>
   </div>
   <div class="bankuai img-hide fade-in-up">
