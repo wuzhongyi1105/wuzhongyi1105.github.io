@@ -130,7 +130,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      人生第一把机械键盘，其貌不扬还返修过电路，不过手感还算可以。
+      人生第一把机械键盘，其貌不扬还返修过，手感还行。
     </div>
   </div>
   <div class="bankuai img-hide fade-in-up">
@@ -146,7 +146,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      跟键盘同时购入，平安使用至今，除了金属滚轮很脏以外，没有任何不足。
+      跟键盘同时购入，除了金属滚轮很脏以外，没有任何不足。
     </div>
   </div>
 
@@ -163,7 +163,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      第一把真正意义上的客制化键盘，就是贵了点。颜值相当高，手感也不错。
+      就是贵了点。颜值相当高，手感也不错。
     </div>
   </div>
 
@@ -199,7 +199,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      俗称小黑砖。自从开始封杀艺人下架作品我就从流媒体转向了离线音乐。
+      俗称小黑砖。自从开始下架作品我就从流媒体转向了离线音乐。
     </div>
   </div>
 
@@ -216,7 +216,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      跟小黑砖搭配。只有日版，闲鱼上淘的，价格上下浮动挺大，建议看好再入手。
+      跟小黑砖搭配。闲鱼上淘的，价格浮动挺大，建议看好再入手。
     </div>
   </div>
 
@@ -233,7 +233,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      支持数字输入，小金标认证，于我来说是相对合适的，画画的时候没点动静真的很难支撑下去。
+      小金标认证，画画的时候没点动静真的很难支撑下去。
     </div>
   </div>
 
@@ -250,7 +250,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      我接触 NAS 算是比较早的了，也是自从下架封杀变得频繁开始，数字时代的深挖洞广积粮。
+      我接触 NAS 算是比较早的了，数字时代的深挖洞广积粮。
     </div>
   </div>
   <div class="bankuai img-hide fade-in-up">
@@ -266,7 +266,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      上一台还是2014年买的港版15寸，没什么说的，纯生产力工具。
+      没什么说的，纯生产力工具。
     </div>
   </div>
 
