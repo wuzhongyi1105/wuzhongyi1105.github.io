@@ -19,7 +19,7 @@ comments: true
 <div class="quanju">
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/iphone12pro.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/iphone12pro.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 8,399
@@ -51,7 +51,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/appletv.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/appletv.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 950
@@ -68,7 +68,7 @@ comments: true
   
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/homepod1.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/homepod1.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 1,450
@@ -85,7 +85,7 @@ comments: true
   
    <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/macminim2.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/macminim2.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 3,949
@@ -102,7 +102,7 @@ comments: true
 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/lg27up850n.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/lg27up850n.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 2,999
@@ -119,7 +119,7 @@ comments: true
 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/ikbcdc87.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/ikbcdc87.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 399
@@ -135,7 +135,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/mxmaster2s.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/mxmaster2s.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 649
@@ -152,7 +152,7 @@ comments: true
 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/nuphyair87.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/nuphyair87.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 649
@@ -169,7 +169,7 @@ comments: true
 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/k305g.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/k305g.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 1,699
@@ -188,7 +188,7 @@ comments: true
 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/zx300a.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/zx300a.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 1,399
@@ -205,7 +205,7 @@ comments: true
 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/bcrnwh10.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/bcrnwh10.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 800
@@ -222,7 +222,7 @@ comments: true
 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/scpmx90s.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/scpmx90s.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 1,699
@@ -272,7 +272,7 @@ comments: true
 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/pad.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/pad.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 200
@@ -291,7 +291,7 @@ comments: true
 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/j1900.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/j1900.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 259
@@ -308,7 +308,7 @@ comments: true
 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/belikeairtag.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/belikeairtag.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 69
@@ -324,7 +324,7 @@ comments: true
   </div>
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/mujifan.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/mujifan.webp">
     </div>
     <div class="jiage">
       购入价格: RMB 399
