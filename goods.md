@@ -291,14 +291,14 @@ comments: true
 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/r2s.webp">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/j1900.png">
     </div>
     <div class="jiage">
       购入价格: RMB 259
     </div>
     <div class="title">
       <a href="%20">
-        Intel 
+        Intel J1900 x3
       </a>
     </div>
     <div class="note">
