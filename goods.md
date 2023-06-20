@@ -30,7 +30,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      在役主力机，目前依然很流畅。苹果最近的几款都没有让人想换的欲望，再观望观望吧。
+      在役主力机，目前依然很流畅。
     </div>
   </div>
   <div class="bankuai img-hide fade-in-up">
@@ -46,7 +46,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      在役主力耳机。音质不好说，但是体验可以说是最好的。即便我这种耳洞小的人也能无感使用。
+      在役主力耳机，即便我这种耳洞小的人也能无感使用。
     </div>
   </div>
   <div class="bankuai img-hide fade-in-up">
@@ -62,7 +62,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      之前用过各种 Android TV 包括 Google 自己家的，体验下来不论是交互设计还是 UI 设计都不是一个量级的。
+      之前用过各种 Android TV 体验下来不论是交互设计还是 UI 设计都不是一个量级的。
     </div>
   </div>
   
@@ -79,7 +79,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      跟 Apple TV 能无缝连接，沉浸感很强，搭配 NAS 组个家庭影院不成问题。买完就涨价。
+      跟 Apple TV 能无缝连接，沉浸感很强。当时刚买完就涨价。
     </div>
   </div> 
   
@@ -130,7 +130,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      人生第一把机械键盘，青轴，其貌不扬，还返修过电路，不过手感还算可以，据说是 Cherry 原厂轴，但是具体不清楚。
+      人生第一把机械键盘，青轴，其貌不扬，还返修过电路，不过手感还算可以。
     </div>
   </div>
   <div class="bankuai img-hide fade-in-up">
@@ -152,7 +152,7 @@ comments: true
 
   <div class="bankuai img-hide fade-in-up">
     <div class="duiqi img-hide fade-in-up">
-      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/nuphyari87.png">
+      <img loading="lazy" decoding="async" src="https://blog.dylanwu.space/assets/goods/nuphyair87.png">
     </div>
     <div class="jiage">
       购入价格: RMB 649
@@ -163,7 +163,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      第一把真正意义上的客制化键盘，就是贵了点。颜值相当高，手感也不错，本来偏爱青轴，没想到红轴也竟能如此称手。
+      第一把真正意义上的客制化键盘，就是贵了点。颜值相当高，手感也不错。
     </div>
   </div>
 
@@ -180,7 +180,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      备用机，刷了 crDroid 固件，有相对稳定的官方支持，一直很流畅。
+      备用机，刷了 crDroid 固件，一直很流畅。
     </div>
   </div>
 
@@ -199,7 +199,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      俗称小黑砖。国内第一次封杀艺人是谁我已经不记得了，我只记得这种风气刚一兴起我就从流媒体转向了离线音乐。
+      俗称小黑砖。自从开始封杀艺人下架作品我就从流媒体转向了离线音乐。
     </div>
   </div>
 
@@ -212,11 +212,11 @@ comments: true
     </div>
     <div class="title">
       <a href="%20">
-        Sony BCR-NWH10 数字充电底座
+        Sony BCR-NWH10
       </a>
     </div>
     <div class="note">
-      据说用料发烧搭载了高音质电容os-con净化数字输出，支持一边充电一边数字信号输出，跟小黑砖搭配也非常合适，一般接在音箱上。貌似只有日版，闲鱼上淘的，价格上下浮动挺大，建议看好再入手。
+      跟小黑砖搭配，一般接在音箱上。貌似只有日版，闲鱼上淘的，价格上下浮动挺大，建议看好再入手。
     </div>
   </div>
 
@@ -233,7 +233,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      用来听广播跟CD、支持数字输入，小金标认证，于我来说是相对合适的，画画的时候没点动静真的很难支撑下去。
+      支持数字输入，小金标认证，于我来说是相对合适的，画画的时候没点动静真的很难支撑下去。
     </div>
   </div>
 
@@ -250,7 +250,7 @@ comments: true
       </a>
     </div>
     <div class="note">
-      我接触NAS算是比较早的了，也是自从下架封杀变得频繁开始，数字时代的深挖洞广积粮。家里有各种黑群晖，随着系统迭代越来越好用，但是收费姿势也越来越多了。想折腾的话相对麻烦，不建议。
+      我接触 NAS 算是比较早的了，也是自从下架封杀变得频繁开始，数字时代的深挖洞广积粮。
     </div>
   </div>
   <div class="bankuai img-hide fade-in-up">
