@@ -498,7 +498,7 @@ comments: true
 			<div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://blog.fivest.one/" target="_blank"><img height="80" width="80" src="https://secure.gravatar.com/avatar/dddc9f52d5f820978232256b22cdeea8"></a>
+            <a class="link link--primary" href="https://blog.fivest.one/" target="_blank"><img height="80" width="80" src="https://blog.southfox.me/favicon.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://blog.fivest.one/" target="_blank" style="float: left;width: 100%;">fivest.one</a>
             <span style="font-size: 10px;">by </span>
