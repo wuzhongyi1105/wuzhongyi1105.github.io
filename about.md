@@ -88,8 +88,6 @@ Blog 重建至今發給不少人看過，好多人問我為什麼不建一個公
 
 ## Social Network {#social}
 
-- <a rel="me" href="https://caonima.wtf/dylanwu">羊驼卧谈会</a>
-- <a rel="me" href="https://0wo.ooo/@dylan">0wo</a>
 - <a rel="me" href="https://lomo.live/dylanwzy">LOMO</a>
 - <a rel="me" href="https://rss3.bio/0xdCD89d9A6C0B9aD22eB38C4F9be7898EC4553C77">RSS3</a>
 
