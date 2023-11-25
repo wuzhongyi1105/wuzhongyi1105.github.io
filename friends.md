@@ -548,7 +548,7 @@ comments: true
 <h3 style="text-align: right"> 互勉 </h3>
 
 如有互換鏈接的需要，可以直接在此頁面留言。
-
+<img src="https://counter.guide.equipment/dylan:blog" alt="dylan:blog" />
 <!-- 动态显示网站运行时间 -->
 <script type="text/javascript" language="javascript">
 	function secondToDate(second) {
