@@ -50,7 +50,7 @@ URL="https://www.appinn.com/feed/"  # 替换为你的RSS源地址
 LAST_CHECK_FILE="/volume2/Material/last_check.txt"  # 用于存储上次检查的时间戳
 PRINTER_DEVICE="/dev/usb/lp0"  # 热敏打印机设备路径
 ```
-修改完记得两个文件都赋予运行权限然后写个计划任务定时运行就好了。
+另外还需要修改第26行、第27行还有第49行的`CSS Path`以及需要截取的信息的位置，我代码库里就直接以实际的例子为示范了。修改完记得两个文件都赋予运行权限然后写个计划任务定时运行就好了。
 
 ## AI 书写代码
 
