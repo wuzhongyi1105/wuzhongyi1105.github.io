@@ -22,7 +22,8 @@ Jekyll 可以通过更改 RSS 模版文件来实现。Jekyll 的 RSS 模版文�
       <feedId>*****************</feedId>
       <userId>*****************</userId>
     </follow_challenge>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>```
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+```
 
 修改完成后生成并更新网站，就可以在 follow 阅读器里右击自己的订阅选择验证。其它一些类似的静态博客生成器应该也可以这样操作。
 
