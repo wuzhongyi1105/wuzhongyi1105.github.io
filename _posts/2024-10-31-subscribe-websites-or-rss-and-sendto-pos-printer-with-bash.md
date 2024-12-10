@@ -20,7 +20,7 @@ license: essay
 
 ## 为什么选择 Shell 而不是 python
 
-我一开始也用 python 写过一版，需要配置运行环境不说，有的时候还要引入[ python-escpos ](https://python-escpos.readthedocs.io/en/latest/)库<del class="block" title="你知道的太多了" datetime="20200124" ontouchstart=''>当然也可以选择不引用</del>。因此后来就想着使用 Shell 去完成这种相对简单的任务，选择 Shell 还有个好处就是即便在 NAS 上也可以相对轻松地配置。
+我一开始也用 python 写过一版，需要配置运行环境不说，有的时候还要引入[ python-escpos ](https://python-escpos.readthedocs.io/en/latest/)库。<del class="block" title="你知道的太多了" datetime="20200124" ontouchstart=''>当然也可以选择不引用</del>因此后来就想着使用 Shell 去完成这种相对简单的任务，选择 Shell 还有个好处就是即便在 NAS 上也可以相对轻松地配置。
 
 ## 信息抓取
 
