@@ -28,9 +28,29 @@ license: essay
 
 ## XML/HTML 解析
 
-其实在解析 HTML 的时候，需要额外引入 xmllint 来解析，xmllint 是包含在 libxml2 里的命令行工具，考虑到不是所有的 Linux 发行版都能很方便地安装各种包 例如群晖，因此请教了 AI 并换成了一个叫做 htmlq 的项目，只需要在脚本里调用这个二进制程序就可以解析 HTML 代码。当然，如果你使用的是一个正常的 Linux 发行版，无论是出于安全性还是便利性的考虑，建议还是调用 xmllint 来解析。
+其实在解析 HTML 的时候，需要额外引入 xmllint 来解析，xmllint 是包含在 libxml2 里的命令行工具，考虑到不是所有的 Linux 发行版都能很方便地安装各种包 例如群晖，因此请教了 AI 并换成了一个叫做 [htmlq](https://github.com/mgdm/htmlq) 的项目，只需要在脚本里调用这个二进制程序就可以解析 HTML 代码。当然，如果你使用的是一个正常的 Linux 发行版，无论是出于安全性还是便利性的考虑，建议还是调用 xmllint 来解析。
 
 说到字符串，自然绕不开编码的问题，编码对不上的话热敏票据机输出的就是一堆乱码。因此需要调用 iconv 转换编码。这个命令行工具更为常见，即便是群晖也可以通过[ SynoCommunity ](https://synocommunity.com/)里的[ SynoCli File Tools ](https://synocommunity.com/package/synocli-file/)包来安装，记得选择合适的架构。
+
+## 配置及使用
+
+先从[代码库](https://git.localhost.observer/dylan/PrintWatcher)拉取代码。直接下载还是`git clone`都可以。<del class="block" title="你知道的太多了" datetime="20200124" ontouchstart=''>几个小脚本就不用较真了吧</del>
+
+配置部分很简单，假设你需要监视 RSS 地址，则使用`escpos-rss.sh`，将`escpos-rss.sh`中的初始变量替换为你实际需要的值:
+```
+RSS_URL="https://www.appinn.com/feed/"  # 替换为你的RSS源地址
+LAST_CHECK_FILE="/volume2/Material/last_check.txt"  # 用于存储上次检查的时间戳
+PRINTER_DEVICE="/dev/usb/lp0"  # 热敏打印机设备路径
+```
+修改完赋予运行权限然后写个计划任务定时运行就好了。
+
+如果需要监视的网站没有 RSS 的话，就需要下载`escpos-web.sh`和`htmlq`，`escpos-web.sh`里需要修改的变量则是：
+```
+URL="https://www.appinn.com/feed/"  # 替换为你的RSS源地址
+LAST_CHECK_FILE="/volume2/Material/last_check.txt"  # 用于存储上次检查的时间戳
+PRINTER_DEVICE="/dev/usb/lp0"  # 热敏打印机设备路径
+```
+修改完记得两个文件都赋予运行权限然后写个计划任务定时运行就好了。
 
 ## AI 书写代码
 
