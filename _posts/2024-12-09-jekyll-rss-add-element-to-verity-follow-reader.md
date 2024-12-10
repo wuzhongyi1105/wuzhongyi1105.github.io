@@ -17,12 +17,13 @@ license: essay
 follow 阅读器验证博客的所有权是需要在 RSS 源里额外增加用于验证的`<follow_challenge>`标签，这个标签里包含`<feedId>``<userId>`两个元素。
 
 Jekyll 可以通过更改 RSS 模版文件来实现。Jekyll 的 RSS 模版文件一般在根目录，文件名是`feed.xml`。我这边是在`<description>`和`<link>`之间添加了`<follow_challenge>`标签。修改完成之后的代码如下：
-```<description>{{ site.description | xml_escape }}</description>
+```
+  <description>{{ site.description | xml_escape }}</description>
     <follow_challenge>
       <feedId>*****************</feedId>
       <userId>*****************</userId>
     </follow_challenge>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
+  <link>{{ site.url }}{{ site.baseurl }}/</link>
 ```
 
 修改完成后生成并更新网站，就可以在 follow 阅读器里右击自己的订阅选择验证。其它一些类似的静态博客生成器应该也可以这样操作。
