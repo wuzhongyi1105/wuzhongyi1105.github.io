@@ -1,0 +1,14 @@
+<!-- JS -->
+<script src="https://comment.dylanwu.space/dist/Artalk.js"></script>
+
+<!-- Artalk -->
+<div id="Comments"></div>
+<script>
+Artalk.init({
+  el:        '#Comments',                       // 绑定元素的 Selector
+  pageKey:   '{{ page.url }}',                         // 固定链接
+  pageTitle: '{{ page.title }}',         // 页面标题 (留空自动获取)
+  server:    'https://comment.dylanwu.space',  // 后端地址
+  site:      '瓠樽',                    // 你的站点名
+})
+</script>
