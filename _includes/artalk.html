@@ -10,5 +10,11 @@ Artalk.init({
   pageTitle: '{{ page.title }}',         // 页面标题 (留空自动获取)
   server:    'https://comment.dylanwu.space',  // 后端地址
   site:      '瓠樽',                    // 你的站点名
+  avatarURLBuilder: (c) => {  // 自定义头像URL生成器函数
+    if (c.email === "anonymous@example.org") {
+      return `https://multiavatar.com/${c.email}`;  // 如果是管理员，使用指定的管理员头像URL
+    }
+    return `https://cravatar.cn/avatar/${c.email_encrypted}`;  // 否则，使用加密的邮箱生成Gravatar头像URL
+  }
 })
 </script>
