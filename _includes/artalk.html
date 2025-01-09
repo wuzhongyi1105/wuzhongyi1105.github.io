@@ -11,8 +11,8 @@ Artalk.init({
   server:    'https://comment.dylanwu.space',  // 后端地址
   site:      '瓠樽',                    // 你的站点名
   avatarURLBuilder: (c) => {  // 自定义头像URL生成器函数
-    if (c.email_encrypted == "fc8474cbaab2d6405ad637fd26c600da949f772781d75d53f310543acda36ba2") {
-      return `https://api.multiavatar.com/${c.id}.png`;
+    if (c.email == "anonymous@example.org") {
+      return `https://api.multiavatar.com/${c.nick}.png`;
     }
     return `https://cravatar.cn/avatar/${c.email_encrypted}`;  // 否则，使用加密的邮箱生成Gravatar头像URL
   }
