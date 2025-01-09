@@ -12,7 +12,7 @@ Artalk.init({
   site:      '瓠樽',                    // 你的站点名
   avatarURLBuilder: (c) => {  // 自定义头像URL生成器函数
     if (c.email_encrypted == "fc8474cbaab2d6405ad637fd26c600da949f772781d75d53f310543acda36ba2") {
-      return `https://api.multiavatar.com/${c.email_encrypted}.png`;
+      return `https://api.multiavatar.com/${c.id}.png`;
     }
     return `https://cravatar.cn/avatar/${c.email_encrypted}`;  // 否则，使用加密的邮箱生成Gravatar头像URL
   }
