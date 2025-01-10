@@ -176,7 +176,7 @@ comments: true
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
-            <a class="link link--primary" href="https://ncnccn.cn/" target="_blank">📷</a>
+            <a class="link link--primary" href="https://ncnccn.cn/" target="_blank"><img height="80" width="80" src="https://ncnccn.cn/content/images/size/w256h256/2024/11/2.png"></a>
             <div class="userItem-name">
             <a class="link link--primary" href="https://ncnccn.cn/" target="_blank" style="float: left;width: 100%;">Null · 一間生活</a>
             <span style="font-size: 10px;">by </span>
