@@ -66,7 +66,7 @@ comments: true
             </div>
             </div>
             </div>
-            <div class="userItem">
+            <!-- <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
             <a class="link link--primary" href="https://www.chairyfish.com" target="_blank"><img height="80" width="80" src="https://www.chairyfish.com/assets/img/logo.png"></a>
@@ -77,7 +77,7 @@ comments: true
             </div>
             </div>
             </div>
-            </div>
+            </div> -->
             <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
@@ -459,7 +459,7 @@ comments: true
             </div>
             </div>
             </div>
-			<div class="userItem">
+			<!-- <div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
             <a class="link link--primary" href="https://dogcraft.top" target="_blank"><img height="80" width="80" src="https://www.dogcraft.top/avatar.jpg"></a>
@@ -470,7 +470,7 @@ comments: true
             </div>
             </div>
             </div>
-            </div>
+            </div> -->
 			<div class="userItem">
             <div class="userItem--inner">
             <div class="userItem-content">
