@@ -17,6 +17,9 @@ Artalk.init({
     if (c.nick == "山月") {
       return `https://uploads.disquscdn.com/images/2412160f720b88e8e7fd35fb12e799de5ad521d86b164683d3ff79a20b233d78.png`;
     }
+    if (c.nick == "fivestone") {
+      return `https://fivest.one/icon.png`;
+    }
     return `https://cravatar.cn/avatar/${c.email_encrypted}`;  // 否则，使用加密的邮箱生成Gravatar头像URL
   }
 })
