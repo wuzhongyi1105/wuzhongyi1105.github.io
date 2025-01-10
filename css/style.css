@@ -519,7 +519,7 @@ del.block:not(:hover),del.block:not(:hover) * {
 }
 @media (min-width: 768px) and (max-width:900px) {
     #chart {
-    width: 360px;
+    width: 450px;
     margin-top: 64px;
     margin-left: 25% !important;
     float: none !important;
