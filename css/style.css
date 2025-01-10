@@ -512,14 +512,14 @@ del.block:not(:hover),del.block:not(:hover) * {
 }
 /* Archives Page */
 #chart {
-    width: 450px;margin: 0 auto;float: right;margin-top: 64px;
+    width: 500px;margin: 0 auto;float: right;margin-top: 64px;
     }
 #archives {
     display: inline;float: left;
 }
 @media (min-width: 768px) and (max-width:900px) {
     #chart {
-    width: 450px;
+    width: 500px;
     margin-top: 64px;
     margin-left: 25% !important;
     float: none !important;
