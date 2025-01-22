@@ -236,7 +236,7 @@ a:hover { background:#fff1ed;  color:#ff1c18; text-decoration:none;}
   font: 14px/22px Consolas, Monaco, 'Andale Mono', monospace;
 }
 
-.post code { padding: 1px 5px; white-space: pre-wrap; }
+.post code { padding: 1px 5px; display: block;overflow: auto;background: #f4f4f4;/* padding: 5px 10px; border: 1px solid #eee; */word-wrap:break-word;/* Internet Explorer 5.5+ */white-space: pre-wrap;/* Firefox */ }
 
 .post ul,
 .post ol { margin-left: 1.35em; }
