@@ -555,6 +555,18 @@ comments: true
             </div>
             </div>
             </div>
+            <div class="userItem">
+            <div class="userItem--inner">
+            <div class="userItem-content">
+            <a class="link link--primary" href="https://blog.einverne.info/" target="_blank"><img height="80" width="80" src="https://m.einverne.info/system/accounts/avatars/108/286/868/201/306/709/original/cd67301430c526b8.jpg"></a>
+            <div class="userItem-name">
+            <a class="link link--primary" href="https://blog.einverne.info/" target="_blank" style="float: left;width: 100%;">Verne in GitHub</a>
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="https://m.einverne.info/@einverne" target="_blank">einverne</a>
+            </div>
+            </div>
+            </div>
+            </div>
 </div>
 
 <h3 style="text-align: right"> 互勉 </h3>
