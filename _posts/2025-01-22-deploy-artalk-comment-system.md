@@ -51,8 +51,8 @@ if (c.email_encrypted == "fc8474cbaab2d6405ad637fd26c600da949f772781d75d53f31054
 
 [Multiavatar](https://multiavatar.com/) 則是一個隨機頭像生成器，免費開源，總共可生成 120 億個密碼學上獨一無二的頭像。打開 [Multiavatar](https://multiavatar.com/) 網站，就會隨機生成一個頭像，如果在網址後面加上內容，就會生成固定的頭像。也有 API 可以調用，類似於這樣`https://api.multiavatar.com/${c.nick}.png`。但是需要注意 Multiavatar API 限制為 20 次/分鐘，有概率評論列表用戶頭像獲取不全。<del class="block" title="你知道的太多了" datetime="20250122" ontouchstart=''>但是總比一片默認頭像好吧</del>
 
-通過 [avatarURLBuilder](https://artalk.js.org/zh/guide/frontend/config.html#avatarurlbuilder) 結合不同的變量，可以有很多玩法，大家可以發揮想象力，變量可以參考[這裡]
-(https://github.com/ArtalkJS/Artalk/blob/64a2adbe1a421ffb018bde93ffb16e4070decf42/docs/docs/zh/guide/backend/email.md?plain=1#L127)。
+通過 [avatarURLBuilder](https://artalk.js.org/zh/guide/frontend/config.html#avatarurlbuilder) 結合不同的變量，可以有很多玩法，大家可以發揮想象力，變量可以參考[這裡。]
+(https://github.com/ArtalkJS/Artalk/blob/64a2adbe1a421ffb018bde93ffb16e4070decf42/docs/docs/zh/guide/backend/email.md?plain=1#L127)
 
 ## reference
 - <a href="https://artalk.js.org/zh/guide/intro.html" target="_blank">Artalk 官方文檔</a>
