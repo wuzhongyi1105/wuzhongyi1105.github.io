@@ -41,13 +41,13 @@ if (c.nick == "山月") {
 }
 ```
 
-由於 Disqus 導出數據時不包含`email`字段，在導入 Artlak 時就默認是`anonymous@example.org`也就是說可以根據這個郵箱地址篩選出所有的丟失郵箱信息的用戶。但是不知道為什麼明明有`{{email}}`這個變量，卻無法判定，懶得去深究，直接通過獲取`{{email_encrypted}}`來替代，因為二者一一對應。
+由於 Disqus 導出數據時不包含`email`字段，在導入 Artlak 時就默認是`anonymous@example.org`也就是說可以根據這個郵箱地址篩選出所有的丟失郵箱信息的用戶。但是不知道為什麼明明有`email`這個變量，卻無法判定，懶得去深究，直接通過獲取`email_encrypted`來替代，因為二者一一對應。
 ```
 if (c.email_encrypted == "fc8474cbaab2d6405ad637fd26c600da949f772781d75d53f310543acda36ba2") {
   return `https://api.multiavatar.com/${c.nick}.png`;
 }
 ```
-這裡的`fc8474cbaab2d6405ad637fd26c600da949f772781d75d53f310543acda36ba2`就是`anonymous@example.org`對應的`{{email_encrypted}}`。
+這裡的`fc8474cbaab2d6405ad637fd26c600da949f772781d75d53f310543acda36ba2`就是`anonymous@example.org`對應的`email_encrypted`。
 
 [Multiavatar](https://multiavatar.com/) 則是一個隨機頭像生成器，免費開源，總共可生成 120 億個密碼學上獨一無二的頭像。打開 [Multiavatar](https://multiavatar.com/) 網站，就會隨機生成一個頭像，如果在網址後面加上內容，就會生成固定的頭像。也有 API 可以調用，類似於這樣`https://api.multiavatar.com/${c.nick}.png`。但是需要注意 Multiavatar API 限制為 20 次/分鐘，有概率評論列表用戶頭像獲取不全。<del class="block" title="你知道的太多了" datetime="20250122" ontouchstart=''>但是總比一片默認頭像好吧</del>
 
