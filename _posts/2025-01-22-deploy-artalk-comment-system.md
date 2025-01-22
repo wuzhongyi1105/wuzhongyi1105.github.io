@@ -53,3 +53,8 @@ if (c.email_encrypted == "fc8474cbaab2d6405ad637fd26c600da949f772781d75d53f31054
 
 通過 [avatarURLBuilder](https://artalk.js.org/zh/guide/frontend/config.html#avatarurlbuilder) 結合不同的變量，可以有很多玩法，大家可以發揮想象力，變量可以參考[這裡]
 (https://github.com/ArtalkJS/Artalk/blob/64a2adbe1a421ffb018bde93ffb16e4070decf42/docs/docs/zh/guide/backend/email.md?plain=1#L127)。
+
+## reference
+- <a href="https://artalk.js.org/zh/guide/intro.html" target="_blank">Artalk 官方文檔</a>
+- <a href="https://www.richarvin.com/artalk-zi-tuo-guan-ping-lun-xi-tong-da-jian-yu-pei-zhi/" target="_blank">Artalk 自托管评论系统搭建与配置</a>
+- <a href="https://kunkunyu.com/archives/1694944308388" target="_blank">安装配置 Artalk 评论</a>

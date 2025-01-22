@@ -29,3 +29,8 @@ Disqus 還有一些其它問題我沒發現，可以參照[這裡](https://blog.
 ## 總結
 
 總之，還是再一次地要對過去留言沒有得到及時回復的讀者道個歉，用心的留言卻沒有得到回復這種事想想都覺得難受。這篇文章也算是評論系統遷移的一個公告，也希望曾經訪問過、留言過的讀者可以在这里留言聯繫我，更改一下郵箱地址。
+
+## reference
+
+- <a href="https://blog.einverne.info/post/2021/10/replace-disqus-with-remark42.html" target="_blank">使用 Remark42 替换博客的 Disqus 评论系统</a>
+- <a href="https://darekkay.com/blog/static-site-comments/" target="_blank">Various ways to include comments on your static site</a>
