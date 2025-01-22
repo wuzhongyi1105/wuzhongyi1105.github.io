@@ -236,7 +236,7 @@ a:hover { background:#fff1ed;  color:#ff1c18; text-decoration:none;}
   font: 14px/22px Consolas, Monaco, 'Andale Mono', monospace;
 }
 
-.post code { padding: 1px 5px; }
+.post code { padding: 1px 5px; width: 98%; }
 
 .post ul,
 .post ol { margin-left: 1.35em; }
