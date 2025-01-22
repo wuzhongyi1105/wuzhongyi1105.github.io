@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 靜態博客的『阿喀琉斯之踵』
-date: 2025-01-16
+date: 2025-01-22
 comments: true
 license: essay
 ---
