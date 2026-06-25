@@ -623,4 +623,4 @@ comments: true
 <span id="htmer_time" style="color: #656c7a;display: flex;align-items: center;justify-content: center;">  </span>
 <span id="htmer_time2" style="color: #656c7a;display: flex;align-items: center;justify-content: center;">  </span>
 
-<img src="https://counter.guide.equipment/dylan:blog" alt="dylan:blog" style="display: block;margin: 0 auto;">
+<img src="https://moe.counter.dylanwu.space/dylan:blog" alt="dylan:blog" style="display: block;margin: 0 auto;">
