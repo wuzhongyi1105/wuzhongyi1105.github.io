@@ -1,6 +1,7 @@
 ---
 layout: social
 title: Links
+description: 瓠樽加入的博客聚合平台与博客导航页。
 permalink: /links/
 ---
 

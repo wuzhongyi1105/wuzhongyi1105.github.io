@@ -1,6 +1,7 @@
 ---
 layout: goods
 title: Goods
+description: 一些称手的玩意儿——Dylan Wu 正在使用的设备与工具清单。
 permalink: /goods/
 comments: true
 ---

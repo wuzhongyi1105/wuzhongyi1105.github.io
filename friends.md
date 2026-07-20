@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Friends
+description: 瓠樽的友情链接——友善的邻居们，欢迎互换链接。
 permalink: /friends/
 comments: true
 ---

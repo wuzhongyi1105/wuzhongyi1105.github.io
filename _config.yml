@@ -1,15 +1,22 @@
 # Site settings
 title: 瓠樽
 email: dw#watelier.cn
-description: "以瓠為樽而浮乎江湖"
+description: "以瓠為樽而浮乎江湖 — Dylan Wu 的個人博客"
 url: "https://blog.dylanwu.space"
 baseurl: ""
+lang: zh-Hans
+locale: zh_CN
+timezone: Asia/Shanghai
 username: DylanWu
 # disqus_shortname: your_shortname
 repository: wuzhongyi1105/wuzhongyi1105.github.io
 github_url: https://github.com/wuzhongyi1105/wuzhongyi1105.github.io
 
-# SEO
+# SEO (jekyll-seo-tag)
+author:
+  name: Dylan Wu
+  url: https://blog.dylanwu.space/about/
+  twitter: wuzhongyi1105
 twitter:
   username: wuzhongyi1105
   card: summary
@@ -17,15 +24,19 @@ logo: /assets/icon/apple-touch-icon-180x180.png
 social:
   name: Dylan Wu
   links:
-    - https://twitter.com/wuzhongyi1105
+    - https://x.com/wuzhongyi1105
     - https://www.facebook.com/wuzhongyi1105
     - https://www.linkedin.com/in/%E4%B8%AD%E9%80%B8-%E5%90%B4-225144109
     - https://github.com/wuzhongyi1105
     - https://www.instagram.com/wuzhongyi1105
 
-gems: [jekyll-paginate, jekyll-sitemap, jekyll-seo-tag, jekyll-mentions, jemoji]
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-mentions
+  - jemoji
 
-# pagination
+# pagination (jekyll-paginate is enabled by GitHub Pages by default)
 paginate: 5
 
 # Build settings
@@ -33,10 +44,18 @@ markdown: kramdown
 # permalink: pretty
 
 jekyll-mentions:
-  base_url: https://twitter.com
+  base_url: https://x.com
 
 defaults:
   - scope:
       path: ""
     values:
       image: /assets/icon/apple-touch-icon-180x180.png
+      locale: zh_CN
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author: Dylan Wu
+      image: /assets/icon/apple-touch-icon-180x180.png
+      locale: zh_CN

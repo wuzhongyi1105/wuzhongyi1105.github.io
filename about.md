@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: 瓠樽的由来、对博客的理解，以及 Dylan Wu 的个人介绍。
 permalink: /about/
 comments: true
 ---
