@@ -1,0 +1,24 @@
+<div class="userItems">
+  {% for friend in site.data.friends %}
+    {% unless friend.enabled == false %}
+    <div class="userItem">
+      <div class="userItem--inner">
+        <div class="userItem-content">
+          <a class="link link--primary" href="{{ friend.url }}" target="_blank" rel="noopener">
+            <img height="80" width="80" src="{{ friend.avatar }}" alt="{{ friend.name | strip_html }}">
+          </a>
+          <div class="userItem-name">
+            <a class="link link--primary" href="{{ friend.url }}" target="_blank" rel="noopener" style="float: left;width: 100%;">{{ friend.name }}</a>
+            {% if friend.author_url %}
+            <span style="font-size: 10px;">by </span>
+            <a style="font-size: 10px;" href="{{ friend.author_url }}" target="_blank" rel="noopener">{{ friend.author }}</a>
+            {% else %}
+            <span style="font-size: 10px;">by {{ friend.author }}</span>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endunless %}
+  {% endfor %}
+</div>

@@ -1,0 +1,290 @@
+# 友情链接列表
+# 维护说明：新增/修改好友只需编辑本文件，页面模板会自动渲染。
+# 字段：
+#   name        - 站点名称（可含 HTML，如特殊排版）
+#   url         - 站点链接
+#   avatar      - 头像图片 URL
+#   author      - 作者显示名（可带 @）
+#   author_url  - 可选，作者主页；不填则只显示纯文本
+#   enabled     - 可选，设为 false 可暂时下线而不删除条目
+#
+
+- name: 錦瑟如灺
+  url: "https://peng.hsieh.cn/"
+  avatar: "https://secure.gravatar.com/avatar/f27d7a1f38bb902f3b0e872b73767ecd?s=420"
+  author: "@PatrickPeng"
+
+- name: 曹说春秋
+  url: "https://chunqiu.bighu.cn"
+  avatar: "https://blog.dylanwu.space/assets/friends/9136.jpg"
+  author: BigHu
+  author_url: "https://www.zhihu.com/people/cao-da-hu-zi-87/"
+
+- name: 静音失效
+  url: "https://www.muteleak.com/"
+  avatar: "https://blog.dylanwu.space/assets/friends/indes.jpg"
+  author: indes
+  author_url: "https://twitter.com/isindes"
+
+- name: YALV
+  url: "https://yalv.me/"
+  avatar: "https://secure.gravatar.com/avatar/d8217898f3f736da635403d9ca52af05?s=160&d=retro&r=g"
+  author: yalv
+  author_url: "https://t.me/zircon_lpc"
+
+- name: 森の色
+  url: "https://yumoe.com/"
+  avatar: "https://avatars2.githubusercontent.com/u/9015538?s=460&v=4"
+  author: "@txperl"
+
+- name: Hope
+  url: "http://leohope.com"
+  avatar: "https://raw.githubusercontent.com/HusterHope/blogimage/master/favicon.png"
+  author: Lhp
+  author_url: "https://leohope.com/about/"
+
+- name: ILOFT
+  url: "https://www.iloft.xyz/"
+  avatar: "https://www.iloft.xyz/logo.svg"
+  author: Solyn
+  author_url: "https://www.iloft.xyz/about/"
+
+- name: 方寸间
+  url: "https://10101.io/"
+  avatar: "https://cdn.jsdelivr.net/gh/WithdewHua/static@withdewhua-hugo/img/avatar.jpg"
+  author: WithdewHua
+  author_url: "https://10101.io/about.html"
+
+- name: 樗顾
+  url: "https://novcu.com/"
+  avatar: "https://cdn.jsdelivr.net/gh/novcu/picture/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201226145224.jpg"
+  author: 云中君
+  author_url: "https://tzcafe.com/@shanbufun"
+
+- name: 九十九封信
+  url: "https://blog.99xin.me/"
+  avatar: "https://blog.dylanwu.space/assets/friends/IMG_9851.png"
+  author: "@AihoomEason"
+
+- name: Nine-Lie
+  url: "https://nine-lie.com/"
+  avatar: "https://i1.wp.com/nine-lie.com/wp-content/uploads/2020/03/img_7417.jpg"
+  author: Lin.
+  author_url: "https://nine-lie.com/message/"
+
+- name: 且听书吟
+  url: "https://yufan.me/"
+  avatar: "https://blog.dylanwu.space/assets/friends/1034.png"
+  author: 雨帆
+  author_url: "https://weibo.com/408805507"
+
+- name: 一稿计划
+  url: "https://lastone.art/"
+  avatar: "https://s2.ax1x.com/2019/09/25/ueY4G6.png"
+  author: Luka
+  author_url: "https://lastone.art/about/"
+
+- name: Null · 一間生活
+  url: "https://ncnccn.cn/"
+  avatar: "https://ncnccn.cn/content/images/size/w256h256/2024/11/2.png"
+  author: Luka
+  author_url: "https://ncnccn.cn/about/"
+
+- name: "Rabbit's Blog"
+  url: "http://onetuzi.cn/"
+  avatar: "https://i.loli.net/2019/07/27/5d3bf538d0c1e60286.jpg"
+  author: Rabbit.
+  author_url: "https://onetuzi.cn/start-page.html"
+
+- name: 刘其然的部落格
+  url: "https://www.liuqiran.com/"
+  avatar: "https://blog.dylanwu.space/assets/friends/Uv9wCg_400x400.jpg"
+  author: "@Ai_Weikai"
+
+- name: 摩尔の镇
+  url: "https://www.mole9630.top/"
+  avatar: "https://cdn.jsdelivr.net/gh/mole9630/blog@master/image/[Avatar]mole9630.png"
+  author: "@mole9630"
+
+- name: zmmio
+  url: "http://zmmio.com/"
+  avatar: "https://blog.dylanwu.space/assets/friends/2826344702.png"
+  author: zmmio
+  author_url: "http://zmmio.com/about.html"
+
+- name: 赫赫文王
+  url: "https://kqh.me/"
+  avatar: "https://blog.dylanwu.space/assets/friends/20191005.png"
+  author: 柯棋瀚
+  author_url: "https://about.me/keqihan"
+
+- name: "Ling's Blog"
+  url: "http://linglinyp.com/"
+  avatar: "https://blog.dylanwu.space/assets/friends/avatar-ling.jpg"
+  author: Ling Lin
+  author_url: "http://linglinyp.com/about.html"
+
+- name: "Fooleap's Blog"
+  url: "https://blog.fooleap.org/"
+  avatar: "https://source.fooleap.org/avatar.jpg"
+  author: fooleap
+  author_url: "https://www.instagram.com/fooleap"
+
+- name: 林海草原
+  url: "https://lhcy.org/"
+  avatar: "https://cdn.v2ex.com/gravatar/764bd4fd6871f93ae7aa06fef9b556c0"
+  author: lhcy
+  author_url: "https://lhcy.org/links.html"
+
+- name: 木子的博客
+  url: "https://blog.k8s.li/"
+  avatar: "https://blog.k8s.li/avatar.png"
+  author: 木子
+  author_url: "https://blog.k8s.li/about.html"
+
+- name: 覺 論
+  url: "https://blog.ryouissei.com/"
+  avatar: "https://blog.dylanwu.space/assets/friends/IMG_0654.jpg"
+  author: Liang Yicheng
+  author_url: "https://ryouissei.com/"
+
+- name: KAIX.IN
+  url: "https://kaix.in/"
+  avatar: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 150 150'%3E%3Cpath fill='%23f34b4b' d='M64.755 85.391h20.49v20.54h-20.49v-20.54zm0-20.661h20.49v20.54h-20.49V64.73zm20.661 0h20.49v20.54h-20.49V64.73zm-41.322 0h20.49v20.54h-20.49V64.73zm-20.66-20.661h20.49v20.54h-20.49v-20.54zm20.66 0h20.49v20.54h-20.49v-20.54zm20.661 0h20.49v20.54h-20.49v-20.54zm20.661 0h20.49v20.54h-20.49v-20.54zm20.66 0h20.49v20.54h-20.49v-20.54zm-82.642-20.66h20.49v20.54h-20.49v-20.54zm20.66 0h20.49v20.54h-20.49v-20.54zm41.322 0h20.49v20.54h-20.49v-20.54zm41.15 0v20.54h-20.49v-20.54h20.49z'/%3E%3Cpath fill='%23900' d='M64.755 126.712h20.49v20.54h-20.49v-20.54zm20.661-20.661h20.49v20.54h-20.49v-20.54zm-41.322 0h20.49v20.54h-20.49v-20.54zm-20.66-20.66h20.49v20.54h-20.49v-20.54zm82.642 0h20.49v20.54h-20.49v-20.54zM2.773 64.73h20.49v20.54H2.773V64.73zm123.964 0h20.49v20.54h-20.49V64.73zM85.245 23.409v20.54h-20.49v-20.54h20.49z'/%3E%3Cpath fill='%23c00' d='M64.755 106.051h20.49v20.54h-20.49v-20.54zm-20.661-20.66h20.49v20.54h-20.49v-20.54zm41.322 0h20.49v20.54h-20.49v-20.54zM23.434 64.73h20.49v20.54h-20.49V64.73zm82.642 0h20.49v20.54h-20.49V64.73zm20.661-20.661h20.49v20.54h-20.49v-20.54zm-123.964 0h20.49v20.54H2.773v-20.54zm0-20.66h20.49v20.54H2.773v-20.54zm123.964 0h20.49v20.54h-20.49v-20.54zM23.434 2.748h20.49v20.54h-20.49V2.748zm20.66 0h20.49v20.54h-20.49V2.748zm41.322 0h20.49v20.54h-20.49V2.748zm41.15 0v20.54h-20.49V2.748h20.49z'/%3E%3C/svg%3E"
+  author: dimlau
+  author_url: "https://tzcafe.com/@dimlau"
+
+- name: 恶魔菌の记事簿
+  url: "https://meow3.family.blog/"
+  avatar: "https://mewfamilyblog.files.wordpress.com/2019/03/f39fd-e79fade58f91e7b4abe889b2e7b3bbe5a4b4e5838f.jpeg"
+  author: 樱井川奈
+  author_url: "http://weibo.com/6069667417/profile"
+
+- name: "BirdZhang's Blog"
+  url: "https://birdzhang.xyz"
+  avatar: "https://www.gravatar.com/avatar/72326950ba674fec08b31a0c90663fe2?s=128"
+  author: BirdZhang
+  author_url: "https://twitter.com/0312birdzhang"
+
+- name: "J<i>ose<sub>P</sub>h<sup>ilo</sup></i>"
+  url: "https://josephilo.com"
+  avatar: "https://josephilo.com/avatar.png"
+  author: Joseph Cheung
+  author_url: "https://josephilo.com/about.html"
+
+- name: 奇想齋
+  url: "https://i.nebula.moe/"
+  avatar: "https://blog.dylanwu.space/assets/friends/ReYkd1fl_400x400.jpg"
+  author: Cocoa
+  author_url: "https://i.nebula.moe/"
+
+- name: "Michaelis's Mindpalace"
+  url: "https://mindpalace.michaelis.website/"
+  avatar: "https://mindpalace.michaelis.website/me/Me.png"
+  author: 爆浆变态小米茶😼
+  author_url: "https://fedi.tesaguri.club/Michaelis"
+
+- name: 所谓自由就是生命的诅咒
+  url: "https://yinyisheng.github.io/"
+  avatar: "https://yinyisheng.github.io/images/avatar.png"
+  author: 尹亦声
+  author_url: "https://alive.bar/@yisheng"
+
+- name: "SuicaBlue's blog"
+  url: "https://suicablog.cobaltkiss.blue/"
+  avatar: "https://suicablog.cobaltkiss.blue/images/profile%20picture.png"
+  author: Suica
+  author_url: "https://cobaltkiss.blue/suica"
+
+- name: 探索子
+  url: "https://exploro.one/"
+  avatar: "https://www.gravatar.com/avatar/dfa26ed25a72c40d602d33d854dd6f07?s=192"
+  author: 夏目
+  author_url: "https://exploro.one/about"
+
+- name: 途中的树
+  url: "https://zkpeace.com/"
+  avatar: "https://blog-1253324855.cos.ap-shanghai.myqcloud.com/avatar/20210718003707.webp"
+  author: kp
+  author_url: "https://zkpeace.com/blog-cn/profile/"
+
+- name: 山月
+  url: "https://sanguok.com/"
+  avatar: "https://uploads.disquscdn.com/images/2412160f720b88e8e7fd35fb12e799de5ad521d86b164683d3ff79a20b233d78.png"
+  author: David Zheng
+  author_url: "https://twitter.com/guanchishan"
+
+- name: 糖菓·部落
+  url: "https://candinya.com/"
+  avatar: "https://cdn.jsdelivr.net/gh/Candinya/Candinya/img/candinya.webp"
+  author: 糖喵
+  author_url: "https://nya.one/@Candinya"
+
+- name: 一潭星动。
+  url: "https://jiangshanghan.art.blog/"
+  avatar: "https://seccdn.libravatar.org/avatar/d89817ce976fd96a063a66288b557f03?d=monsterid"
+  author: 江尚寒
+  author_url: "https://slashine.onl/@jiangshanghan"
+
+- name: 小球飞鱼
+  url: "https://mantyke.icu/"
+  avatar: "https://mantyke.icu/images/logo.png"
+  author: Hydrangea
+  author_url: "https://toot.mantyke.icu/@Hydrangea/"
+
+- name: fivest.one
+  url: "https://blog.fivest.one/"
+  avatar: "https://fivest.one/icon.png"
+  author: fivestone
+  author_url: "https://mastodon.fivest.one/@fivestone"
+
+- name: Foxhole
+  url: "https://blog.southfox.me"
+  avatar: "https://blog.southfox.me/favicon.png"
+  author: SouthFox
+  author_url: "https://foxsay.southfox.me/@SouthFox"
+
+- name: "./kwaa.dev"
+  url: "https://kwaa.dev/"
+  avatar: "https://kwaa.dev/assets/maskable@192.webp"
+  author: 藍+85CD
+  author_url: "https://kwaa.moe/@kwa"
+
+- name: 山茶花舍
+  url: "https://irithys.com"
+  avatar: "https://pic.imgdb.cn/item/63e38acc4757feff3372eb7e.webp"
+  author: 吕楪
+  author_url: "https://toot.irithys.com/@thy"
+
+- name: Verne in GitHub
+  url: "https://blog.einverne.info/"
+  avatar: "https://m.einverne.info/system/accounts/avatars/108/286/868/201/306/709/original/cd67301430c526b8.jpg"
+  author: einverne
+  author_url: "https://m.einverne.info/@einverne"
+
+- name: 水气掠过
+  url: "https://dilutepillow.github.io/"
+  avatar: "https://dilutepillow.github.io/images/logo.png"
+  author: DILUTEPILLOW
+  author_url: "https://dilutepillow.github.io/about/"
+
+- name: 五斤
+  url: "https://www.chairyfish.com"
+  avatar: "https://www.chairyfish.com/assets/img/logo.png"
+  author: chairyfish
+  author_url: "https://www.instagram.com/chairyfish/"
+  enabled: false
+
+- name: 今騒戯画
+  url: "https://shykana.qoto.io/"
+  avatar: "https://yinyisheng.github.io/images/avatar.png"
+  author: 𝓚𝓪𝓷𝓪𝓴𝓪𝓷𝓪𝓴𝓪nya
+  author_url: "https://wuppo.allowed.org/ShyKana"
+  enabled: false
+
+- name: dogcraft
+  url: "https://dogcraft.top"
+  avatar: "https://www.dogcraft.top/avatar.jpg"
+  author: dogcraft
+  author_url: "https://m.dogcraft.top/@dogcraft"
+  enabled: false
