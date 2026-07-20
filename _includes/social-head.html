@@ -4,11 +4,13 @@
     <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     {% seo title=false %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-title" content="瓠樽">
 	<meta name="apple-mobile-web-app-status-bar-style" content="default">
-	<meta name="theme-color" content="#ffffff">
-	<link rel="manifest" href="{{ site.baseurl }}/manifest.json">
+	<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+	<meta name="theme-color" content="#1a1a1a" media="(prefers-color-scheme: dark)">
+	<link rel="manifest" href="{{ "/manifest.json" | absolute_url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | absolute_url }}">
     <link rel="shortcut icon" href="{{ site.baseurl }}/assets/icon/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/icon/apple-touch-icon.png" />

@@ -1,39 +1,40 @@
 {
+  "id": "/",
   "name": "瓠樽",
   "short_name": "瓠樽",
-  "description": "DylanWu's blog app.",
-  "start_url": ".",
+  "description": "以瓠為樽而浮乎江湖 — Dylan Wu 的個人博客",
+  "lang": "zh-Hans",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#fff",
-  "theme_color": "#e8e8e8",
-
-  "icons": [{
-    "src": "assets/icon/apple-touch-icon-16x16.png",
-    "sizes": "16x16",
-    "type": "image/png"
-  }, {
-    "src": "assets/icon/apple-touch-icon-32x32.png",
-    "sizes": "32x32",
-    "type": "image/png"
-  }, {
-    "src": "assets/icon/apple-touch-icon-72x72.png",
-    "sizes": "72x72",
-    "type": "image/png"
-  }, {
-    "src": "assets/icon/apple-touch-icon-152x152.png",
-    "sizes": "152x152",
-    "type": "image/png"
-  }, {
-    "src": "assets/icon/apple-touch-icon-192x192.png",
-    "sizes": "192x192",
-    "type": "image/png"
-  }, {
-    "src": "assets/icon/apple-touch-icon-256x256.png",
-    "sizes": "256x256",
-    "type": "image/png"
-  }, {
-    "src": "assets/icon/apple-touch-icon-512x512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }]
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/assets/icon/apple-touch-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icon/apple-touch-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icon/apple-touch-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/assets/icon/apple-touch-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
 }
