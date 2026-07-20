@@ -4,7 +4,7 @@ layout: null
 /* OneSignal: keep this import so push can share the custom worker. */
 importScripts('https://cdn.onesignal.com/sdks/OneSignalSDKWorker.js');
 
-const VERSION = '{{ site.time | date: "%Y%m%d%H%M%S" }}';
+const VERSION = '{{ site.pwa_version | default: "1" }}';
 const SHELL_CACHE = 'huzun-shell-' + VERSION;
 const RUNTIME_CACHE = 'huzun-runtime-' + VERSION;
 const OFFLINE_URL = '/offline.html';
@@ -148,13 +148,9 @@ async function cacheFirst(request) {
 }
 
 self.addEventListener('install', (event) => {
-  event.waitUntil(precacheShell());
-});
-
-self.addEventListener('message', (event) => {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
-  }
+  event.waitUntil(
+    precacheShell().then(() => self.skipWaiting())
+  );
 });
 
 self.addEventListener('activate', (event) => {
@@ -173,6 +169,9 @@ self.addEventListener('fetch', (event) => {
   } catch (err) {
     return;
   }
+
+  // Never intercept the worker or manifest — avoids broken update checks in Chrome.
+  if (url.pathname === '/service-worker.js' || url.pathname === '/manifest.json') return;
 
   // Let the browser / OneSignal handle cross-origin and analytics traffic.
   if (!isSameOrigin(url) || shouldBypass(url)) return;

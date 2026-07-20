@@ -36,6 +36,9 @@ plugins:
   - jekyll-mentions
   - jemoji
 
+# PWA: bump only when cache / service worker logic changes (not every build)
+pwa_version: "1"
+
 # pagination (jekyll-paginate is enabled by GitHub Pages by default)
 paginate: 5
 
